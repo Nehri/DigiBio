@@ -1,0 +1,28 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r2mga
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0001 GLN A    8    CA     N      H      H GLU A    4    CA     O      C      H 2.88 2.06 158.86 145.05 139.93  18   0
+HB_0002 SER A   35    CA     N      H      H ARG A   31    CA     O      C      H 2.91 2.06 168.97 167.63 166.14  18   0
+HB_0003 LYS A   63    CA     N      H      H GLU A   59    CA     O      C      H 3.14 2.30 163.97 144.51 141.00  13   0
+HB_0004 THR A   67    CA     N      H      H LYS A   63    CA     O      C      H 3.16 2.32 166.19 153.75 151.70  17   0
+HB_0005 THR A   70    CA     N      H      H VAL A   66    CA     O      C      H 2.78 1.93 169.50 151.42 148.74  17   0
+HB_0006 ALA A   71    CA     N      H      H THR A   67    CA     O      C      H 2.99 2.15 164.71 145.73 142.47  16   0
+HB_0007 HIS A   81    CA     N      H        LYS A   78    CA     O      C        3.06 2.21 169.57 116.04 114.34  12   0
+HB_0008 SER A   92    CA     N      H      H PRO A   88    CA     O      C      H 3.04 2.20 165.26 144.91 144.36  17   0
+HB_0009 LYS A   96    CA     N      H        SER A   92    CA     O      C      H 2.70 1.97 143.07 131.11 120.88  13   0
+HB_0010 HIS A   97    CA     N      H        SER A   92    CA     O      C      H 2.75 1.93 158.56 160.64 154.28  17   0
+HB_0011 HIS A  113    CA     N      H      H GLU A  109    CA     O      C      H 2.93 2.11 159.00 154.07 148.57  18   0
+HB_0012 SER A  117    CA     N      H      H HIS A  113    CA     O      C      H 2.96 2.16 154.45 154.60 149.71  16   0
+HB_0013 ARG A  118    CA     N      H      H VAL A  114    CA     O      C      H 2.83 1.98 166.28 154.30 151.23  16   0
+HB_0014 ASN A  122    CA     N      H        HIS A  119    CA     O      C        3.11 2.33 150.50 119.06 111.55  16   0
+HB_0015 GLY A  129    CA     N      H      H ALA A  125    CA     O      C      H 2.81 1.98 160.56 159.40 154.28   9   0
+HB_0016 LYS A  133    CA     N      H      H GLY A  129    CA     O      C      H 3.01 2.17 166.25 149.05 145.78  18   0
+HB_0017 GLU A  148    CA     N      H      H ALA A  144    CA     O      C      H 3.26 2.49 150.32 141.80 135.23  16   0

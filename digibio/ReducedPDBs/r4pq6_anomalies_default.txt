@@ -1,0 +1,7 @@
+WRAPPA OUTPUT: ANOMALIES
+PDB NAME:      r4pq6
+DATE:          2016/05/22
+
+
+
+***No anomalies found***

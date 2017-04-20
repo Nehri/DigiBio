@@ -1,0 +1,28 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r2w72
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0028 ALA C   12    CA     N      H      H THR C    8    CA     O      C      H 3.01 2.21 155.73 155.51 150.29  16   5
+HB_0029 GLY C   15    CA     N      H      H LYS C   11    CA     O      C      H 2.88 2.09 153.60 144.88 137.50  18   0
+HB_0030 LYS C   16    CA     N      H      H ALA C   12    CA     O      C      H 2.96 2.17 152.73 150.00 144.71  18   2
+HB_0031 SER C   52    CA     N      H      H SER C   49    CA  A  O      C        3.10 2.29 157.23 134.73 139.13  17  11
+HB_0032 SER C   52    CA     N      H      H SER C   49    CA  B  O      C        3.10 2.29 157.23 134.73 139.13  17  11
+HB_0033 ASP C   64    CA  A  N      H   A  H LYS C   60    CA  A  O      C      H 2.86 2.04 161.27 153.29 149.94  17   9
+HB_0034 ASP C   64    CA  B  N      H   A  H LYS C   60    CA  A  O      C      H 2.86 2.04 161.27 153.29 149.94  17   9
+HB_0035 ASP C   64    CA  A  N      H   A  H LYS C   60    CA  B  O      C      H 2.86 2.04 161.27 153.29 149.94  17   9
+HB_0036 ASP C   64    CA  B  N      H   A  H LYS C   60    CA  B  O      C      H 2.86 2.04 161.27 153.29 149.94  17   9
+HB_0037 ASP C   64    CA  A  N      H   B  H LYS C   60    CA  A  O      C      H 2.86 2.03 162.78 153.29 149.96  17   9
+HB_0038 ASP C   64    CA  B  N      H   B  H LYS C   60    CA  A  O      C      H 2.86 2.03 162.78 153.29 149.96  17   9
+HB_0039 ASP C   64    CA  A  N      H   B  H LYS C   60    CA  B  O      C      H 2.86 2.03 162.78 153.29 149.96  17   9
+HB_0040 ASP C   64    CA  B  N      H   B  H LYS C   60    CA  B  O      C      H 2.86 2.03 162.78 153.29 149.96  17   9
+HB_0041 ASN C   68    CA     N      H      H ASP C   64    CA  A  O      C      H 2.94 2.12 160.85 151.60 147.92  15   5
+HB_0042 ASN C   68    CA     N      H      H ASP C   64    CA  B  O      C      H 2.94 2.12 160.85 151.60 147.92  15   5
+HB_0043 ALA C  130    CA     N      H      H ASP C  126    CA     O      C      H 2.98 2.16 161.22 154.46 149.93  18   4
+HB_0044 THR C  134    CA     N      H      H ALA C  130    CA     O      C      H 2.87 2.06 158.87 152.53 148.17  12   2

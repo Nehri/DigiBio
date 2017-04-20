@@ -1,0 +1,23 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r2mhb
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0015 ALA B   13    CA     N      H      H ALA B    9    CA     O      C      H 3.20 2.42 151.56 139.48 133.51  15   0
+HB_0016 GLY B   46    CA     N      H        ASP B   43    CA     O      C        3.12 2.26 174.56 124.91 123.48  11   0
+HB_0017 ALA B   53    CA     N      H      H ASN B   50    CA     O      C      H 2.79 2.23 122.84 140.42 127.97  11   0
+HB_0018 GLY B   56    CA     N      H      H GLY B   52    CA     O      C      H 3.15 2.42 143.68 145.01 136.74  10   0
+HB_0019 LYS B   61    CA     N      H      H ASN B   57    CA     O      C      H 3.08 2.32 147.39 156.82 148.46  16   0
+HB_0020 ALA B   62    CA     N      H      H PRO B   58    CA     O      C      H 3.01 2.23 151.74 139.96 133.55  17   0
+HB_0021 ASN B   80    CA     N      H        HIS B   77    CA     O      C        2.96 2.12 163.35 129.71 125.43  15   0
+HB_0022 THR B   84    CA     N      H        ASN B   80    CA     O      C        3.08 2.32 147.41 155.17 147.84  18   0
+HB_0023 GLU B   90    CA     N      H      H ALA B   86    CA     O      C      H 3.21 2.45 147.66 153.68 147.72  16   0
+HB_0024 ASP B   94    CA     N      H      H GLU B   90    CA     O      C      H 2.95 2.27 136.36 143.75 134.14  12   0
+HB_0025 ASP B  121    CA     N      H        PHE B  118    CA     O      C        3.12 2.32 155.00 133.23 134.97  17   0
+HB_0026 ASN B  139    CA     N      H      H ALA B  135    CA     O      C      H 3.00 2.22 149.92 153.90 148.11  12   0

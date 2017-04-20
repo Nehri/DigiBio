@@ -1,0 +1,24 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r2ef2
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0001 SER A   35    CA     N      H      H ARG A   31    CA     O      C      H 2.87 2.04 161.29 151.51 146.49  15   0
+HB_0002 ALA A   57    CA     N      H      H ALA A   53    CA     O      C      H 3.07 2.38 137.67 152.08 142.19  11   0
+HB_0003 LYS A   63    CA     N      H      H GLU A   59    CA     O      C      H 2.88 2.03 168.96 154.94 152.60  14   0
+HB_0004 THR A   67    CA     N      H      H LYS A   63    CA     O      C      H 3.15 2.36 153.60 151.11 145.32  17   0
+HB_0005 THR A   70    CA     N      H      H VAL A   66    CA     O      C      H 2.90 2.09 156.46 158.18 152.43  15   0
+HB_0006 GLY A   71    CA     N      H      H THR A   67    CA     O      C      H 3.02 2.19 162.00 159.02 155.38  18   0
+HB_0007 HIS A   81    CA     N      H        LYS A   78    CA     O      C      H 3.05 2.20 168.27 117.04 117.13  11   0
+HB_0008 SER A   92    CA     N      H      H PRO A   88    CA     O      C      H 3.12 2.29 160.13 162.97 158.25  13   0
+HB_0009 THR A   95    CA     N      H      H GLN A   91    CA     O      C      H 3.03 2.17 176.03 145.35 144.30  13   0
+HB_0010 HIS A  113    CA     N      H      H GLU A  109    CA     O      C      H 2.92 2.08 164.50 155.49 151.49  17   0
+HB_0011 SER A  117    CA     N      H      H HIS A  113    CA     O      C      H 2.89 2.05 165.69 159.22 155.41  16   0
+HB_0012 GLY A  129    CA     N      H      H ALA A  125    CA     O      C      H 2.88 2.05 164.19 145.79 141.35  14   6
+HB_0013 ALA A  144    CA     N      H      H LYS A  140    CA     O      C      H 2.92 2.11 157.51 147.65 142.68  18   0

@@ -1,0 +1,22 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r1x9f
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0048 ASP E   20    CA     N      H      H HIS E   17    CA     O      C      H 3.10 2.48 129.73 126.60 117.43  14   0
+HB_0049 SER E   63    CA     N      H        GLU E   60    CA     O      C        2.87 2.12 145.38 130.08 133.30  18   0
+HB_0050 GLY E   95    CA     N      H      H SER E   92    CA     O      C      H 3.04 2.44 127.57 121.51 111.15  15   0
+HB_0051 ASP E   99    CA     N      H      H GLY E   95    CA     O      C      H 2.96 2.15 155.92 150.87 146.90  16   0
+HB_0052 GLN E  100    CA     N      H      H HIS E   96    CA     O      C      H 3.02 2.23 153.94 153.81 148.16  15   0
+HB_0053 GLU E  117    CA     N      H      H ARG E  113    CA     O      C      H 3.04 2.29 145.83 153.51 145.38  16   0
+HB_0054 ARG E  121    CA     N      H      H GLU E  117    CA     O      C      H 3.05 2.37 137.41 148.95 139.87  13   0
+HB_0055 ARG E  137    CA     N      H      H ASP E  133    CA     O      C      H 2.95 2.15 155.89 156.16 150.46  17   0
+HB_0056 ARG E  141    CA     N      H      H ARG E  137    CA     O      C      H 3.26 2.46 155.29 146.24 140.57  17   0
+HB_0057 ALA E  144    CA     N      H      H HIS E  140    CA     O      C      H 2.69 1.90 153.69 153.89 147.62  18   0
+

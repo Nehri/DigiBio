@@ -1,0 +1,11 @@
+File		Reduced		Nonreduced		NS Reduced		NS Nonreduced		Expected
+
+
+1MBA		17				0				70				0					0	
+1ECA		19				0				67				0					4
+1MYT		22				0				80				0					8
+1LHT		19				0				85				0					11
+1MBS		17				0				65				0					16
+1BZ6		7				0				81				0					11
+1DWR		21				0				81				0					14	
+1MWC		34				0				162				0					12

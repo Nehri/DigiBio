@@ -1,0 +1,111 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r3wyo
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0001 GLN A    8    CA     N      H      H ASP A    4    CA     O      C      H 2.99 2.18 158.78 151.82 147.16  16   0
+HB_0002 GLN A    9    CA     N      H      H GLY A    5    CA     O      C      H 2.99 2.18 158.08 154.71 150.41  17   0
+HB_0003 ASN A   12    CA     N      H      H GLN A    8    CA     O      C      H 2.81 1.97 163.56 155.51 150.97  17   0
+HB_0004 ALA A   19    CA     N      H      H GLY A   15    CA     O      C      H 3.09 2.42 135.26 149.57 140.53  12   0
+HB_0005 GLY A   35    CA     N      H      H ARG A   31    CA     O      C      H 3.07 2.22 166.49 150.49 147.49  18   0
+HB_0006 ALA A   57    CA     N      H      H ALA A   53    CA     O      C      H 3.05 2.32 142.15 151.09 144.01  11   0
+HB_0007 LYS A   63    CA     N      H      H GLU A   59    CA     O      C      H 3.04 2.20 164.41 153.37 149.50  16   0
+HB_0008 VAL A   67    CA     N      H      H LYS A   63    CA     O      C      H 3.06 2.21 168.51 157.62 156.95  18   0
+HB_0009 THR A   70    CA     N      H      H THR A   66    CA     O      C      H 2.82 1.97 169.59 163.58 160.74  17   0
+HB_0010 ALA A   71    CA     N      H      H VAL A   67    CA     O      C      H 3.05 2.19 174.84 151.43 150.05  15   0
+HB_0011 LYS A   78    CA     N      H      H GLY A   74    CA     O      C      H 2.97 2.11 173.79 156.85 156.24  16   2
+HB_0012 HIS A   82    CA     N      H   A  H LYS A   78    CA     O      C      H 2.87 2.01 171.06 154.31 152.52  17   2
+HB_0013 HIS A   82    CA     N      H   B  H LYS A   78    CA     O      C      H 2.87 2.01 171.75 154.31 152.67  17   2
+HB_0014 SER A   92    CA     N      H      H PRO A   88    CA     O      C      H 3.02 2.17 167.97 158.80 159.68  15   0
+HB_0015 LYS A   96    CA     N      H      H SER A   92    CA     O      C      H 2.92 2.17 144.56 134.33 124.63  12   0
+HB_0016 HIS A   97    CA     N      H        SER A   92    CA     O      C      H 2.81 1.97 163.21 163.78 158.85  17   0
+HB_0017 HIS A  113    CA     N      H      H ASP A  109    CA     O      C      H 2.87 2.04 160.92 154.08 149.70  14   0
+HB_0018 SER A  117    CA     N      H      H HIS A  113    CA     O      C      H 2.91 2.11 154.78 154.80 148.44  15   0
+HB_0019 LYS A  118    CA     N      H      H VAL A  114    CA     O      C      H 2.83 2.02 156.61 159.34 154.95  17   0
+HB_0020 ASP A  122    CA     N      H        HIS A  119    CA     O      C      H 2.98 2.18 153.08 124.78 117.65  10   0
+HB_0021 GLN A  128    CA     N      H      H GLY A  124    CA     O      C      H 2.84 2.00 166.65 167.92 164.19  17   0
+HB_0022 GLY A  129    CA     N      H      H ALA A  125    CA     O      C      H 2.83 2.02 157.62 157.10 151.87  11   0
+HB_0023 GLU A  148    CA     N      H      H ALA A  144    CA     O      C      H 3.14 2.33 155.61 152.75 148.50  16   0
+HB_0024 GLY A  150    CA     N      H        LYS A  147    CA     O      C      H 3.04 2.19 169.49 113.62 111.26  14   0
+HB_0025 GLN B    8    CA     N      H      H ASP B    4    CA     O      C      H 3.01 2.20 158.09 152.05 147.30  15   0
+HB_0026 GLN B    9    CA     N      H      H GLY B    5    CA     O      C      H 3.04 2.24 154.63 153.05 147.84  17   0
+HB_0027 ASN B   12    CA     N      H      H GLN B    8    CA     O      C      H 2.87 2.05 159.14 152.85 147.32  17   0
+HB_0028 GLY B   35    CA     N      H      H ARG B   31    CA     O      C      H 3.04 2.20 164.93 150.91 147.14  13   0
+HB_0029 ALA B   57    CA     N      H      H ALA B   53    CA     O      C      H 3.15 2.43 141.93 148.83 141.87  12   0
+HB_0030 LYS B   63    CA     N      H      H GLU B   59    CA     O      C      H 2.96 2.13 161.53 155.01 150.72  14   0
+HB_0031 VAL B   67    CA     N      H      H LYS B   63    CA     O      C      H 3.04 2.20 167.63 159.88 158.52  18   0
+HB_0032 THR B   70    CA     N      H      H THR B   66    CA     O      C      H 2.85 2.01 164.35 162.37 158.42  17   0
+HB_0033 ALA B   71    CA     N      H      H VAL B   67    CA     O      C      H 3.03 2.18 170.09 150.52 148.18  16   0
+HB_0034 GLU B   78    CA     N      H      H GLY B   74    CA     O      C      H 2.91 2.06 170.99 155.98 154.16  13   0
+HB_0035 HIS B   82    CA     N      H      H GLU B   78    CA     O      C      H 2.87 2.01 171.81 154.05 152.52  13   0
+HB_0036 GLU B   83    CA     N      H      H ASP B   79    CA     O      C      H 2.87 2.02 167.52 162.48 160.40  18   0
+HB_0037 GLU B   85    CA     N      H      H HIS B   82    CA     O      C      H 3.06 2.22 164.74 117.41 113.21  17   0
+HB_0038 LYS B   87    CA     N      H      H ALA B   84    CA     O      C      H 3.12 2.27 171.13 122.77 120.55  18   0
+HB_0039 SER B   92    CA     N      H      H PRO B   88    CA     O      C      H 2.99 2.15 167.46 158.16 158.13  15   0
+HB_0040 LYS B   96    CA     N      H      H SER B   92    CA     O      C      H 2.88 2.14 144.31 136.08 126.19  12   0
+HB_0041 HIS B   97    CA     N      H        SER B   92    CA     O      C      H 2.79 1.96 162.05 161.38 156.00  16   0
+HB_0042 LYS B   98    CA     N      H        HIS B   93    CA     O      C      H 2.86 2.37 117.03 135.73 121.51  18   0
+HB_0043 HIS B  113    CA     N      H      H ASP B  109    CA     O      C      H 2.88 2.06 159.70 154.80 150.09  17   0
+HB_0044 SER B  117    CA     N      H      H HIS B  113    CA     O      C      H 2.96 2.17 153.98 154.63 148.36  16   0
+HB_0045 LYS B  118    CA     N      H      H VAL B  114    CA     O      C      H 2.84 2.01 160.34 159.53 155.82  18   0
+HB_0046 ASP B  122    CA     N      H        HIS B  119    CA     O      C      H 2.96 2.15 157.25 127.75 121.64  10   0
+HB_0047 GLN B  128    CA     N      H      H GLY B  124    CA     O      C      H 2.85 2.01 162.48 166.11 161.32  18   0
+HB_0048 GLY B  129    CA     N      H      H ALA B  125    CA     O      C      H 2.81 2.00 156.75 157.26 151.67   9   0
+HB_0049 ALA B  144    CA     N      H      H ASN B  140    CA     O      C      H 2.99 2.20 153.40 150.24 145.06  18   0
+HB_0050 GLU B  148    CA     N      H      H ALA B  144    CA     O      C      H 3.15 2.35 153.93 153.04 148.08  17   0
+HB_0051 GLN C    8    CA     N      H      H ASP C    4    CA     O      C      H 2.91 2.09 159.17 153.17 148.77  18   0
+HB_0052 GLN C    9    CA     N      H      H GLY C    5    CA     O      C      H 3.01 2.20 157.72 152.41 148.65  17   0
+HB_0053 ASN C   12    CA     N      H      H GLN C    8    CA     O      C      H 2.81 1.98 160.13 154.96 150.01  16   0
+HB_0054 ALA C   19    CA     N      H      H GLY C   15    CA     O      C      H 3.10 2.41 137.34 147.50 139.33  13   0
+HB_0055 GLY C   35    CA     N      H      H ARG C   31    CA     O      C      H 3.08 2.24 164.44 150.53 146.77  13   0
+HB_0056 ALA C   57    CA     N      H      H ALA C   53    CA     O      C      H 3.04 2.39 132.34 148.27 139.52  11   0
+HB_0057 LYS C   63    CA     N      H      H GLU C   59    CA     O      C      H 2.96 2.16 155.48 150.81 145.23  17   0
+HB_0058 VAL C   67    CA     N      H      H LYS C   63    CA     O      C      H 3.05 2.20 166.23 156.86 155.20  18   0
+HB_0059 THR C   70    CA     N      H      H THR C   66    CA     O      C      H 2.85 2.01 167.30 163.82 160.53  17   0
+HB_0060 ALA C   71    CA     N      H      H VAL C   67    CA     O      C      H 3.08 2.23 173.70 150.54 148.80  14   0
+HB_0061 LYS C   78    CA     N      H      H GLY C   74    CA     O      C      H 2.97 2.12 170.07 156.33 154.40  15   0
+HB_0062 HIS C   82    CA     N      H      H LYS C   78    CA     O      C      H 2.88 2.03 171.28 157.15 155.24  16   0
+HB_0063 LYS C   85    CA     N      H      H HIS C   82    CA     O      C      H 3.06 2.22 165.30 116.63 112.55  16   0
+HB_0064 SER C   92    CA     N      H      H PRO C   88    CA     O      C      H 2.97 2.12 167.70 160.13 160.71  16   0
+HB_0065 LYS C   96    CA     N      H      H SER C   92    CA     O      C      H 2.89 2.15 143.15 134.07 123.86  12   0
+HB_0066 HIS C   97    CA     N      H        SER C   92    CA     O      C      H 2.79 1.95 163.56 163.94 159.07  16   0
+HB_0067 LYS C   98    CA     N      H        HIS C   93    CA     O      C      H 2.90 2.45 113.14 137.67 123.22  17   0
+HB_0068 HIS C  113    CA     N      H      H ASP C  109    CA     O      C      H 2.88 2.06 158.93 153.53 148.48  16   0
+HB_0069 SER C  117    CA     N      H      H HIS C  113    CA     O      C      H 2.90 2.08 157.54 154.21 148.78  17   0
+HB_0070 GLN C  128    CA     N      H      H GLY C  124    CA     O      C      H 2.84 2.00 168.43 167.84 164.55  17   0
+HB_0071 GLY C  129    CA     N      H      H ALA C  125    CA     O      C      H 2.82 1.99 160.04 157.80 153.53  11   0
+HB_0072 GLU C  148    CA     N      H      H ALA C  144    CA     O      C      H 3.07 2.28 153.65 152.86 147.71  16   0
+HB_0073 GLN D    8    CA     N      H      H ASP D    4    CA     O      C      H 2.98 2.19 154.21 151.94 146.23  17   0
+HB_0074 GLN D    9    CA     N      H      H GLY D    5    CA     O      C      H 3.07 2.26 157.49 153.59 149.82  17   0
+HB_0075 ASN D   12    CA     N      H      H GLN D    8    CA     O      C      H 2.77 1.95 159.03 155.32 149.95  17   0
+HB_0076 ALA D   19    CA     N      H   A  H GLY D   15    CA     O      C      H 3.07 2.40 135.60 147.07 137.93  15   4
+HB_0077 ALA D   19    CA     N      H   B  H GLY D   15    CA     O      C      H 3.07 2.34 143.96 147.07 139.85  15   4
+HB_0078 GLY D   35    CA     N      H      H ARG D   31    CA     O      C      H 3.04 2.20 164.51 150.29 146.77  13   0
+HB_0079 ALA D   57    CA     N      H      H ALA D   53    CA     O      C      H 3.04 2.34 138.00 147.68 139.95  12   0
+HB_0080 LYS D   63    CA     N      H      H GLU D   59    CA     O      C      H 2.95 2.14 156.89 154.04 148.37  14   0
+HB_0081 THR D   70    CA     N      H      H THR D   66    CA     O      C      H 2.83 1.99 168.67 161.99 159.06  17   0
+HB_0082 ALA D   71    CA     N      H      H VAL D   67    CA     O      C      H 3.05 2.19 174.01 149.67 148.08  17   0
+HB_0083 GLU D   78    CA     N      H      H GLY D   74    CA     O      C      H 3.00 2.15 168.58 154.38 152.18  13   0
+HB_0084 HIS D   82    CA     N      H      H GLU D   78    CA     O      C      H 2.88 2.03 168.16 155.54 152.90  13   0
+HB_0085 GLU D   83    CA     N      H      H ASP D   79    CA     O      C      H 2.86 2.02 165.42 163.58 161.07  18   0
+HB_0086 GLU D   85    CA     N      H      H HIS D   82    CA     O      C      H 3.04 2.20 167.04 117.94 114.30  15   0
+HB_0087 SER D   92    CA     N      H      H PRO D   88    CA     O      C      H 2.98 2.13 167.79 160.10 160.99  16   0
+HB_0088 LYS D   96    CA     N      H      H SER D   92    CA     O      C      H 2.91 2.18 142.36 134.31 124.00  12   0
+HB_0089 HIS D   97    CA     N      H        SER D   92    CA     O      C      H 2.78 1.95 162.80 162.81 157.70  15   0
+HB_0090 HIS D  113    CA     N      H      H ASP D  109    CA     O      C      H 2.82 2.01 157.33 153.74 148.15  16   0
+HB_0091 SER D  117    CA     N      H      H HIS D  113    CA     O      C      H 2.91 2.11 155.81 153.62 147.76  17   0
+HB_0092 LYS D  118    CA     N      H      H VAL D  114    CA     O      C      H 2.83 2.01 157.43 159.84 155.46  16   0
+HB_0093 ASP D  122    CA     N      H      H HIS D  119    CA     O      C      H 3.01 2.17 163.95 127.75 123.25  16   0
+HB_0094 PHE D  123    CA     N      H      H PRO D  120    CA     O      C      H 3.06 2.25 157.26 114.33 114.87  16   0
+HB_0095 GLN D  128    CA     N      H      H GLY D  124    CA     O      C      H 2.83 1.98 167.56 167.27 163.92  17   0
+HB_0096 GLY D  129    CA     N      H      H ALA D  125    CA     O      C      H 2.79 1.96 162.32 158.70 154.44  11   0
+HB_0097 ASN D  140    CA     N      H      H GLU D  136    CA     O      C      H 2.88 2.04 165.25 157.50 154.38  17   0
+HB_0098 ALA D  144    CA     N      H      H ASN D  140    CA     O      C      H 2.94 2.13 158.06 149.95 146.17  18   0
+HB_0099 GLU D  148    CA     N      H      H ALA D  144    CA     O      C      H 3.02 2.22 155.48 152.09 147.54  16   0
+HB_0100 GLY D  150    CA     N      H        LYS D  147    CA     O      C      H 3.04 2.19 169.11 114.39 112.52  13   0

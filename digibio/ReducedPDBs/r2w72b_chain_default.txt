@@ -1,0 +1,30 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r2w72
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0009 ALA B   13    CA     N      H      H SER B    9    CA  A  O      C      H 2.93 2.10 164.49 152.09 147.97  15   7
+HB_0010 ALA B   13    CA     N      H      H SER B    9    CA  B  O      C      H 2.93 2.10 164.49 152.09 147.97  16   8
+HB_0011 GLY B   16    CA     N      H      H THR B   12    CA  B  O      C      H 3.13 2.36 149.83 155.36 152.58  18   4
+HB_0012 GLY B   56    CA     N      H      H ASP B   52    CA  A  O      C      H 3.01 2.24 150.57 149.49 143.42  13   6
+HB_0013 GLY B   56    CA     N      H      H ASP B   52    CA  B  O      C      H 3.01 2.24 150.57 149.49 143.42  13   6
+HB_0014 ASP B   73    CA     N      H      H GLY B   69    CA     O      C      H 2.96 2.16 156.75 150.24 145.55  18  10
+HB_0015 ALA B   76    CA     N      H        ASP B   73    CA     O      C      H 3.19 2.34 167.73 121.66 118.38  14   7
+HB_0016 ASN B   80    CA  A  N      H   A  H HIS B   77    CA  A  O      C        2.85 2.01 167.01 128.76 125.13  18   8
+HB_0017 ASN B   80    CA  B  N      H   A  H HIS B   77    CA  A  O      C        2.85 2.01 167.01 128.76 125.13  17   8
+HB_0018 ASN B   80    CA  A  N      H   A  H HIS B   77    CA  B  O      C        2.85 2.01 167.01 128.76 125.13  18   8
+HB_0019 ASN B   80    CA  B  N      H   A  H HIS B   77    CA  B  O      C        2.85 2.01 167.01 128.76 125.13  17   8
+HB_0020 ASN B   80    CA  A  N      H   B  H HIS B   77    CA  A  O      C        2.85 2.00 168.02 128.76 126.53  18   8
+HB_0021 ASN B   80    CA  B  N      H   B  H HIS B   77    CA  A  O      C        2.85 2.00 168.02 128.76 126.53  17   8
+HB_0022 ASN B   80    CA  A  N      H   B  H HIS B   77    CA  B  O      C        2.85 2.00 168.02 128.76 126.53  18   8
+HB_0023 ASN B   80    CA  B  N      H   B  H HIS B   77    CA  B  O      C        2.85 2.00 168.02 128.76 126.53  17   8
+HB_0024 ASN B  139    CA  A  N      H   A  H ALA B  135    CA     O      C      H 2.90 2.07 163.00 152.77 148.87  18  10
+HB_0025 ASN B  139    CA  B  N      H   A  H ALA B  135    CA     O      C      H 2.90 2.07 163.00 152.77 148.87  18  10
+HB_0026 ASN B  139    CA  A  N      H   B  H ALA B  135    CA     O      C      H 2.90 2.07 162.21 152.77 148.65  18  10
+HB_0027 ASN B  139    CA  B  N      H   B  H ALA B  135    CA     O      C      H 2.90 2.07 162.21 152.77 148.65  18  10

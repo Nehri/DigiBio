@@ -1,0 +1,309 @@
+WRAPPA OUTPUT: WRAPPERS
+PDB NAME:      r1mz0
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------WRAPPER---------- ---------DDS---------- ---------ADS---------- 
+     ID   #  W   * Res C  Seq I SS  DSC * Res C  Seq I SS  DSC * Res C  Seq I SS 
+--------------------------------------------------------------------------------
+HB_0001   1  CB    ASP A   20   HH  CA    ALA A   19                             
+HB_0001   2  CG2 B VAL A   21   HH  CA    ALA A   19                             
+HB_0001   3  CB    GLU A   18   HH  CA    ALA A   19       CA    LYS A   16   HH 
+HB_0001   4  CG    GLU A   18   HH  CA    ALA A   19       CA    LYS A   16   HH 
+HB_0001   5  CB    ALA A   19       CA    ALA A   19       CA    LYS A   16   HH 
+HB_0001   6  CB    VAL A   13   HH                         CA    LYS A   16   HH 
+HB_0001   7  CG2   VAL A   13   HH                         CA    LYS A   16   HH 
+HB_0001   8  CB    ALA A   15   HH                         CA    LYS A   16   HH 
+HB_0001   9  CB    LYS A   16   HH                         CA    LYS A   16   HH 
+HB_0001  10  CG    LYS A   16   HH                         CA    LYS A   16   HH 
+HB_0001  11  CD    LYS A   16   HH                         CA    LYS A   16   HH 
+HB_0001  12  CB    VAL A   17   HH                         CA    LYS A   16   HH 
+HB_0001  13  CG1   VAL A   17   HH                         CA    LYS A   16   HH 
+HB_0001  14  CG2   VAL A   17   HH                         CA    LYS A   16   HH 
+HB_0002   1  CB    HIS A   36   HH  CA    SER A   35   HH                        
+HB_0002   2  CG    PRO A   37   HH  CA    SER A   35   HH                        
+HB_0002   3  CG  A ARG A   31   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0002   4  CG  B ARG A   31   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0002   5  CB    LYS A   34   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0002   6  CG    LYS A   34   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0002   7  CB    ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0002   8  CG1   ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0002   9  CG2   ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0002  10  CB  A ARG A   31   HH                         CA  A ARG A   31   HH 
+HB_0002  11  CB  B ARG A   31   HH                         CA  A ARG A   31   HH 
+HB_0002  12  CB    LEU A   32   HH                         CA  A ARG A   31   HH 
+HB_0002  13  CG    LEU A   32   HH                         CA  A ARG A   31   HH 
+HB_0002  14  CB    PHE A   33   HH                         CA  A ARG A   31   HH 
+HB_0002  15  CD    LYS A   34   HH                         CA  A ARG A   31   HH 
+HB_0002  16  CB    ALA A  110   HH                         CA  A ARG A   31   HH 
+HB_0002  17  CG2   VAL A  114   HH                         CA  A ARG A   31   HH 
+HB_0003   1  CB    HIS A   36   HH  CA    SER A   35   HH                        
+HB_0003   2  CG    PRO A   37   HH  CA    SER A   35   HH                        
+HB_0003   3  CG  A ARG A   31   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0003   4  CG  B ARG A   31   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0003   5  CB    LYS A   34   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0003   6  CG    LYS A   34   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0003   7  CB    ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0003   8  CG1   ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0003   9  CG2   ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0003  10  CB  A ARG A   31   HH                         CA  B ARG A   31   HH 
+HB_0003  11  CB  B ARG A   31   HH                         CA  B ARG A   31   HH 
+HB_0003  12  CB    LEU A   32   HH                         CA  B ARG A   31   HH 
+HB_0003  13  CG    LEU A   32   HH                         CA  B ARG A   31   HH 
+HB_0003  14  CB    PHE A   33   HH                         CA  B ARG A   31   HH 
+HB_0003  15  CD    LYS A   34   HH                         CA  B ARG A   31   HH 
+HB_0003  16  CB    ALA A  110   HH                         CA  B ARG A   31   HH 
+HB_0003  17  CG2   VAL A  114   HH                         CA  B ARG A   31   HH 
+HB_0004   1  CB    HIS A   36   HH  CA    SER A   35   HH                        
+HB_0004   2  CG    PRO A   37   HH  CA    SER A   35   HH                        
+HB_0004   3  CG  A ARG A   31   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0004   4  CG  B ARG A   31   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0004   5  CB    LYS A   34   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0004   6  CG    LYS A   34   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0004   7  CB    ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0004   8  CG1   ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0004   9  CG2   ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0004  10  CB  A ARG A   31   HH                         CA  A ARG A   31   HH 
+HB_0004  11  CB  B ARG A   31   HH                         CA  A ARG A   31   HH 
+HB_0004  12  CB    LEU A   32   HH                         CA  A ARG A   31   HH 
+HB_0004  13  CG    LEU A   32   HH                         CA  A ARG A   31   HH 
+HB_0004  14  CB    PHE A   33   HH                         CA  A ARG A   31   HH 
+HB_0004  15  CD    LYS A   34   HH                         CA  A ARG A   31   HH 
+HB_0004  16  CB    ALA A  110   HH                         CA  A ARG A   31   HH 
+HB_0004  17  CG2   VAL A  114   HH                         CA  A ARG A   31   HH 
+HB_0005   1  CB    HIS A   36   HH  CA    SER A   35   HH                        
+HB_0005   2  CG    PRO A   37   HH  CA    SER A   35   HH                        
+HB_0005   3  CG  A ARG A   31   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0005   4  CG  B ARG A   31   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0005   5  CB    LYS A   34   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0005   6  CG    LYS A   34   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0005   7  CB    ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0005   8  CG1   ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0005   9  CG2   ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0005  10  CB  A ARG A   31   HH                         CA  B ARG A   31   HH 
+HB_0005  11  CB  B ARG A   31   HH                         CA  B ARG A   31   HH 
+HB_0005  12  CB    LEU A   32   HH                         CA  B ARG A   31   HH 
+HB_0005  13  CG    LEU A   32   HH                         CA  B ARG A   31   HH 
+HB_0005  14  CB    PHE A   33   HH                         CA  B ARG A   31   HH 
+HB_0005  15  CD    LYS A   34   HH                         CA  B ARG A   31   HH 
+HB_0005  16  CB    ALA A  110   HH                         CA  B ARG A   31   HH 
+HB_0005  17  CG2   VAL A  114   HH                         CA  B ARG A   31   HH 
+HB_0006   1  CB    HIS A   36   HH  CA    SER A   35   HH                        
+HB_0006   2  CG    PRO A   37   HH  CA    SER A   35   HH                        
+HB_0006   3  CG  A ARG A   31   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0006   4  CG  B ARG A   31   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0006   5  CB    LYS A   34   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0006   6  CG    LYS A   34   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0006   7  CB    ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0006   8  CG1   ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0006   9  CG2   ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0006  10  CB  A ARG A   31   HH                         CA  A ARG A   31   HH 
+HB_0006  11  CB  B ARG A   31   HH                         CA  A ARG A   31   HH 
+HB_0006  12  CB    LEU A   32   HH                         CA  A ARG A   31   HH 
+HB_0006  13  CG    LEU A   32   HH                         CA  A ARG A   31   HH 
+HB_0006  14  CB    PHE A   33   HH                         CA  A ARG A   31   HH 
+HB_0006  15  CD    LYS A   34   HH                         CA  A ARG A   31   HH 
+HB_0006  16  CB    ALA A  110   HH                         CA  A ARG A   31   HH 
+HB_0006  17  CG2   VAL A  114   HH                         CA  A ARG A   31   HH 
+HB_0007   1  CB    HIS A   36   HH  CA    SER A   35   HH                        
+HB_0007   2  CG    PRO A   37   HH  CA    SER A   35   HH                        
+HB_0007   3  CG  A ARG A   31   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0007   4  CG  B ARG A   31   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0007   5  CB    LYS A   34   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0007   6  CG    LYS A   34   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0007   7  CB    ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0007   8  CG1   ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0007   9  CG2   ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0007  10  CB  A ARG A   31   HH                         CA  B ARG A   31   HH 
+HB_0007  11  CB  B ARG A   31   HH                         CA  B ARG A   31   HH 
+HB_0007  12  CB    LEU A   32   HH                         CA  B ARG A   31   HH 
+HB_0007  13  CG    LEU A   32   HH                         CA  B ARG A   31   HH 
+HB_0007  14  CB    PHE A   33   HH                         CA  B ARG A   31   HH 
+HB_0007  15  CD    LYS A   34   HH                         CA  B ARG A   31   HH 
+HB_0007  16  CB    ALA A  110   HH                         CA  B ARG A   31   HH 
+HB_0007  17  CG2   VAL A  114   HH                         CA  B ARG A   31   HH 
+HB_0008   1  CB    HIS A   36   HH  CA    SER A   35   HH                        
+HB_0008   2  CG    PRO A   37   HH  CA    SER A   35   HH                        
+HB_0008   3  CG  A ARG A   31   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0008   4  CG  B ARG A   31   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0008   5  CB    LYS A   34   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0008   6  CG    LYS A   34   HH  CA    SER A   35   HH  CA  A ARG A   31   HH 
+HB_0008   7  CB    ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0008   8  CG1   ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0008   9  CG2   ILE A   30   HH                         CA  A ARG A   31   HH 
+HB_0008  10  CB  A ARG A   31   HH                         CA  A ARG A   31   HH 
+HB_0008  11  CB  B ARG A   31   HH                         CA  A ARG A   31   HH 
+HB_0008  12  CB    LEU A   32   HH                         CA  A ARG A   31   HH 
+HB_0008  13  CG    LEU A   32   HH                         CA  A ARG A   31   HH 
+HB_0008  14  CB    PHE A   33   HH                         CA  A ARG A   31   HH 
+HB_0008  15  CD    LYS A   34   HH                         CA  A ARG A   31   HH 
+HB_0008  16  CB    ALA A  110   HH                         CA  A ARG A   31   HH 
+HB_0008  17  CG2   VAL A  114   HH                         CA  A ARG A   31   HH 
+HB_0009   1  CB    HIS A   36   HH  CA    SER A   35   HH                        
+HB_0009   2  CG    PRO A   37   HH  CA    SER A   35   HH                        
+HB_0009   3  CG  A ARG A   31   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0009   4  CG  B ARG A   31   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0009   5  CB    LYS A   34   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0009   6  CG    LYS A   34   HH  CA    SER A   35   HH  CA  B ARG A   31   HH 
+HB_0009   7  CB    ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0009   8  CG1   ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0009   9  CG2   ILE A   30   HH                         CA  B ARG A   31   HH 
+HB_0009  10  CB  A ARG A   31   HH                         CA  B ARG A   31   HH 
+HB_0009  11  CB  B ARG A   31   HH                         CA  B ARG A   31   HH 
+HB_0009  12  CB    LEU A   32   HH                         CA  B ARG A   31   HH 
+HB_0009  13  CG    LEU A   32   HH                         CA  B ARG A   31   HH 
+HB_0009  14  CB    PHE A   33   HH                         CA  B ARG A   31   HH 
+HB_0009  15  CD    LYS A   34   HH                         CA  B ARG A   31   HH 
+HB_0009  16  CB    ALA A  110   HH                         CA  B ARG A   31   HH 
+HB_0009  17  CG2   VAL A  114   HH                         CA  B ARG A   31   HH 
+HB_0010   1  CB    GLU A   54   HH  CA    ALA A   57   HH  CA    ALA A   53   HH 
+HB_0010   2  CB    LYS A   56   HH  CA    ALA A   57   HH  CA    ALA A   53   HH 
+HB_0010   3  CG    LYS A   56   HH  CA    ALA A   57   HH  CA    ALA A   53   HH 
+HB_0010   4  CB    ALA A   57   HH  CA    ALA A   57   HH  CA    ALA A   53   HH 
+HB_0010   5  CG2   THR A   51   HH                         CA    ALA A   53   HH 
+HB_0010   6  CB    GLU A   52   HH                         CA    ALA A   53   HH 
+HB_0010   7  CG    GLU A   52   HH                         CA    ALA A   53   HH 
+HB_0010   8  CB    ALA A   53   HH                         CA    ALA A   53   HH 
+HB_0010   9  CG    GLU A   54   HH                         CA    ALA A   53   HH 
+HB_0010  10  CB    MET A   55   HH                         CA    ALA A   53   HH 
+HB_0010  11  CG    MET A   55   HH                         CA    ALA A   53   HH 
+HB_0010  12  CD    LYS A   56   HH                         CA    ALA A   53   HH 
+HB_0011   1  CB    GLN A   64   HH  CA    LYS A   63   HH                        
+HB_0011   2  CG    GLN A   64   HH  CA    LYS A   63   HH                        
+HB_0011   3  CB    VAL A   66   HH  CA    LYS A   63   HH                        
+HB_0011   4  CG1   VAL A   66   HH  CA    LYS A   63   HH                        
+HB_0011   5  CG2   VAL A   66   HH  CA    LYS A   63   HH                        
+HB_0011   6  CB    ARG A   67   HH  CA    LYS A   63   HH                        
+HB_0011   7  CG    ARG A   67   HH  CA    LYS A   63   HH                        
+HB_0011   8  CB    ASP A   60   HH  CA    LYS A   63   HH  CA    GLU A   59   HH 
+HB_0011   9  CB    LYS A   62   HH  CA    LYS A   63   HH  CA    GLU A   59   HH 
+HB_0011  10  CG    LYS A   62   HH  CA    LYS A   63   HH  CA    GLU A   59   HH 
+HB_0011  11  CD    LYS A   62   HH  CA    LYS A   63   HH  CA    GLU A   59   HH 
+HB_0011  12  CB    LYS A   63   HH  CA    LYS A   63   HH  CA    GLU A   59   HH 
+HB_0011  13  CG    LYS A   63   HH  CA    LYS A   63   HH  CA    GLU A   59   HH 
+HB_0011  14  CD    LYS A   63   HH  CA    LYS A   63   HH  CA    GLU A   59   HH 
+HB_0011  15  CB    GLU A   59   HH                         CA    GLU A   59   HH 
+HB_0011  16  CG    GLU A   59   HH                         CA    GLU A   59   HH 
+HB_0011  17  CB    LEU A   61   HH                         CA    GLU A   59   HH 
+HB_0012   1  CB    GLU A   83   HH  CA    HIS A   81                             
+HB_0012   2  CB    LYS A   78       CA    HIS A   81       CA    LYS A   78      
+HB_0012   3  CG    LYS A   78       CA    HIS A   81       CA    LYS A   78      
+HB_0012   4  CD    LYS A   78       CA    HIS A   81       CA    LYS A   78      
+HB_0012   5  CB    HIS A   81       CA    HIS A   81       CA    LYS A   78      
+HB_0012   6  CB    HIS A   82   HH  CA    HIS A   81       CA    LYS A   78      
+HB_0012   7  CB    LYS A   77   HH                         CA    LYS A   78      
+HB_0012   8  CG    LYS A   77   HH                         CA    LYS A   78      
+HB_0012   9  CB  A LYS A   79                              CA    LYS A   78      
+HB_0012  10  CB  B LYS A   79                              CA    LYS A   78      
+HB_0012  11  CG  A LYS A   79                              CA    LYS A   78      
+HB_0012  12  CG  B LYS A   79                              CA    LYS A   78      
+HB_0012  13  CD  A LYS A   79                              CA    LYS A   78      
+HB_0012  14  CD  B LYS A   79                              CA    LYS A   78      
+HB_0013   1  CB    HIS A   93   HH  CA    SER A   92   HH                        
+HB_0013   2  CB    ALA A   94   HH  CA    SER A   92   HH                        
+HB_0013   3  CB    LYS A   96   HH  CA    SER A   92   HH                        
+HB_0013   4  CG    LYS A   96   HH  CA    SER A   92   HH                        
+HB_0013   5  CD    LYS A   96   HH  CA    SER A   92   HH                        
+HB_0013   6  CB    HIS A   97       CA    SER A   92   HH                        
+HB_0013   7  CB    GLN A   91   HH  CA    SER A   92   HH  CA    PRO A   88   HH 
+HB_0013   8  CG    GLN A   91   HH  CA    SER A   92   HH  CA    PRO A   88   HH 
+HB_0013   9  CB    LYS A   87   HH                         CA    PRO A   88   HH 
+HB_0013  10  CG    LYS A   87   HH                         CA    PRO A   88   HH 
+HB_0013  11  CB    PRO A   88   HH                         CA    PRO A   88   HH 
+HB_0013  12  CG    PRO A   88   HH                         CA    PRO A   88   HH 
+HB_0013  13  CB  A LEU A   89   HH                         CA    PRO A   88   HH 
+HB_0013  14  CB  B LEU A   89   HH                         CA    PRO A   88   HH 
+HB_0013  15  CG  A LEU A   89   HH                         CA    PRO A   88   HH 
+HB_0013  16  CG  B LEU A   89   HH                         CA    PRO A   88   HH 
+HB_0013  17  CD2 B LEU A   89   HH                         CA    PRO A   88   HH 
+HB_0013  18  CB    ALA A   90   HH                         CA    PRO A   88   HH 
+HB_0014   1  CB    LYS A   96   HH  CA    THR A   95   HH                        
+HB_0014   2  CG    LYS A   96   HH  CA    THR A   95   HH                        
+HB_0014   3  CB    LYS A   98       CA    THR A   95   HH                        
+HB_0014   4  CG    LYS A   98       CA    THR A   95   HH                        
+HB_0014   5  CB    TYR A  151       CA    THR A   95   HH                        
+HB_0014   6  CG    TYR A  151       CA    THR A   95   HH                        
+HB_0014   7  CD1   TYR A  151       CA    THR A   95   HH                        
+HB_0014   8  CB    GLN A   91   HH  CA    THR A   95   HH  CA    GLN A   91   HH 
+HB_0014   9  CG    GLN A   91   HH  CA    THR A   95   HH  CA    GLN A   91   HH 
+HB_0014  10  CB    ALA A   94   HH  CA    THR A   95   HH  CA    GLN A   91   HH 
+HB_0014  11  CG2   THR A   95   HH  CA    THR A   95   HH  CA    GLN A   91   HH 
+HB_0014  12  CB    ALA A   90   HH                         CA    GLN A   91   HH 
+HB_0014  13  CB    HIS A   93   HH                         CA    GLN A   91   HH 
+HB_0014  14  CE1   TYR A  146   HH                         CA    GLN A   91   HH 
+HB_0014  15  CB    LEU A  149   HH                         CA    GLN A   91   HH 
+HB_0014  16  CG    LEU A  149   HH                         CA    GLN A   91   HH 
+HB_0014  17  CD1   LEU A  149   HH                         CA    GLN A   91   HH 
+HB_0014  18  CD2   LEU A  149   HH                         CA    GLN A   91   HH 
+HB_0015   1  CG2   THR A   95   HH  CA    LYS A   96   HH                        
+HB_0015   2  CB    LYS A   98       CA    LYS A   96   HH                        
+HB_0015   3  CG    LYS A   98       CA    LYS A   96   HH                        
+HB_0015   4  CB    LYS A   96   HH  CA    LYS A   96   HH  CA    SER A   92   HH 
+HB_0015   5  CG    LYS A   96   HH  CA    LYS A   96   HH  CA    SER A   92   HH 
+HB_0015   6  CD    LYS A   96   HH  CA    LYS A   96   HH  CA    SER A   92   HH 
+HB_0015   7  CB    HIS A   97       CA    LYS A   96   HH  CA    SER A   92   HH 
+HB_0015   8  CB    GLN A   91   HH                         CA    SER A   92   HH 
+HB_0015   9  CG    GLN A   91   HH                         CA    SER A   92   HH 
+HB_0015  10  CB    HIS A   93   HH                         CA    SER A   92   HH 
+HB_0015  11  CB    ALA A   94   HH                         CA    SER A   92   HH 
+HB_0016   1  CD    LYS A   42   HH  CA    HIS A   97                             
+HB_0016   2  CB    LYS A   98       CA    HIS A   97                             
+HB_0016   3  CG    LYS A   98       CA    HIS A   97                             
+HB_0016   4  CB    ILE A   99       CA    HIS A   97                             
+HB_0016   5  CG1   ILE A   99       CA    HIS A   97                             
+HB_0016   6  CD1   ILE A   99       CA    HIS A   97                             
+HB_0016   7  CB    HIS A   93   HH  CA    HIS A   97       CA    SER A   92   HH 
+HB_0016   8  CB    LYS A   96   HH  CA    HIS A   97       CA    SER A   92   HH 
+HB_0016   9  CG    LYS A   96   HH  CA    HIS A   97       CA    SER A   92   HH 
+HB_0016  10  CD    LYS A   96   HH  CA    HIS A   97       CA    SER A   92   HH 
+HB_0016  11  CB    HIS A   97       CA    HIS A   97       CA    SER A   92   HH 
+HB_0016  12  CB    GLN A   91   HH                         CA    SER A   92   HH 
+HB_0016  13  CG    GLN A   91   HH                         CA    SER A   92   HH 
+HB_0016  14  CB    ALA A   94   HH                         CA    SER A   92   HH 
+HB_0017   1  CB    VAL A   13   HH  CA    ASN A  122   HH                        
+HB_0017   2  CG    LYS A   16   HH  CA    ASN A  122   HH                        
+HB_0017   3  CD1   PHE A  123   HH  CA    ASN A  122   HH                        
+HB_0017   4  CB    ALA A  127   HH  CA    ASN A  122   HH                        
+HB_0017   5  CG2   VAL A   13   HH  CA    ASN A  122   HH  CA    HIS A  119   HH 
+HB_0017   6  CB    HIS A  119   HH  CA    ASN A  122   HH  CA    HIS A  119   HH 
+HB_0017   7  CB    ASN A  122   HH  CA    ASN A  122   HH  CA    HIS A  119   HH 
+HB_0017   8  CB    PHE A  123   HH  CA    ASN A  122   HH  CA    HIS A  119   HH 
+HB_0017   9  CG    PHE A  123   HH  CA    ASN A  122   HH  CA    HIS A  119   HH 
+HB_0017  10  CB    LYS A   16   HH                         CA    HIS A  119   HH 
+HB_0017  11  CB  A LEU A  115   HH                         CA    HIS A  119   HH 
+HB_0017  12  CB  B LEU A  115   HH                         CA    HIS A  119   HH 
+HB_0017  13  CB    ARG A  118   HH                         CA    HIS A  119   HH 
+HB_0017  14  CG    ARG A  118   HH                         CA    HIS A  119   HH 
+HB_0017  15  CB    PRO A  120   HH                         CA    HIS A  119   HH 
+HB_0017  16  CG    PRO A  120   HH                         CA    HIS A  119   HH 
+HB_0018   1  CB    ALA A  130   HH  CA    GLY A  129   HH                        
+HB_0018   2  CB    MET A  131   HH  CA    GLY A  129   HH                        
+HB_0018   3  CB    ASN A  132   HH  CA    GLY A  129   HH                        
+HB_0018   4  CB  A LYS A  133   HH  CA    GLY A  129   HH                        
+HB_0018   5  CB  B LYS A  133   HH  CA    GLY A  129   HH                        
+HB_0018   6  CB    ASP A  126   HH  CA    GLY A  129   HH  CA    ALA A  125   HH 
+HB_0018   7  CB    GLN A  128   HH  CA    GLY A  129   HH  CA    ALA A  125   HH 
+HB_0018   8  CG    GLN A  128   HH  CA    GLY A  129   HH  CA    ALA A  125   HH 
+HB_0018   9  CB    ALA A  125   HH                         CA    ALA A  125   HH 
+HB_0018  10  CB    ALA A  127   HH                         CA    ALA A  125   HH 
+HB_0019   1  CB    LEU A  149   HH  CA    GLU A  148   HH                        
+HB_0019   2  CG    LEU A  149   HH  CA    GLU A  148   HH                        
+HB_0019   3  CD1   LEU A  149   HH  CA    GLU A  148   HH                        
+HB_0019   4  CD2   LEU A  149   HH  CA    GLU A  148   HH                        
+HB_0019   5  CB  A LYS A  145   HH  CA    GLU A  148   HH  CA    ALA A  144   HH 
+HB_0019   6  CB  B LYS A  145   HH  CA    GLU A  148   HH  CA    ALA A  144   HH 
+HB_0019   7  CB    LYS A  147   HH  CA    GLU A  148   HH  CA    ALA A  144   HH 
+HB_0019   8  CG    LYS A  147   HH  CA    GLU A  148   HH  CA    ALA A  144   HH 
+HB_0019   9  CB    GLU A  148   HH  CA    GLU A  148   HH  CA    ALA A  144   HH 
+HB_0019  10  CG    GLU A  148   HH  CA    GLU A  148   HH  CA    ALA A  144   HH 
+HB_0019  11  CB    ASP A  141   HH                         CA    ALA A  144   HH 
+HB_0019  12  CB    ALA A  143   HH                         CA    ALA A  144   HH 
+HB_0019  13  CB    ALA A  144   HH                         CA    ALA A  144   HH 
+HB_0019  14  CG  A LYS A  145   HH                         CA    ALA A  144   HH 
+HB_0019  15  CG  B LYS A  145   HH                         CA    ALA A  144   HH 
+HB_0019  16  CD  A LYS A  145   HH                         CA    ALA A  144   HH 
+HB_0019  17  CD  B LYS A  145   HH                         CA    ALA A  144   HH 
+HB_0019  18  CB    TYR A  146   HH                         CA    ALA A  144   HH 

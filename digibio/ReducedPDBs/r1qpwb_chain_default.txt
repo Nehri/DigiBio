@@ -1,0 +1,25 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r1qpw
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0024 GLU B    9    CA     N      H      H ALA B    5    CA     O      C      H 3.28 2.42 175.31 161.10 161.98  15   0
+HB_0025 GLY B   13    CA     N      H      H GLU B    9    CA     O      C      H 2.95 2.15 156.32 154.36 147.95  12   0
+HB_0026 LYS B   17    CA     N      H        LEU B   14    CA     O      C      H 2.90 2.07 161.23 122.37 117.28  17   0
+HB_0027 GLU B   22    CA     N      H      H ASN B   19    CA     O      C      H 3.00 2.45 122.26 135.03 125.35  14   0
+HB_0028 ALA B   53    CA     N      H      H ASN B   50    CA     O      C      H 3.04 2.40 131.95 122.62 112.57  10   0
+HB_0029 LYS B   61    CA     N      H      H ASN B   57    CA     O      C      H 3.32 2.48 167.69 164.77 161.60  15   0
+HB_0030 ALA B   62    CA     N      H      H PRO B   58    CA     O      C      H 2.86 2.00 172.26 152.96 151.11  16   0
+HB_0031 GLN B   69    CA     N      H      H LYS B   65    CA     O      C      H 2.80 1.94 171.72 165.45 163.39  18   0
+HB_0032 ASN B   80    CA     N      H      H HIS B   77    CA     O      C      H 2.70 1.86 164.23 137.44 132.54  17   0
+HB_0033 THR B   84    CA     N      H      H ASN B   80    CA     O      C      H 3.31 2.47 167.22 155.52 152.28  18   0
+HB_0034 GLU B   90    CA     N      H      H ALA B   86    CA     O      C      H 3.15 2.34 155.93 150.65 148.44  18   0
+HB_0035 ASP B   94    CA     N      H      H GLU B   90    CA     O      C      H 2.86 2.01 173.94 153.00 151.19  14   0
+HB_0036 ASP B  121    CA     N      H      H LEU B  118    CA     O      C      H 2.94 2.23 138.78 143.46 154.26  17   0
+HB_0037 ASN B  139    CA     N      H      H ALA B  135    CA     O      C      H 3.02 2.22 155.31 160.57 154.07  13   0

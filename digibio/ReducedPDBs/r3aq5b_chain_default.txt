@@ -1,0 +1,25 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r3aq5
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0011 GLY B   12    CA     N      H      H GLU B    9    CA     O      C      H 3.00 2.17 162.04 123.80 118.79  15   0
+HB_0012 ALA B   19    CA     N      H      H ASN B   15    CA     O      C      H 3.18 2.39 152.59 150.17 144.45  18   0
+HB_0013 LYS B   39    CA     N      H      H HIS B   36    CA     O      C      H 3.09 2.25 163.51 118.43 119.85  16   0
+HB_0014 GLN B   46    CA     N      H      H ASP B   42    CA     O      C      H 2.94 2.10 164.46 158.86 154.50  17   0
+HB_0015 LYS B   48    CA     N      H      H ASP B   44    CA     O      C      H 3.03 2.21 159.24 149.09 145.83  16   0
+HB_0016 GLN B   49    CA     N      H      H HIS B   45    CA     O      C      H 2.90 2.05 168.87 162.27 160.12  17   0
+HB_0017 ALA B   72    CA     N      H      H ASN B   68    CA     O      C      H 2.81 1.98 162.49 163.71 159.26  17   0
+HB_0018 MET B   76    CA     N      H        HIS B   73    CA     O      C      H 3.19 2.36 164.21 129.80 128.44  17   0
+HB_0019 ALA B   92    CA     N      H      H GLU B   88    CA     O      C      H 2.98 2.14 166.98 147.31 144.43  18   0
+HB_0020 GLU B   96    CA     N      H      H ALA B   92    CA     O      C      H 2.96 2.13 160.52 150.64 147.02  17   0
+HB_0021 GLY B   98    CA     N      H        LYS B   95    CA     O      C      H 2.81 1.97 165.24 119.40 117.77  16   0
+HB_0022 ASN B  105    CA     N      H      H ASP B  101    CA     O      C      H 2.77 1.95 158.93 159.19 154.29  18   0
+HB_0023 LYS B  109    CA     N      H      H ASN B  105    CA     O      C      H 2.93 2.14 151.65 154.91 149.00  17   0
+HB_0024 ASN B   77    CA     N      H        LYS B  121    CA     O      C        2.85 2.07 151.48 151.41 145.30  16   0

@@ -1,0 +1,24 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r2eb8
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0001 ALA A   19    CA     N      H        ALA A   15    CA     O      C      H 3.08 2.44 132.01 150.26 140.25  15   2
+HB_0002 SER A   35    CA     N      H      H ARG A   31    CA     O      C      H 2.89 2.10 153.03 153.96 147.80  15   0
+HB_0003 ALA A   57    CA     N      H      H ALA A   53    CA     O      C      H 3.22 2.48 144.52 155.16 147.70  12   0
+HB_0004 LYS A   63    CA     N      H      H GLU A   59    CA     O      C      H 2.80 1.94 172.72 160.00 158.18  14   0
+HB_0005 ALA A   71    CA     N      H      H THR A   67    CA     O      C      H 3.00 2.15 172.81 155.20 154.03  18   0
+HB_0006 HIS A   81    CA     N      H        LYS A   78    CA     O      C        3.10 2.28 160.90 120.78 121.59  11   0
+HB_0007 LEU A   86    CA     N      H      H GLU A   83    CA     O      C      H 3.01 2.19 159.75 128.76 124.13  16   0
+HB_0008 LYS A   87    CA     N      H      H ALA A   84    CA     O      C      H 3.01 2.17 164.98 112.62 110.35  15   0
+HB_0009 HIS A  113    CA     N      H      H GLU A  109    CA     O      C      H 2.98 2.15 162.15 153.17 149.22  17   0
+HB_0010 SER A  117    CA     N      H      H HIS A  113    CA     O      C      H 2.85 2.04 158.55 155.20 149.51  16   0
+HB_0011 ARG A  118    CA     N      H      H VAL A  114    CA     O      C      H 2.89 2.08 157.75 160.46 157.29  18   0
+HB_0012 GLY A  129    CA     N      H      H ALA A  125    CA     O      C      H 2.88 2.04 166.17 149.75 147.23  11   2
+HB_0013 GLU A  148    CA     N      H      H ALA A  144    CA     O      C      H 2.96 2.12 165.02 152.87 149.71  16   0

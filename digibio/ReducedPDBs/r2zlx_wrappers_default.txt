@@ -1,0 +1,1017 @@
+WRAPPA OUTPUT: WRAPPERS
+PDB NAME:      r2zlx
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------WRAPPER---------- ---------DDS---------- ---------ADS---------- 
+     ID   #  W   * Res C  Seq I SS  DSC * Res C  Seq I SS  DSC * Res C  Seq I SS 
+--------------------------------------------------------------------------------
+HB_0001   1  CG2   THR A    8    H  CA    THR A    8    H                        
+HB_0001   2  CB    ASN A    9    H  CA    THR A    8    H                        
+HB_0001   3  CB    VAL A   10    H  CA    THR A    8    H                        
+HB_0001   4  CB    LYS A   11    H  CA    THR A    8    H                        
+HB_0001   5  CG    LYS A   11    H  CA    THR A    8    H                        
+HB_0001   6  CD    LYS A   11    H  CA    THR A    8    H                        
+HB_0001   7  CB    ALA A   12    H  CA    THR A    8    H                        
+HB_0001   8  CB    ALA A    5    H  CA    THR A    8    H  CA    ALA A    4    H 
+HB_0001   9  CB    ASP A    6    H  CA    THR A    8    H  CA    ALA A    4    H 
+HB_0001  10  CB    LYS A    7    H  CA    THR A    8    H  CA    ALA A    4    H 
+HB_0001  11  CG    LYS A    7    H  CA    THR A    8    H  CA    ALA A    4    H 
+HB_0001  12  CD    LYS A    7    H  CA    THR A    8    H  CA    ALA A    4    H 
+HB_0001  13  CB    ALA A    4    H                         CA    ALA A    4    H 
+HB_0002   1  CB    ALA A   13    H  CA    ALA A   12    H                        
+HB_0002   2  CB    TRP A   14    H  CA    ALA A   12    H                        
+HB_0002   3  CB    LYS A   16    H  CA    ALA A   12    H                        
+HB_0002   4  CG    LYS A   16    H  CA    ALA A   12    H                        
+HB_0002   5  CD    LYS A   16    H  CA    ALA A   12    H                        
+HB_0002   6  CG2   THR A    8    H  CA    ALA A   12    H  CA    THR A    8    H 
+HB_0002   7  CB    ASN A    9    H  CA    ALA A   12    H  CA    THR A    8    H 
+HB_0002   8  CB    LYS A   11    H  CA    ALA A   12    H  CA    THR A    8    H 
+HB_0002   9  CG    LYS A   11    H  CA    ALA A   12    H  CA    THR A    8    H 
+HB_0002  10  CB    ALA A   12    H  CA    ALA A   12    H  CA    THR A    8    H 
+HB_0002  11  CB    ALA A    5    H                         CA    THR A    8    H 
+HB_0002  12  CB    ASP A    6    H                         CA    THR A    8    H 
+HB_0002  13  CB    LYS A    7    H                         CA    THR A    8    H 
+HB_0002  14  CG    LYS A    7    H                         CA    THR A    8    H 
+HB_0002  15  CD    LYS A    7    H                         CA    THR A    8    H 
+HB_0002  16  CB    VAL A   10    H                         CA    THR A    8    H 
+HB_0002  17  CD    LYS A   11    H                         CA    THR A    8    H 
+HB_0003   1  CB    ALA A   26    H  CA    TYR A   24    H                        
+HB_0003   2  CB    GLU A   27    H  CA    TYR A   24    H                        
+HB_0003   3  CG    GLU A   27    H  CA    TYR A   24    H                        
+HB_0003   4  CB    ALA A   28    H  CA    TYR A   24    H                        
+HB_0003   5  CD1   LEU A  105    H  CA    TYR A   24    H                        
+HB_0003   6  CG2   THR A  108    H  CA    TYR A   24    H                        
+HB_0003   7  CB    HIS A   20    H  CA    TYR A   24    H  CA    HIS A   20    H 
+HB_0003   8  CB    GLU A   23    H  CA    TYR A   24    H  CA    HIS A   20    H 
+HB_0003   9  CG    GLU A   23    H  CA    TYR A   24    H  CA    HIS A   20    H 
+HB_0003  10  CB    TYR A   24    H  CA    TYR A   24    H  CA    HIS A   20    H 
+HB_0003  11  CG    TYR A   24    H  CA    TYR A   24    H  CA    HIS A   20    H 
+HB_0003  12  CD1   TYR A   24    H  CA    TYR A   24    H  CA    HIS A   20    H 
+HB_0003  13  CD2   TYR A   24    H  CA    TYR A   24    H  CA    HIS A   20    H 
+HB_0003  14  CE1   TYR A   24    H  CA    TYR A   24    H  CA    HIS A   20    H 
+HB_0003  15  CE2   TYR A   24    H  CA    TYR A   24    H  CA    HIS A   20    H 
+HB_0003  16  CB    VAL A   17    H                         CA    HIS A   20    H 
+HB_0003  17  CG1   VAL A   17    H                         CA    HIS A   20    H 
+HB_0003  18  CB    ALA A   21    H                         CA    HIS A   20    H 
+HB_0004   1  CB    GLU A   27    H  CA    ALA A   26    H                        
+HB_0004   2  CG    GLU A   27    H  CA    ALA A   26    H                        
+HB_0004   3  CB    ALA A   28    H  CA    ALA A   26    H                        
+HB_0004   4  CB    LEU A   29    H  CA    ALA A   26    H                        
+HB_0004   5  CG    LEU A   29    H  CA    ALA A   26    H                        
+HB_0004   6  CD1   LEU A   29    H  CA    ALA A   26    H                        
+HB_0004   7  CB    GLU A   30    H  CA    ALA A   26    H                        
+HB_0004   8  CB    VAL A   55    H  CA    ALA A   26    H                        
+HB_0004   9  CB    LYS A   56    H  CA    ALA A   26    H                        
+HB_0004  10  CG    LYS A   56    H  CA    ALA A   26    H                        
+HB_0004  11  CB    GLU A   23    H  CA    ALA A   26    H  CA    GLY A   22    H 
+HB_0004  12  CB    ALA A   26    H  CA    ALA A   26    H  CA    GLY A   22    H 
+HB_0004  13  CB    ALA A   21    H                         CA    GLY A   22    H 
+HB_0004  14  CG    GLU A   23    H                         CA    GLY A   22    H 
+HB_0004  15  CB    TYR A   24    H                         CA    GLY A   22    H 
+HB_0004  16  CB    LYS A   60    H                         CA    GLY A   22    H 
+HB_0005   1  CB    TYR A   42    H  CA    THR A   41    H                        
+HB_0005   2  CG    TYR A   42    H  CA    THR A   41    H                        
+HB_0005   3  CD1   TYR A   42    H  CA    THR A   41    H                        
+HB_0005   4  CB    PHE A   43    H  CA    THR A   41    H                        
+HB_0005   5  CD1   PHE A   43    H  CA    THR A   41    H                        
+HB_0005   6  CB    PRO A   44       CA    THR A   41    H                        
+HB_0005   7  CG    PRO A   44       CA    THR A   41    H                        
+HB_0005   8  CB    LYS A   40    H  CA    THR A   41    H  CA    THR A   38    H 
+HB_0005   9  CG    LYS A   40    H  CA    THR A   41    H  CA    THR A   38    H 
+HB_0005  10  CG2   THR A   41    H  CA    THR A   41    H  CA    THR A   38    H 
+HB_0005  11  CD2   TYR A   42    H  CA    THR A   41    H  CA    THR A   38    H 
+HB_0005  12  CE2   TYR A   42    H  CA    THR A   41    H  CA    THR A   38    H 
+HB_0005  13  CB    PHE A   36    H                         CA    THR A   38    H 
+HB_0005  14  CB    PRO A   37    H                         CA    THR A   38    H 
+HB_0005  15  CG    PRO A   37    H                         CA    THR A   38    H 
+HB_0005  16  CG2   THR A   38    H                         CA    THR A   38    H 
+HB_0005  17  CG2   THR A   39    H                         CA    THR A   38    H 
+HB_0006   1  CB    ALA A   53    H  CA    SER A   52    H                        
+HB_0006   2  CB    GLN A   54    H  CA    SER A   52    H                        
+HB_0006   3  CG    GLN A   54    H  CA    SER A   52    H                        
+HB_0006   4  CB    VAL A   55    H  CA    SER A   52    H                        
+HB_0006   5  CB    LYS A   56    H  CA    SER A   52    H                        
+HB_0006   6  CG    LYS A   56    H  CA    SER A   52    H                        
+HB_0006   7  CB    ASP A   47       CA    SER A   52    H  CA    SER A   49      
+HB_0006   8  CD2   LEU C   68    H  CA    SER A   52    H  CA    SER A   49      
+HB_0006   9  CB    LEU A   48                              CA    SER A   49      
+HB_0006  10  CB    HIS A   50                              CA    SER A   49      
+HB_0006  11  CB    ASP C   64    H                         CA    SER A   49      
+HB_0006  12  CB    LEU C   68    H                         CA    SER A   49      
+HB_0006  13  CG    LEU C   68    H                         CA    SER A   49      
+HB_0007   1  CB    ALA A   26    H  CA    LYS A   56    H                        
+HB_0007   2  CD    LYS A   56    H  CA    LYS A   56    H                        
+HB_0007   3  CB    ALA A   57    H  CA    LYS A   56    H                        
+HB_0007   4  CB    HIS A   58    H  CA    LYS A   56    H                        
+HB_0007   5  CB    ALA A   53    H  CA    LYS A   56    H  CA    SER A   52    H 
+HB_0007   6  CB    GLN A   54    H  CA    LYS A   56    H  CA    SER A   52    H 
+HB_0007   7  CB    VAL A   55    H  CA    LYS A   56    H  CA    SER A   52    H 
+HB_0007   8  CB    LYS A   56    H  CA    LYS A   56    H  CA    SER A   52    H 
+HB_0007   9  CG    LYS A   56    H  CA    LYS A   56    H  CA    SER A   52    H 
+HB_0007  10  CB    ASP A   47                              CA    SER A   52    H 
+HB_0007  11  CG    GLN A   54    H                         CA    SER A   52    H 
+HB_0007  12  CD2   LEU C   68    H                         CA    SER A   52    H 
+HB_0008   1  CG1   VAL A   62    H  CA    VAL A   62    H                        
+HB_0008   2  CB    ASP A   64    H  CA    VAL A   62    H                        
+HB_0008   3  CB    ALA A   65    H  CA    VAL A   62    H                        
+HB_0008   4  CB    LEU A   66    H  CA    VAL A   62    H                        
+HB_0008   5  CG    LEU A   66    H  CA    VAL A   62    H                        
+HB_0008   6  CD1   LEU A   66    H  CA    VAL A   62    H                        
+HB_0008   7  CB    LYS A   61    H  CA    VAL A   62    H  CA    HIS A   58    H 
+HB_0008   8  CB    VAL A   62    H  CA    VAL A   62    H  CA    HIS A   58    H 
+HB_0008   9  CG2   VAL A   62    H  CA    VAL A   62    H  CA    HIS A   58    H 
+HB_0008  10  CG    LEU A   29    H                         CA    HIS A   58    H 
+HB_0008  11  CD1   LEU A   29    H                         CA    HIS A   58    H 
+HB_0008  12  CE1   PHE A   46                              CA    HIS A   58    H 
+HB_0008  13  CZ    PHE A   46                              CA    HIS A   58    H 
+HB_0008  14  CB    ALA A   57    H                         CA    HIS A   58    H 
+HB_0008  15  CB    HIS A   58    H                         CA    HIS A   58    H 
+HB_0008  16  CB    LYS A   60    H                         CA    HIS A   58    H 
+HB_0009   1  CB    ALA A   21    H  CA    ASP A   64    H                        
+HB_0009   2  CB    ALA A   65    H  CA    ASP A   64    H                        
+HB_0009   3  CB    LEU A   66    H  CA    ASP A   64    H                        
+HB_0009   4  CG2   THR A   67    H  CA    ASP A   64    H                        
+HB_0009   5  CB    LEU A   68    H  CA    ASP A   64    H                        
+HB_0009   6  CB    ASP A   64    H  CA    ASP A   64    H  CA    LYS A   60    H 
+HB_0009   7  CB    HIS A   58    H                         CA    LYS A   60    H 
+HB_0009   8  CB    LYS A   60    H                         CA    LYS A   60    H 
+HB_0009   9  CB    LYS A   61    H                         CA    LYS A   60    H 
+HB_0009  10  CB    VAL A   62    H                         CA    LYS A   60    H 
+HB_0010   1  CG    LEU A   68    H  CA    LEU A   68    H                        
+HB_0010   2  CD1   LEU A   68    H  CA    LEU A   68    H                        
+HB_0010   3  CD2   LEU A   68    H  CA    LEU A   68    H                        
+HB_0010   4  CB    ALA A   69    H  CA    LEU A   68    H                        
+HB_0010   5  CB    VAL A   70    H  CA    LEU A   68    H                        
+HB_0010   6  CG2   VAL A   70    H  CA    LEU A   68    H                        
+HB_0010   7  CB    HIS A   72       CA    LEU A   68    H                        
+HB_0010   8  CD2   LEU A   80    H  CA    LEU A   68    H                        
+HB_0010   9  CG2   THR A   67    H  CA    LEU A   68    H  CA    ASP A   64    H 
+HB_0010  10  CB    LEU A   68    H  CA    LEU A   68    H  CA    ASP A   64    H 
+HB_0010  11  CB    ALA A   21    H                         CA    ASP A   64    H 
+HB_0010  12  CB    ASP A   64    H                         CA    ASP A   64    H 
+HB_0010  13  CB    ALA A   65    H                         CA    ASP A   64    H 
+HB_0010  14  CB    LEU A   66    H                         CA    ASP A   64    H 
+HB_0011   1  CB    LEU A   76    H  CA    ASP A   75    H                        
+HB_0011   2  CD1   LEU A   76    H  CA    ASP A   75    H                        
+HB_0011   3  CB    PRO A   77    H  CA    ASP A   75    H                        
+HB_0011   4  CG    PRO A   77    H  CA    ASP A   75    H                        
+HB_0011   5  CB    HIS A   72       CA    ASP A   75    H  CA    HIS A   72      
+HB_0011   6  CB    ASP A   74       CA    ASP A   75    H  CA    HIS A   72      
+HB_0011   7  CB    ASP A   75    H  CA    ASP A   75    H  CA    HIS A   72      
+HB_0011   8  CG    LEU A   76    H  CA    ASP A   75    H  CA    HIS A   72      
+HB_0011   9  CD2   LEU A   76    H  CA    ASP A   75    H  CA    HIS A   72      
+HB_0011  10  CB    ALA A   79    H  CA    ASP A   75    H  CA    HIS A   72      
+HB_0011  11  CG    LEU A   68    H                         CA    HIS A   72      
+HB_0011  12  CB    ALA A   69    H                         CA    HIS A   72      
+HB_0011  13  CB    LEU A   73                              CA    HIS A   72      
+HB_0011  14  CG    LEU A   73                              CA    HIS A   72      
+HB_0011  15  CD1   LEU A   73                              CA    HIS A   72      
+HB_0011  16  CD2   LEU A   73                              CA    HIS A   72      
+HB_0012   1  CE1   PHE A   36    H  CA    HIS A  103    H                        
+HB_0012   2  CB    CYS A  104    H  CA    HIS A  103    H                        
+HB_0012   3  CB    LEU A  105    H  CA    HIS A  103    H                        
+HB_0012   4  CB    LEU A  106    H  CA    HIS A  103    H                        
+HB_0012   5  CG    LEU A  106    H  CA    HIS A  103    H                        
+HB_0012   6  CD1   LEU A  106    H  CA    HIS A  103    H                        
+HB_0012   7  CB    ASN B  108    H  CA    HIS A  103    H                        
+HB_0012   8  CG2   VAL B  112    H  CA    HIS A  103    H                        
+HB_0012   9  CB    LEU A  100    H  CA    HIS A  103    H  CA    LYS A   99    H 
+HB_0012  10  CB    HIS A  103    H  CA    HIS A  103    H  CA    LYS A   99    H 
+HB_0012  11  CG2   VAL A   96    H                         CA    LYS A   99    H 
+HB_0012  12  CB    PHE A   98    H                         CA    LYS A   99    H 
+HB_0012  13  CG    PHE A   98    H                         CA    LYS A   99    H 
+HB_0012  14  CB    LYS A   99    H                         CA    LYS A   99    H 
+HB_0012  15  CG    LEU A  100    H                         CA    LYS A   99    H 
+HB_0012  16  CD1   LEU A  100    H                         CA    LYS A   99    H 
+HB_0012  17  CD2   LEU A  100    H                         CA    LYS A   99    H 
+HB_0012  18  CB    LEU A  101    H                         CA    LYS A   99    H 
+HB_0013   1  CG1   VAL A    1       CA    LYS A  127    H                        
+HB_0013   2  CB    PHE A  128    H  CA    LYS A  127    H                        
+HB_0013   3  CG    PHE A  128    H  CA    LYS A  127    H                        
+HB_0013   4  CB    LEU A  129    H  CA    LYS A  127    H                        
+HB_0013   5  CB    ASP A  126    H  CA    LYS A  127    H  CA    ALA A  123    H 
+HB_0013   6  CB    LYS A  127    H  CA    LYS A  127    H  CA    ALA A  123    H 
+HB_0013   7  CG    LYS A  127    H  CA    LYS A  127    H  CA    ALA A  123    H 
+HB_0013   8  CD    LYS A  127    H  CA    LYS A  127    H  CA    ALA A  123    H 
+HB_0013   9  CB    ALA A  120    H                         CA    ALA A  123    H 
+HB_0013  10  CB    HIS A  122    H                         CA    ALA A  123    H 
+HB_0013  11  CB    ALA A  123    H                         CA    ALA A  123    H 
+HB_0013  12  CB    LEU A  125    H                         CA    ALA A  123    H 
+HB_0013  13  CG1   VAL B   33    H                         CA    ALA A  123    H 
+HB_0013  14  CB    VAL B   34    H                         CA    ALA A  123    H 
+HB_0013  15  CG1   VAL B   34    H                         CA    ALA A  123    H 
+HB_0013  16  CG2   VAL B   34    H                         CA    ALA A  123    H 
+HB_0014   1  CB    VAL A  132    H  CA    SER A  130    H                        
+HB_0014   2  CB    LYS A  127    H  CA    SER A  130    H  CA    ASP A  126    H 
+HB_0014   3  CB    LEU A  129    H  CA    SER A  130    H  CA    ASP A  126    H 
+HB_0014   4  CG    LEU A  129    H  CA    SER A  130    H  CA    ASP A  126    H 
+HB_0014   5  CG    LEU A  106    H                         CA    ASP A  126    H 
+HB_0014   6  CD1   LEU A  106    H                         CA    ASP A  126    H 
+HB_0014   7  CD2   LEU A  106    H                         CA    ASP A  126    H 
+HB_0014   8  CB    LEU A  125    H                         CA    ASP A  126    H 
+HB_0014   9  CG    LEU A  125    H                         CA    ASP A  126    H 
+HB_0014  10  CB    ASP A  126    H                         CA    ASP A  126    H 
+HB_0014  11  CG    LYS A  127    H                         CA    ASP A  126    H 
+HB_0014  12  CD    LYS A  127    H                         CA    ASP A  126    H 
+HB_0014  13  CB    PHE A  128    H                         CA    ASP A  126    H 
+HB_0014  14  CD1   LEU A  129    H                         CA    ASP A  126    H 
+HB_0014  15  CG1   VAL B   34    H                         CA    ASP A  126    H 
+HB_0015   1  CG    LEU A   76    H  CA    SER A  131    H                        
+HB_0015   2  CD1   LEU A   76    H  CA    SER A  131    H                        
+HB_0015   3  CD1   PHE A  128    H  CA    SER A  131    H                        
+HB_0015   4  CB    VAL A  132    H  CA    SER A  131    H                        
+HB_0015   5  CG1   VAL A  132    H  CA    SER A  131    H                        
+HB_0015   6  CG2   VAL A  132    H  CA    SER A  131    H                        
+HB_0015   7  CG2   THR A  134    H  CA    SER A  131    H                        
+HB_0015   8  CB    VAL A  135    H  CA    SER A  131    H                        
+HB_0015   9  CG2   VAL A  135    H  CA    SER A  131    H                        
+HB_0015  10  CG1   VAL A    1       CA    SER A  131    H  CA    LYS A  127    H 
+HB_0015  11  CB    ASP A  126    H                         CA    LYS A  127    H 
+HB_0015  12  CB    LYS A  127    H                         CA    LYS A  127    H 
+HB_0015  13  CG    LYS A  127    H                         CA    LYS A  127    H 
+HB_0015  14  CD    LYS A  127    H                         CA    LYS A  127    H 
+HB_0015  15  CB    PHE A  128    H                         CA    LYS A  127    H 
+HB_0015  16  CG    PHE A  128    H                         CA    LYS A  127    H 
+HB_0015  17  CB    LEU A  129    H                         CA    LYS A  127    H 
+HB_0016   1  CG2   THR A  134    H  CA    THR A  134    H                        
+HB_0016   2  CB    VAL A  135    H  CA    THR A  134    H                        
+HB_0016   3  CG1   VAL A  135    H  CA    THR A  134    H                        
+HB_0016   4  CG2   VAL A  135    H  CA    THR A  134    H                        
+HB_0016   5  CB    LEU A  136    H  CA    THR A  134    H                        
+HB_0016   6  CG    LEU A  136    H  CA    THR A  134    H                        
+HB_0016   7  CG2   THR A  137    H  CA    THR A  134    H                        
+HB_0016   8  CB    LYS A  127    H                         CA    SER A  130    H 
+HB_0016   9  CB    LEU A  129    H                         CA    SER A  130    H 
+HB_0016  10  CG    LEU A  129    H                         CA    SER A  130    H 
+HB_0016  11  CB    VAL A  132    H                         CA    SER A  130    H 
+HB_0017   1  CD2   LEU B   12    H  CA    ALA B   13    H                        
+HB_0017   2  CB    LEU B   14    H  CA    ALA B   13    H                        
+HB_0017   3  CG    LEU B   14    H  CA    ALA B   13    H                        
+HB_0017   4  CB    TRP B   15    H  CA    ALA B   13    H                        
+HB_0017   5  CB    ASP B   16       CA    ALA B   13    H                        
+HB_0017   6  CG    LYS B   17       CA    ALA B   13    H                        
+HB_0017   7  CD    LYS B   17       CA    ALA B   13    H                        
+HB_0017   8  CB    LEU B   12    H  CA    ALA B   13    H  CA    ALA B    9    H 
+HB_0017   9  CG    LEU B   12    H  CA    ALA B   13    H  CA    ALA B    9    H 
+HB_0017  10  CB    ALA B   13    H  CA    ALA B   13    H  CA    ALA B    9    H 
+HB_0017  11  CB    LYS B    8    H                         CA    ALA B    9    H 
+HB_0017  12  CG    LYS B    8    H                         CA    ALA B    9    H 
+HB_0017  13  CB    ALA B    9    H                         CA    ALA B    9    H 
+HB_0017  14  CB    ALA B   10    H                         CA    ALA B    9    H 
+HB_0017  15  CB    VAL B   11    H                         CA    ALA B    9    H 
+HB_0017  16  CD1   LEU B   12    H                         CA    ALA B    9    H 
+HB_0017  17  CB    HIS C   45                              CA    ALA B    9    H 
+HB_0018   1  CG    GLU B   26    H  CA    GLU B   26    H                        
+HB_0018   2  CB    ALA B   27    H  CA    GLU B   26    H                        
+HB_0018   3  CB    LEU B   28    H  CA    GLU B   26    H                        
+HB_0018   4  CB    ARG B   30    H  CA    GLU B   26    H                        
+HB_0018   5  CG    ARG B   30    H  CA    GLU B   26    H                        
+HB_0018   6  CE    MET B   55    H  CA    GLU B   26    H                        
+HB_0018   7  CB    VAL B  113    H  CA    GLU B   26    H                        
+HB_0018   8  CG1   VAL B  113    H  CA    GLU B   26    H                        
+HB_0018   9  CG2   VAL B  113    H  CA    GLU B   26    H                        
+HB_0018  10  CB    VAL B   23    H  CA    GLU B   26    H  CA    GLU B   22    H 
+HB_0018  11  CG1   VAL B   23    H  CA    GLU B   26    H  CA    GLU B   22    H 
+HB_0018  12  CB    GLU B   26    H  CA    GLU B   26    H  CA    GLU B   22    H 
+HB_0018  13  CB    ASN B   19                              CA    GLU B   22    H 
+HB_0018  14  CB    GLU B   21    H                         CA    GLU B   22    H 
+HB_0018  15  CG    GLU B   21    H                         CA    GLU B   22    H 
+HB_0018  16  CB    GLU B   22    H                         CA    GLU B   22    H 
+HB_0018  17  CG    GLU B   22    H                         CA    GLU B   22    H 
+HB_0018  18  CG2   VAL B   23    H                         CA    GLU B   22    H 
+HB_0019   1  CB    ASP B   47       CA    ALA B   53    H                        
+HB_0019   2  CD2   LEU B   48       CA    ALA B   53    H                        
+HB_0019   3  CG1   VAL B   54    H  CA    ALA B   53    H                        
+HB_0019   4  CB    MET B   55    H  CA    ALA B   53    H                        
+HB_0019   5  CB    ASN B   57    H  CA    ALA B   53    H                        
+HB_0019   6  CB    ASN B   50    H  CA    ALA B   53    H  CA    ASN B   50    H 
+HB_0019   7  CB    ALA B   53    H  CA    ALA B   53    H  CA    ASN B   50    H 
+HB_0019   8  CB    VAL B   54    H  CA    ALA B   53    H  CA    ASN B   50    H 
+HB_0019   9  CG2   VAL B   54    H  CA    ALA B   53    H  CA    ASN B   50    H 
+HB_0019  10  CG2   VAL B   33    H                         CA    ASN B   50    H 
+HB_0019  11  CB    PRO B   51    H                         CA    ASN B   50    H 
+HB_0019  12  CG    PRO B   51    H                         CA    ASN B   50    H 
+HB_0020   1  CG    GLU B   21    H  CA    LYS B   61    H                        
+HB_0020   2  CD2   LEU B   28    H  CA    LYS B   61    H                        
+HB_0020   3  CB    ALA B   62    H  CA    LYS B   61    H                        
+HB_0020   4  CB    HIS B   63    H  CA    LYS B   61    H                        
+HB_0020   5  CB    LYS B   65    H  CA    LYS B   61    H                        
+HB_0020   6  CB    PRO B   58    H  CA    LYS B   61    H  CA    ASN B   57    H 
+HB_0020   7  CB    VAL B   60    H  CA    LYS B   61    H  CA    ASN B   57    H 
+HB_0020   8  CG1   VAL B   60    H  CA    LYS B   61    H  CA    ASN B   57    H 
+HB_0020   9  CG2   VAL B   60    H  CA    LYS B   61    H  CA    ASN B   57    H 
+HB_0020  10  CB    LYS B   61    H  CA    LYS B   61    H  CA    ASN B   57    H 
+HB_0020  11  CD2   LEU B   48                              CA    ASN B   57    H 
+HB_0020  12  CB    ASN B   57    H                         CA    ASN B   57    H 
+HB_0020  13  CG    PRO B   58    H                         CA    ASN B   57    H 
+HB_0020  14  CB    LYS B   59    H                         CA    ASN B   57    H 
+HB_0021   1  CB    HIS B   63    H  CA    ALA B   62    H                        
+HB_0021   2  CB    LYS B   65    H  CA    ALA B   62    H                        
+HB_0021   3  CG    LYS B   65    H  CA    ALA B   62    H                        
+HB_0021   4  CD    LYS B   65    H  CA    ALA B   62    H                        
+HB_0021   5  CB    LYS B   66    H  CA    ALA B   62    H                        
+HB_0021   6  CG    LYS B   66    H  CA    ALA B   62    H                        
+HB_0021   7  CD    LYS B   66    H  CA    ALA B   62    H                        
+HB_0021   8  CB    LYS B   59    H  CA    ALA B   62    H  CA    PRO B   58    H 
+HB_0021   9  CB    LYS B   61    H  CA    ALA B   62    H  CA    PRO B   58    H 
+HB_0021  10  CB    ALA B   62    H  CA    ALA B   62    H  CA    PRO B   58    H 
+HB_0021  11  CB    ASN B   57    H                         CA    PRO B   58    H 
+HB_0021  12  CB    PRO B   58    H                         CA    PRO B   58    H 
+HB_0021  13  CG    PRO B   58    H                         CA    PRO B   58    H 
+HB_0021  14  CB    VAL B   60    H                         CA    PRO B   58    H 
+HB_0022   1  CB    VAL B   67    H  CA    LYS B   66    H                        
+HB_0022   2  CG1   VAL B   67    H  CA    LYS B   66    H                        
+HB_0022   3  CG2   VAL B   67    H  CA    LYS B   66    H                        
+HB_0022   4  CB    LEU B   68    H  CA    LYS B   66    H                        
+HB_0022   5  CB    HIS B   69    H  CA    LYS B   66    H                        
+HB_0022   6  CB    HIS B   63    H  CA    LYS B   66    H  CA    ALA B   62    H 
+HB_0022   7  CB    LYS B   65    H  CA    LYS B   66    H  CA    ALA B   62    H 
+HB_0022   8  CG    LYS B   65    H  CA    LYS B   66    H  CA    ALA B   62    H 
+HB_0022   9  CD    LYS B   65    H  CA    LYS B   66    H  CA    ALA B   62    H 
+HB_0022  10  CB    LYS B   66    H  CA    LYS B   66    H  CA    ALA B   62    H 
+HB_0022  11  CG    LYS B   66    H  CA    LYS B   66    H  CA    ALA B   62    H 
+HB_0022  12  CD    LYS B   66    H  CA    LYS B   66    H  CA    ALA B   62    H 
+HB_0022  13  CB    LYS B   59    H                         CA    ALA B   62    H 
+HB_0022  14  CB    LYS B   61    H                         CA    ALA B   62    H 
+HB_0022  15  CB    ALA B   62    H                         CA    ALA B   62    H 
+HB_0023   1  CB    LEU B   81    H  CA    ASN B   80    H                        
+HB_0023   2  CB    LYS B   82    H  CA    ASN B   80    H                        
+HB_0023   3  CB    HIS B   77       CA    ASN B   80    H  CA    HIS B   77      
+HB_0023   4  CB    ASP B   79       CA    ASN B   80    H  CA    HIS B   77      
+HB_0023   5  CB    ASN B   80    H  CA    ASN B   80    H  CA    HIS B   77      
+HB_0023   6  CG    LEU B   81    H  CA    ASN B   80    H  CA    HIS B   77      
+HB_0023   7  CD2   LEU B   81    H  CA    ASN B   80    H  CA    HIS B   77      
+HB_0023   8  CB    HIS B   76    H                         CA    HIS B   77      
+HB_0023   9  CB    LEU B   78                              CA    HIS B   77      
+HB_0023  10  CG    LEU B   78                              CA    HIS B   77      
+HB_0023  11  CD1   LEU B   78                              CA    HIS B   77      
+HB_0023  12  CD2   LEU B   78                              CA    HIS B   77      
+HB_0023  13  CG2   THR B   84    H                         CA    HIS B   77      
+HB_0024   1  CG2   THR B   84    H  CA    THR B   84    H                        
+HB_0024   2  CB    PHE B   85    H  CA    THR B   84    H                        
+HB_0024   3  CG    PHE B   85    H  CA    THR B   84    H                        
+HB_0024   4  CD1   PHE B   85    H  CA    THR B   84    H                        
+HB_0024   5  CD2   PHE B   85    H  CA    THR B   84    H                        
+HB_0024   6  CE1   PHE B   85    H  CA    THR B   84    H                        
+HB_0024   7  CE2   PHE B   85    H  CA    THR B   84    H                        
+HB_0024   8  CZ    PHE B   85    H  CA    THR B   84    H                        
+HB_0024   9  CB    ALA B   86       CA    THR B   84    H                        
+HB_0024  10  CB    HIS B   77       CA    THR B   84    H  CA    ASN B   80    H 
+HB_0024  11  CB    ASN B   80    H  CA    THR B   84    H  CA    ASN B   80    H 
+HB_0024  12  CB    LEU B   81    H  CA    THR B   84    H  CA    ASN B   80    H 
+HB_0024  13  CD2   LEU B   81    H  CA    THR B   84    H  CA    ASN B   80    H 
+HB_0024  14  CB    ASP B   79                              CA    ASN B   80    H 
+HB_0024  15  CG    LEU B   81    H                         CA    ASN B   80    H 
+HB_0024  16  CB    LYS B   82    H                         CA    ASN B   80    H 
+HB_0025   1  CB    LYS B   95       CA    ASP B   94    H                        
+HB_0025   2  CG    LYS B   95       CA    ASP B   94    H                        
+HB_0025   3  CB    LEU B   96       CA    ASP B   94    H                        
+HB_0025   4  CB    HIS B   97       CA    ASP B   94    H                        
+HB_0025   5  CB    CYS B   93    H  CA    ASP B   94    H  CA    GLU B   90    H 
+HB_0025   6  CB    ASP B   94    H  CA    ASP B   94    H  CA    GLU B   90    H 
+HB_0025   7  CB    ALA B   87                              CA    GLU B   90    H 
+HB_0025   8  CB    GLU B   90    H                         CA    GLU B   90    H 
+HB_0025   9  CG    GLU B   90    H                         CA    GLU B   90    H 
+HB_0025  10  CB    LEU B   91    H                         CA    GLU B   90    H 
+HB_0025  11  CG    LEU B   91    H                         CA    GLU B   90    H 
+HB_0025  12  CD1   LEU B   91    H                         CA    GLU B   90    H 
+HB_0025  13  CD2   LEU B   91    H                         CA    GLU B   90    H 
+HB_0025  14  CB    HIS B   92    H                         CA    GLU B   90    H 
+HB_0025  15  CB    LYS B  144                              CA    GLU B   90    H 
+HB_0025  16  CE1   TYR B  145                              CA    GLU B   90    H 
+HB_0026   1  CB    ALA B  140    H  CA    ASN B  139    H                        
+HB_0026   2  CB    LEU B  141    H  CA    ASN B  139    H                        
+HB_0026   3  CB    ALA B  142    H  CA    ASN B  139    H                        
+HB_0026   4  CB    HIS B  143    H  CA    ASN B  139    H                        
+HB_0026   5  CB    ALA B  138    H  CA    ASN B  139    H  CA    ALA B  135    H 
+HB_0026   6  CB    ASN B  139    H  CA    ASN B  139    H  CA    ALA B  135    H 
+HB_0026   7  CG    ARG B  104    H                         CA    ALA B  135    H 
+HB_0026   8  CB    GLN B  131    H                         CA    ALA B  135    H 
+HB_0026   9  CB    LYS B  132    H                         CA    ALA B  135    H 
+HB_0026  10  CB    VAL B  134    H                         CA    ALA B  135    H 
+HB_0026  11  CG1   VAL B  134    H                         CA    ALA B  135    H 
+HB_0026  12  CG2   VAL B  134    H                         CA    ALA B  135    H 
+HB_0026  13  CB    ALA B  135    H                         CA    ALA B  135    H 
+HB_0026  14  CB    VAL B  137    H                         CA    ALA B  135    H 
+HB_0027   1  CG2   THR C    8    H  CA    THR C    8    H                        
+HB_0027   2  CB    ASN C    9    H  CA    THR C    8    H                        
+HB_0027   3  CB    VAL C   10    H  CA    THR C    8    H                        
+HB_0027   4  CB    LYS C   11    H  CA    THR C    8    H                        
+HB_0027   5  CG    LYS C   11    H  CA    THR C    8    H                        
+HB_0027   6  CB    ALA C   12    H  CA    THR C    8    H                        
+HB_0027   7  CB    ASP C    6    H  CA    THR C    8    H  CA    ALA C    4    H 
+HB_0027   8  CB    LYS C    7    H  CA    THR C    8    H  CA    ALA C    4    H 
+HB_0027   9  CG    LYS C    7    H  CA    THR C    8    H  CA    ALA C    4    H 
+HB_0027  10  CB    ALA C    4    H                         CA    ALA C    4    H 
+HB_0027  11  CB    ALA C    5    H                         CA    ALA C    4    H 
+HB_0027  12  CD    LYS C    7    H                         CA    ALA C    4    H 
+HB_0028   1  CD    LYS C   11    H  CA    ALA C   12    H                        
+HB_0028   2  CB    ALA C   13    H  CA    ALA C   12    H                        
+HB_0028   3  CB    TRP C   14    H  CA    ALA C   12    H                        
+HB_0028   4  CB    LYS C   16    H  CA    ALA C   12    H                        
+HB_0028   5  CG    LYS C   16    H  CA    ALA C   12    H                        
+HB_0028   6  CD    LYS C   16    H  CA    ALA C   12    H                        
+HB_0028   7  CG2   THR C    8    H  CA    ALA C   12    H  CA    THR C    8    H 
+HB_0028   8  CB    LYS C   11    H  CA    ALA C   12    H  CA    THR C    8    H 
+HB_0028   9  CG    LYS C   11    H  CA    ALA C   12    H  CA    THR C    8    H 
+HB_0028  10  CB    ALA C   12    H  CA    ALA C   12    H  CA    THR C    8    H 
+HB_0028  11  CB    ASP C    6    H                         CA    THR C    8    H 
+HB_0028  12  CB    LYS C    7    H                         CA    THR C    8    H 
+HB_0028  13  CG    LYS C    7    H                         CA    THR C    8    H 
+HB_0028  14  CB    ASN C    9    H                         CA    THR C    8    H 
+HB_0028  15  CB    VAL C   10    H                         CA    THR C    8    H 
+HB_0029   1  CB    LYS C   16    H  CA    SER C   15    H                        
+HB_0029   2  CG    LYS C   16    H  CA    SER C   15    H                        
+HB_0029   3  CD    LYS C   16    H  CA    SER C   15    H                        
+HB_0029   4  CB    VAL C   17    H  CA    SER C   15    H                        
+HB_0029   5  CG2   VAL C   17    H  CA    SER C   15    H                        
+HB_0029   6  CB    ALA C   12    H  CA    SER C   15    H  CA    LYS C   11    H 
+HB_0029   7  CB    TRP C   14    H  CA    SER C   15    H  CA    LYS C   11    H 
+HB_0029   8  CG    TRP C   14    H  CA    SER C   15    H  CA    LYS C   11    H 
+HB_0029   9  CB    VAL C   10    H                         CA    LYS C   11    H 
+HB_0029  10  CG1   VAL C   10    H                         CA    LYS C   11    H 
+HB_0029  11  CG2   VAL C   10    H                         CA    LYS C   11    H 
+HB_0029  12  CB    LYS C   11    H                         CA    LYS C   11    H 
+HB_0029  13  CG    LYS C   11    H                         CA    LYS C   11    H 
+HB_0029  14  CD    LYS C   11    H                         CA    LYS C   11    H 
+HB_0029  15  CB    ALA C   13    H                         CA    LYS C   11    H 
+HB_0029  16  CG2   VAL C   70    H                         CA    LYS C   11    H 
+HB_0029  17  CD1   LEU C   73                              CA    LYS C   11    H 
+HB_0030   1  CB    HIS C   20    H  CA    GLY C   18    H                        
+HB_0030   2  CB    ALA C   21    H  CA    GLY C   18    H                        
+HB_0030   3  CB    VAL C   17    H  CA    GLY C   18    H  CA    TRP C   14    H 
+HB_0030   4  CG1   VAL C   17    H  CA    GLY C   18    H  CA    TRP C   14    H 
+HB_0030   5  CG2   VAL C   17    H  CA    GLY C   18    H  CA    TRP C   14    H 
+HB_0030   6  CG1   VAL C   10    H                         CA    TRP C   14    H 
+HB_0030   7  CB    ALA C   13    H                         CA    TRP C   14    H 
+HB_0030   8  CB    TRP C   14    H                         CA    TRP C   14    H 
+HB_0030   9  CG    TRP C   14    H                         CA    TRP C   14    H 
+HB_0030  10  CD2   TRP C   14    H                         CA    TRP C   14    H 
+HB_0030  11  CE3   TRP C   14    H                         CA    TRP C   14    H 
+HB_0030  12  CZ2   TRP C   14    H                         CA    TRP C   14    H 
+HB_0030  13  CZ3   TRP C   14    H                         CA    TRP C   14    H 
+HB_0030  14  CH2   TRP C   14    H                         CA    TRP C   14    H 
+HB_0030  15  CB    LYS C   16    H                         CA    TRP C   14    H 
+HB_0030  16  CG    LYS C   16    H                         CA    TRP C   14    H 
+HB_0030  17  CD    LYS C   16    H                         CA    TRP C   14    H 
+HB_0030  18  CG2   VAL C   70    H                         CA    TRP C   14    H 
+HB_0031   1  CZ2   TRP C   14    H  CA    ALA C   21    H                        
+HB_0031   2  CH2   TRP C   14    H  CA    ALA C   21    H                        
+HB_0031   3  CB    GLU C   23    H  CA    ALA C   21    H                        
+HB_0031   4  CB    TYR C   24    H  CA    ALA C   21    H                        
+HB_0031   5  CG    TYR C   24    H  CA    ALA C   21    H                        
+HB_0031   6  CD1   TYR C   24    H  CA    ALA C   21    H                        
+HB_0031   7  CD2   TYR C   24    H  CA    ALA C   21    H                        
+HB_0031   8  CE1   TYR C   24    H  CA    ALA C   21    H                        
+HB_0031   9  CB    VAL C   17    H  CA    ALA C   21    H  CA    GLY C   18    H 
+HB_0031  10  CG1   VAL C   17    H  CA    ALA C   21    H  CA    GLY C   18    H 
+HB_0031  11  CG2   VAL C   17    H  CA    ALA C   21    H  CA    GLY C   18    H 
+HB_0031  12  CB    HIS C   20    H  CA    ALA C   21    H  CA    GLY C   18    H 
+HB_0031  13  CB    ALA C   21    H  CA    ALA C   21    H  CA    GLY C   18    H 
+HB_0032   1  CB    GLU C   27    H  CA    ALA C   26    H                        
+HB_0032   2  CG    GLU C   27    H  CA    ALA C   26    H                        
+HB_0032   3  CB    ALA C   28    H  CA    ALA C   26    H                        
+HB_0032   4  CB    LEU C   29    H  CA    ALA C   26    H                        
+HB_0032   5  CG    LEU C   29    H  CA    ALA C   26    H                        
+HB_0032   6  CD1   LEU C   29    H  CA    ALA C   26    H                        
+HB_0032   7  CB    GLU C   30    H  CA    ALA C   26    H                        
+HB_0032   8  CB    VAL C   55    H  CA    ALA C   26    H                        
+HB_0032   9  CG1   VAL C   55    H  CA    ALA C   26    H                        
+HB_0032  10  CB    LYS C   56    H  CA    ALA C   26    H                        
+HB_0032  11  CG    LYS C   56    H  CA    ALA C   26    H                        
+HB_0032  12  CB    GLU C   23    H  CA    ALA C   26    H  CA    GLY C   22    H 
+HB_0032  13  CB    TYR C   24    H  CA    ALA C   26    H  CA    GLY C   22    H 
+HB_0032  14  CB    ALA C   26    H  CA    ALA C   26    H  CA    GLY C   22    H 
+HB_0032  15  CB    ALA C   21    H                         CA    GLY C   22    H 
+HB_0032  16  CG    GLU C   23    H                         CA    GLY C   22    H 
+HB_0032  17  CG    TYR C   24    H                         CA    GLY C   22    H 
+HB_0032  18  CB    LYS C   60    H                         CA    GLY C   22    H 
+HB_0033   1  CB    ALA C   53    H  CA    SER C   52    H                        
+HB_0033   2  CB    GLN C   54    H  CA    SER C   52    H                        
+HB_0033   3  CG    GLN C   54    H  CA    SER C   52    H                        
+HB_0033   4  CB    VAL C   55    H  CA    SER C   52    H                        
+HB_0033   5  CB    LYS C   56    H  CA    SER C   52    H                        
+HB_0033   6  CB    ASP C   47       CA    SER C   52    H  CA    SER C   49      
+HB_0033   7  CG2   VAL C   55    H  CA    SER C   52    H  CA    SER C   49      
+HB_0033   8  CB    LEU C   48                              CA    SER C   49      
+HB_0033   9  CB    HIS C   50                              CA    SER C   49      
+HB_0034   1  CB    HIS C   58    H  CA    ALA C   57    H                        
+HB_0034   2  CB    LYS C   60    H  CA    ALA C   57    H                        
+HB_0034   3  CG    LYS C   61    H  CA    ALA C   57    H                        
+HB_0034   4  CB    ALA C   53    H  CA    ALA C   57    H  CA    ALA C   53    H 
+HB_0034   5  CB    GLN C   54    H  CA    ALA C   57    H  CA    ALA C   53    H 
+HB_0034   6  CB    LYS C   56    H  CA    ALA C   57    H  CA    ALA C   53    H 
+HB_0034   7  CG    LYS C   56    H  CA    ALA C   57    H  CA    ALA C   53    H 
+HB_0034   8  CD    LYS C   56    H  CA    ALA C   57    H  CA    ALA C   53    H 
+HB_0034   9  CB    ALA C   57    H  CA    ALA C   57    H  CA    ALA C   53    H 
+HB_0034  10  CB    GLN B    2                              CA    ALA C   53    H 
+HB_0034  11  CG    GLN C   54    H                         CA    ALA C   53    H 
+HB_0034  12  CB    VAL C   55    H                         CA    ALA C   53    H 
+HB_0034  13  CG2   VAL C   55    H                         CA    ALA C   53    H 
+HB_0035   1  CG1   VAL C   62    H  CA    VAL C   62    H                        
+HB_0035   2  CB    ASP C   64    H  CA    VAL C   62    H                        
+HB_0035   3  CB    ALA C   65    H  CA    VAL C   62    H                        
+HB_0035   4  CB    LEU C   66    H  CA    VAL C   62    H                        
+HB_0035   5  CG    LEU C   66    H  CA    VAL C   62    H                        
+HB_0035   6  CD1   LEU C   66    H  CA    VAL C   62    H                        
+HB_0035   7  CB    LYS C   61    H  CA    VAL C   62    H  CA    HIS C   58    H 
+HB_0035   8  CG    LYS C   61    H  CA    VAL C   62    H  CA    HIS C   58    H 
+HB_0035   9  CB    VAL C   62    H  CA    VAL C   62    H  CA    HIS C   58    H 
+HB_0035  10  CG2   VAL C   62    H  CA    VAL C   62    H  CA    HIS C   58    H 
+HB_0035  11  CG    LEU C   29    H                         CA    HIS C   58    H 
+HB_0035  12  CD1   LEU C   29    H                         CA    HIS C   58    H 
+HB_0035  13  CE1   PHE C   46                              CA    HIS C   58    H 
+HB_0035  14  CZ    PHE C   46                              CA    HIS C   58    H 
+HB_0035  15  CB    ALA C   57    H                         CA    HIS C   58    H 
+HB_0035  16  CB    HIS C   58    H                         CA    HIS C   58    H 
+HB_0035  17  CB    LYS C   60    H                         CA    HIS C   58    H 
+HB_0035  18  CD    LYS C   61    H                         CA    HIS C   58    H 
+HB_0036   1  CB    ALA C   21    H  CA    ASP C   64    H                        
+HB_0036   2  CB    ALA C   65    H  CA    ASP C   64    H                        
+HB_0036   3  CB    LEU C   66    H  CA    ASP C   64    H                        
+HB_0036   4  CG2   THR C   67    H  CA    ASP C   64    H                        
+HB_0036   5  CB    LEU C   68    H  CA    ASP C   64    H                        
+HB_0036   6  CB    ASP C   64    H  CA    ASP C   64    H  CA    LYS C   60    H 
+HB_0036   7  CB    LYS C   60    H                         CA    LYS C   60    H 
+HB_0036   8  CB    LYS C   61    H                         CA    LYS C   60    H 
+HB_0036   9  CG    LYS C   61    H                         CA    LYS C   60    H 
+HB_0036  10  CD    LYS C   61    H                         CA    LYS C   60    H 
+HB_0036  11  CB    VAL C   62    H                         CA    LYS C   60    H 
+HB_0037   1  CB    TRP C   14    H  CA    THR C   67    H                        
+HB_0037   2  CG    TRP C   14    H  CA    THR C   67    H                        
+HB_0037   3  CD2   TRP C   14    H  CA    THR C   67    H                        
+HB_0037   4  CZ2   TRP C   14    H  CA    THR C   67    H                        
+HB_0037   5  CH2   TRP C   14    H  CA    THR C   67    H                        
+HB_0037   6  CG    LEU C   66    H  CA    THR C   67    H                        
+HB_0037   7  CD2   LEU C   66    H  CA    THR C   67    H                        
+HB_0037   8  CG    LEU C   68    H  CA    THR C   67    H                        
+HB_0037   9  CB    ALA C   69    H  CA    THR C   67    H                        
+HB_0037  10  CB    VAL C   70    H  CA    THR C   67    H                        
+HB_0037  11  CG1   VAL C   70    H  CA    THR C   67    H                        
+HB_0037  12  CG2   VAL C   70    H  CA    THR C   67    H                        
+HB_0037  13  CB    ALA C   21    H  CA    THR C   67    H  CA    ASP C   64    H 
+HB_0037  14  CB    ASP C   64    H  CA    THR C   67    H  CA    ASP C   64    H 
+HB_0037  15  CB    LEU C   66    H  CA    THR C   67    H  CA    ASP C   64    H 
+HB_0037  16  CG2   THR C   67    H  CA    THR C   67    H  CA    ASP C   64    H 
+HB_0037  17  CB    LEU C   68    H  CA    THR C   67    H  CA    ASP C   64    H 
+HB_0037  18  CB    ALA C   65    H                         CA    ASP C   64    H 
+HB_0038   1  CG    LEU C   68    H  CA    LEU C   68    H                        
+HB_0038   2  CD1   LEU C   68    H  CA    LEU C   68    H                        
+HB_0038   3  CD2   LEU C   68    H  CA    LEU C   68    H                        
+HB_0038   4  CB    ALA C   69    H  CA    LEU C   68    H                        
+HB_0038   5  CB    VAL C   70    H  CA    LEU C   68    H                        
+HB_0038   6  CG1   VAL C   70    H  CA    LEU C   68    H                        
+HB_0038   7  CG2   VAL C   70    H  CA    LEU C   68    H                        
+HB_0038   8  CB    HIS C   72    H  CA    LEU C   68    H                        
+HB_0038   9  CB    ALA C   79    H  CA    LEU C   68    H                        
+HB_0038  10  CD2   LEU C   80   HH  CA    LEU C   68    H                        
+HB_0038  11  CG2   THR C   67    H  CA    LEU C   68    H  CA    ASP C   64    H 
+HB_0038  12  CB    LEU C   68    H  CA    LEU C   68    H  CA    ASP C   64    H 
+HB_0038  13  CB    ALA C   21    H                         CA    ASP C   64    H 
+HB_0038  14  CB    ASP C   64    H                         CA    ASP C   64    H 
+HB_0038  15  CB    ALA C   65    H                         CA    ASP C   64    H 
+HB_0038  16  CB    LEU C   66    H                         CA    ASP C   64    H 
+HB_0039   1  CG    LYS C   11    H  CA    GLY C   71    H                        
+HB_0039   2  CD    LYS C   11    H  CA    GLY C   71    H                        
+HB_0039   3  CB    LEU C   73       CA    GLY C   71    H                        
+HB_0039   4  CG    LEU C   73       CA    GLY C   71    H                        
+HB_0039   5  CD1   LEU C   73       CA    GLY C   71    H                        
+HB_0039   6  CD2   LEU C   73       CA    GLY C   71    H                        
+HB_0039   7  CB    VAL C   70    H  CA    GLY C   71    H  CA    LEU C   68    H 
+HB_0039   8  CG1   VAL C   70    H  CA    GLY C   71    H  CA    LEU C   68    H 
+HB_0039   9  CG2   VAL C   70    H  CA    GLY C   71    H  CA    LEU C   68    H 
+HB_0039  10  CB    HIS C   72    H  CA    GLY C   71    H  CA    LEU C   68    H 
+HB_0039  11  CG2   THR C   67    H                         CA    LEU C   68    H 
+HB_0039  12  CB    LEU C   68    H                         CA    LEU C   68    H 
+HB_0039  13  CG    LEU C   68    H                         CA    LEU C   68    H 
+HB_0039  14  CD1   LEU C   68    H                         CA    LEU C   68    H 
+HB_0039  15  CD2   LEU C   68    H                         CA    LEU C   68    H 
+HB_0039  16  CB    ALA C   69    H                         CA    LEU C   68    H 
+HB_0039  17  CB    ALA C   79    H                         CA    LEU C   68    H 
+HB_0039  18  CD2   LEU C   80   HH                         CA    LEU C   68    H 
+HB_0040   1  CB    ASP C   75    H  CA    ASP C   75    H                        
+HB_0040   2  CB    LEU C   76    H  CA    ASP C   75    H                        
+HB_0040   3  CB    PRO C   77    H  CA    ASP C   75    H                        
+HB_0040   4  CG    PRO C   77    H  CA    ASP C   75    H                        
+HB_0040   5  CB    HIS C   72    H  CA    ASP C   75    H  CA    HIS C   72    H 
+HB_0040   6  CB    ASP C   74       CA    ASP C   75    H  CA    HIS C   72    H 
+HB_0040   7  CD1   LEU C   68    H                         CA    HIS C   72    H 
+HB_0040   8  CB    ALA C   69    H                         CA    HIS C   72    H 
+HB_0040   9  CB    LEU C   73                              CA    HIS C   72    H 
+HB_0040  10  CG    LEU C   73                              CA    HIS C   72    H 
+HB_0040  11  CD1   LEU C   73                              CA    HIS C   72    H 
+HB_0040  12  CD2   LEU C   73                              CA    HIS C   72    H 
+HB_0040  13  CB    ALA C   79    H                         CA    HIS C   72    H 
+HB_0041   1  CG    LEU C   80   HH  CA    SER C   81    H                        
+HB_0041   2  CB    ASP C   82    H  CA    SER C   81    H                        
+HB_0041   3  CB    LEU C   83    H  CA    SER C   81    H                        
+HB_0041   4  CB    ASN C   85    H  CA    SER C   81    H                        
+HB_0041   5  CB    LEU C   80   HH  CA    SER C   81    H  CA    GLY C   78    H 
+HB_0041   6  CG1   VAL C  135    H  CA    SER C   81    H  CA    GLY C   78    H 
+HB_0041   7  CB    ASP C   75    H                         CA    GLY C   78    H 
+HB_0041   8  CB    PRO C   77    H                         CA    GLY C   78    H 
+HB_0041   9  CG    PRO C   77    H                         CA    GLY C   78    H 
+HB_0041  10  CB    ALA C   79    H                         CA    GLY C   78    H 
+HB_0042   1  CB    LEU C   86    H  CA    ASN C   85    H                        
+HB_0042   2  CG    LEU C   86    H  CA    ASN C   85    H                        
+HB_0042   3  CB    ALA C   88    H  CA    ASN C   85    H                        
+HB_0042   4  CB    HIS C   89       CA    ASN C   85    H                        
+HB_0042   5  CB    LYS C   90       CA    ASN C   85    H                        
+HB_0042   6  CB    ASP C   82    H  CA    ASN C   85    H  CA    SER C   81    H 
+HB_0042   7  CB    ASN C   85    H  CA    ASN C   85    H  CA    SER C   81    H 
+HB_0042   8  CB    LEU C   80   HH                         CA    SER C   81    H 
+HB_0042   9  CG    LEU C   80   HH                         CA    SER C   81    H 
+HB_0042  10  CB    LEU C   83    H                         CA    SER C   81    H 
+HB_0042  11  CG1   VAL C  135    H                         CA    SER C   81    H 
+HB_0043   1  CB    LYS C   16    H  CA    ASP C  116                             
+HB_0043   2  CG    LYS C   16    H  CA    ASP C  116                             
+HB_0043   3  CB    ASN C  115       CA    ASP C  116                             
+HB_0043   4  CG2   THR C  118    H  CA    ASP C  116                             
+HB_0043   5  CB    VAL C  121    H  CA    ASP C  116                             
+HB_0043   6  CG1   VAL C  121    H  CA    ASP C  116                             
+HB_0043   7  CG2   VAL C  121    H  CA    ASP C  116                             
+HB_0043   8  CB    LEU C  113    H  CA    ASP C  116       CA    LEU C  113    H 
+HB_0043   9  CG    LEU C  113    H  CA    ASP C  116       CA    LEU C  113    H 
+HB_0043  10  CD1   LEU C  113    H  CA    ASP C  116       CA    LEU C  113    H 
+HB_0043  11  CB    ASP C  116       CA    ASP C  116       CA    LEU C  113    H 
+HB_0043  12  CB    PHE C  117       CA    ASP C  116       CA    LEU C  113    H 
+HB_0043  13  CG    PHE C  117       CA    ASP C  116       CA    LEU C  113    H 
+HB_0043  14  CB    LEU C  109    H                         CA    LEU C  113    H 
+HB_0043  15  CB    HIS C  112    H                         CA    LEU C  113    H 
+HB_0043  16  CD2   LEU C  113    H                         CA    LEU C  113    H 
+HB_0043  17  CB    PRO C  114                              CA    LEU C  113    H 
+HB_0043  18  CG    PRO C  114                              CA    LEU C  113    H 
+HB_0044   1  CB    VAL C    1       CA    LYS C  127    H                        
+HB_0044   2  CG1   VAL C    1       CA    LYS C  127    H                        
+HB_0044   3  CB    PHE C  128    H  CA    LYS C  127    H                        
+HB_0044   4  CG    PHE C  128    H  CA    LYS C  127    H                        
+HB_0044   5  CB    LEU C  129    H  CA    LYS C  127    H                        
+HB_0044   6  CB    ASP C  126    H  CA    LYS C  127    H  CA    ALA C  123    H 
+HB_0044   7  CB    LYS C  127    H  CA    LYS C  127    H  CA    ALA C  123    H 
+HB_0044   8  CG    LYS C  127    H  CA    LYS C  127    H  CA    ALA C  123    H 
+HB_0044   9  CD    LYS C  127    H  CA    LYS C  127    H  CA    ALA C  123    H 
+HB_0044  10  CB    ALA C  120    H                         CA    ALA C  123    H 
+HB_0044  11  CB    VAL C  121    H                         CA    ALA C  123    H 
+HB_0044  12  CB    HIS C  122    H                         CA    ALA C  123    H 
+HB_0044  13  CB    ALA C  123    H                         CA    ALA C  123    H 
+HB_0044  14  CB    LEU C  125    H                         CA    ALA C  123    H 
+HB_0044  15  CG1   VAL D   33    H                         CA    ALA C  123    H 
+HB_0044  16  CB    VAL D   34    H                         CA    ALA C  123    H 
+HB_0044  17  CG1   VAL D   34    H                         CA    ALA C  123    H 
+HB_0044  18  CG2   VAL D   34    H                         CA    ALA C  123    H 
+HB_0045   1  CB    VAL C  132    H  CA    SER C  130    H                        
+HB_0045   2  CB    LYS C  127    H  CA    SER C  130    H  CA    ASP C  126    H 
+HB_0045   3  CB    LEU C  129    H  CA    SER C  130    H  CA    ASP C  126    H 
+HB_0045   4  CG    LEU C  129    H  CA    SER C  130    H  CA    ASP C  126    H 
+HB_0045   5  CG    LEU C  106    H                         CA    ASP C  126    H 
+HB_0045   6  CD1   LEU C  106    H                         CA    ASP C  126    H 
+HB_0045   7  CD2   LEU C  106    H                         CA    ASP C  126    H 
+HB_0045   8  CB    LEU C  125    H                         CA    ASP C  126    H 
+HB_0045   9  CG    LEU C  125    H                         CA    ASP C  126    H 
+HB_0045  10  CB    ASP C  126    H                         CA    ASP C  126    H 
+HB_0045  11  CG    LYS C  127    H                         CA    ASP C  126    H 
+HB_0045  12  CD    LYS C  127    H                         CA    ASP C  126    H 
+HB_0045  13  CB    PHE C  128    H                         CA    ASP C  126    H 
+HB_0045  14  CD1   LEU C  129    H                         CA    ASP C  126    H 
+HB_0045  15  CD2   LEU C  129    H                         CA    ASP C  126    H 
+HB_0045  16  CG1   VAL D   34    H                         CA    ASP C  126    H 
+HB_0046   1  CB    LEU C   76    H  CA    SER C  131    H                        
+HB_0046   2  CB    VAL C  132    H  CA    SER C  131    H                        
+HB_0046   3  CG1   VAL C  132    H  CA    SER C  131    H                        
+HB_0046   4  CG2   VAL C  132    H  CA    SER C  131    H                        
+HB_0046   5  CG2   THR C  134    H  CA    SER C  131    H                        
+HB_0046   6  CB    VAL C  135    H  CA    SER C  131    H                        
+HB_0046   7  CG2   VAL C  135    H  CA    SER C  131    H                        
+HB_0046   8  CB    VAL C    1       CA    SER C  131    H  CA    LYS C  127    H 
+HB_0046   9  CG1   VAL C    1       CA    SER C  131    H  CA    LYS C  127    H 
+HB_0046  10  CB    ASP C  126    H                         CA    LYS C  127    H 
+HB_0046  11  CB    LYS C  127    H                         CA    LYS C  127    H 
+HB_0046  12  CG    LYS C  127    H                         CA    LYS C  127    H 
+HB_0046  13  CD    LYS C  127    H                         CA    LYS C  127    H 
+HB_0046  14  CB    PHE C  128    H                         CA    LYS C  127    H 
+HB_0046  15  CG    PHE C  128    H                         CA    LYS C  127    H 
+HB_0046  16  CB    LEU C  129    H                         CA    LYS C  127    H 
+HB_0047   1  CG2   THR C  134    H  CA    THR C  134    H                        
+HB_0047   2  CB    VAL C  135    H  CA    THR C  134    H                        
+HB_0047   3  CG1   VAL C  135    H  CA    THR C  134    H                        
+HB_0047   4  CG2   VAL C  135    H  CA    THR C  134    H                        
+HB_0047   5  CB    LEU C  136    H  CA    THR C  134    H                        
+HB_0047   6  CG2   THR C  137       CA    THR C  134    H                        
+HB_0047   7  CB    LYS C  127    H                         CA    SER C  130    H 
+HB_0047   8  CB    LEU C  129    H                         CA    SER C  130    H 
+HB_0047   9  CG    LEU C  129    H                         CA    SER C  130    H 
+HB_0047  10  CB    VAL C  132    H                         CA    SER C  130    H 
+HB_0048   1  CB    PRO C   77    H  CA    VAL C  135    H                        
+HB_0048   2  CG    PRO C   77    H  CA    VAL C  135    H                        
+HB_0048   3  CD1   LEU C   80   HH  CA    VAL C  135    H                        
+HB_0048   4  CG1   VAL C  135    H  CA    VAL C  135    H                        
+HB_0048   5  CB    LEU C  136    H  CA    VAL C  135    H                        
+HB_0048   6  CG    LEU C  136    H  CA    VAL C  135    H                        
+HB_0048   7  CD2   LEU C  136    H  CA    VAL C  135    H                        
+HB_0048   8  CB    LEU C   76    H  CA    VAL C  135    H  CA    SER C  131    H 
+HB_0048   9  CG1   VAL C  132    H  CA    VAL C  135    H  CA    SER C  131    H 
+HB_0048  10  CG2   THR C  134    H  CA    VAL C  135    H  CA    SER C  131    H 
+HB_0048  11  CB    VAL C  135    H  CA    VAL C  135    H  CA    SER C  131    H 
+HB_0048  12  CG2   VAL C  135    H  CA    VAL C  135    H  CA    SER C  131    H 
+HB_0048  13  CB    VAL C    1                              CA    SER C  131    H 
+HB_0048  14  CG1   VAL C    1                              CA    SER C  131    H 
+HB_0048  15  CB    VAL C  132    H                         CA    SER C  131    H 
+HB_0048  16  CG2   VAL C  132    H                         CA    SER C  131    H 
+HB_0049   1  CB    ALA C   88    H  CA    THR C  137                             
+HB_0049   2  CE1   PHE C   98    H  CA    THR C  137                             
+HB_0049   3  CZ    PHE C   98    H  CA    THR C  137                             
+HB_0049   4  CG    LEU C  136    H  CA    THR C  137                             
+HB_0049   5  CD    LYS C  139       CA    THR C  137                             
+HB_0049   6  CG2   THR C  134    H  CA    THR C  137       CA    THR C  134    H 
+HB_0049   7  CB    VAL C  135    H  CA    THR C  137       CA    THR C  134    H 
+HB_0049   8  CB    LEU C  136    H  CA    THR C  137       CA    THR C  134    H 
+HB_0049   9  CG2   THR C  137       CA    THR C  137       CA    THR C  134    H 
+HB_0049  10  CG1   VAL C  135    H                         CA    THR C  134    H 
+HB_0049  11  CG2   VAL C  135    H                         CA    THR C  134    H 
+HB_0050   1  CB    ALA C   88    H  CA    SER C  138                             
+HB_0050   2  CG2   THR C  137       CA    SER C  138                             
+HB_0050   3  CB    LYS C  139       CA    SER C  138                             
+HB_0050   4  CG    LYS C  139       CA    SER C  138                             
+HB_0050   5  CD    LYS C  139       CA    SER C  138                             
+HB_0050   6  CG1   VAL C  135    H  CA    SER C  138       CA    VAL C  135    H 
+HB_0050   7  CB    LEU C   76    H                         CA    VAL C  135    H 
+HB_0050   8  CB    PRO C   77    H                         CA    VAL C  135    H 
+HB_0050   9  CG    PRO C   77    H                         CA    VAL C  135    H 
+HB_0050  10  CD1   LEU C   80   HH                         CA    VAL C  135    H 
+HB_0050  11  CG1   VAL C  132    H                         CA    VAL C  135    H 
+HB_0050  12  CG2   THR C  134    H                         CA    VAL C  135    H 
+HB_0050  13  CB    VAL C  135    H                         CA    VAL C  135    H 
+HB_0050  14  CG2   VAL C  135    H                         CA    VAL C  135    H 
+HB_0050  15  CB    LEU C  136    H                         CA    VAL C  135    H 
+HB_0050  16  CG    LEU C  136    H                         CA    VAL C  135    H 
+HB_0050  17  CD2   LEU C  136    H                         CA    VAL C  135    H 
+HB_0051   1  CD1   LEU D    3       CA    GLU D    7    H                        
+HB_0051   2  CB    ALA D    9    H  CA    GLU D    7    H                        
+HB_0051   3  CB    ALA D   10    H  CA    GLU D    7    H                        
+HB_0051   4  CB    VAL D   11    H  CA    GLU D    7    H                        
+HB_0051   5  CG2   VAL D   11    H  CA    GLU D    7    H                        
+HB_0051   6  CB    LEU D    3       CA    GLU D    7    H  CA    SER D    4    H 
+HB_0051   7  CG    LEU D    3       CA    GLU D    7    H  CA    SER D    4    H 
+HB_0051   8  CB    GLU D    6    H  CA    GLU D    7    H  CA    SER D    4    H 
+HB_0051   9  CB    GLU D    7    H  CA    GLU D    7    H  CA    SER D    4    H 
+HB_0051  10  CG    GLU D    7    H  CA    GLU D    7    H  CA    SER D    4    H 
+HB_0051  11  CB    LYS D    8    H  CA    GLU D    7    H  CA    SER D    4    H 
+HB_0051  12  CG    LYS D    8    H  CA    GLU D    7    H  CA    SER D    4    H 
+HB_0051  13  CD    LYS D    8    H  CA    GLU D    7    H  CA    SER D    4    H 
+HB_0052   1  CB    VAL D   11    H  CA    ALA D   10    H                        
+HB_0052   2  CG1   VAL D   11    H  CA    ALA D   10    H                        
+HB_0052   3  CG2   VAL D   11    H  CA    ALA D   10    H                        
+HB_0052   4  CB    LEU D   12    H  CA    ALA D   10    H                        
+HB_0052   5  CB    ALA D   13    H  CA    ALA D   10    H                        
+HB_0052   6  CB    LEU D   14    H  CA    ALA D   10    H                        
+HB_0052   7  CG    LEU D  126    H  CA    ALA D   10    H                        
+HB_0052   8  CD1   LEU D  126    H  CA    ALA D   10    H                        
+HB_0052   9  CD2   LEU D  126    H  CA    ALA D   10    H                        
+HB_0052  10  CB    GLU D    7    H  CA    ALA D   10    H  CA    GLU D    6    H 
+HB_0052  11  CB    ALA D    9    H  CA    ALA D   10    H  CA    GLU D    6    H 
+HB_0052  12  CB    ALA D   10    H  CA    ALA D   10    H  CA    GLU D    6    H 
+HB_0052  13  CB    GLU D    6    H                         CA    GLU D    6    H 
+HB_0052  14  CG    GLU D    7    H                         CA    GLU D    6    H 
+HB_0052  15  CB    LYS D    8    H                         CA    GLU D    6    H 
+HB_0053   1  CB    LEU D   14    H  CA    ALA D   13    H                        
+HB_0053   2  CG    LEU D   14    H  CA    ALA D   13    H                        
+HB_0053   3  CB    TRP D   15    H  CA    ALA D   13    H                        
+HB_0053   4  CB    ASP D   16    H  CA    ALA D   13    H                        
+HB_0053   5  CG    LYS D   17       CA    ALA D   13    H                        
+HB_0053   6  CD    LYS D   17       CA    ALA D   13    H                        
+HB_0053   7  CB    LEU D   12    H  CA    ALA D   13    H  CA    ALA D    9    H 
+HB_0053   8  CG    LEU D   12    H  CA    ALA D   13    H  CA    ALA D    9    H 
+HB_0053   9  CB    ALA D   13    H  CA    ALA D   13    H  CA    ALA D    9    H 
+HB_0053  10  CB    GLU D    6    H                         CA    ALA D    9    H 
+HB_0053  11  CB    GLU D    7    H                         CA    ALA D    9    H 
+HB_0053  12  CB    LYS D    8    H                         CA    ALA D    9    H 
+HB_0053  13  CG    LYS D    8    H                         CA    ALA D    9    H 
+HB_0053  14  CB    ALA D    9    H                         CA    ALA D    9    H 
+HB_0053  15  CB    ALA D   10    H                         CA    ALA D    9    H 
+HB_0053  16  CB    VAL D   11    H                         CA    ALA D    9    H 
+HB_0053  17  CG2   VAL D   11    H                         CA    ALA D    9    H 
+HB_0053  18  CD1   LEU D   12    H                         CA    ALA D    9    H 
+HB_0054   1  CG    LEU D   12    H  CA    ALA D   13    H                        
+HB_0054   2  CG    LEU D   14    H  CA    ALA D   13    H                        
+HB_0054   3  CB    TRP D   15    H  CA    ALA D   13    H                        
+HB_0054   4  CB    ASP D   16    H  CA    ALA D   13    H                        
+HB_0054   5  CG    LYS D   17       CA    ALA D   13    H                        
+HB_0054   6  CD    LYS D   17       CA    ALA D   13    H                        
+HB_0054   7  CB    LEU D   12    H  CA    ALA D   13    H  CA    ALA D   10    H 
+HB_0054   8  CB    ALA D   13    H  CA    ALA D   13    H  CA    ALA D   10    H 
+HB_0054   9  CB    LEU D   14    H  CA    ALA D   13    H  CA    ALA D   10    H 
+HB_0054  10  CB    GLU D    7    H                         CA    ALA D   10    H 
+HB_0054  11  CB    ALA D    9    H                         CA    ALA D   10    H 
+HB_0054  12  CB    ALA D   10    H                         CA    ALA D   10    H 
+HB_0054  13  CB    VAL D   11    H                         CA    ALA D   10    H 
+HB_0054  14  CG1   VAL D   11    H                         CA    ALA D   10    H 
+HB_0054  15  CG2   VAL D   11    H                         CA    ALA D   10    H 
+HB_0054  16  CG    LEU D  126    H                         CA    ALA D   10    H 
+HB_0054  17  CD1   LEU D  126    H                         CA    ALA D   10    H 
+HB_0054  18  CD2   LEU D  126    H                         CA    ALA D   10    H 
+HB_0055   1  CG    GLU D   26    H  CA    GLU D   26    H                        
+HB_0055   2  CB    ALA D   27    H  CA    GLU D   26    H                        
+HB_0055   3  CB    LEU D   28    H  CA    GLU D   26    H                        
+HB_0055   4  CB    ARG D   30    H  CA    GLU D   26    H                        
+HB_0055   5  CG    ARG D   30    H  CA    GLU D   26    H                        
+HB_0055   6  CE    MET D   55    H  CA    GLU D   26    H                        
+HB_0055   7  CB    VAL D  113    H  CA    GLU D   26    H                        
+HB_0055   8  CG1   VAL D  113    H  CA    GLU D   26    H                        
+HB_0055   9  CG2   VAL D  113    H  CA    GLU D   26    H                        
+HB_0055  10  CB    VAL D   23    H  CA    GLU D   26    H  CA    GLU D   22    H 
+HB_0055  11  CB    GLU D   26    H  CA    GLU D   26    H  CA    GLU D   22    H 
+HB_0055  12  CB    ASN D   19    H                         CA    GLU D   22    H 
+HB_0055  13  CB    GLU D   21    H                         CA    GLU D   22    H 
+HB_0055  14  CB    GLU D   22    H                         CA    GLU D   22    H 
+HB_0055  15  CG    GLU D   22    H                         CA    GLU D   22    H 
+HB_0055  16  CG1   VAL D   23    H                         CA    GLU D   22    H 
+HB_0055  17  CG2   VAL D   23    H                         CA    GLU D   22    H 
+HB_0056   1  CB    LEU D   48       CA    ALA D   53    H                        
+HB_0056   2  CD2   LEU D   48       CA    ALA D   53    H                        
+HB_0056   3  CG1   VAL D   54    H  CA    ALA D   53    H                        
+HB_0056   4  CB    MET D   55    H  CA    ALA D   53    H                        
+HB_0056   5  CB    ASN D   57    H  CA    ALA D   53    H                        
+HB_0056   6  CB    ASN D   50    H  CA    ALA D   53    H  CA    ASN D   50    H 
+HB_0056   7  CB    ALA D   53    H  CA    ALA D   53    H  CA    ASN D   50    H 
+HB_0056   8  CB    VAL D   54    H  CA    ALA D   53    H  CA    ASN D   50    H 
+HB_0056   9  CG2   VAL D   54    H  CA    ALA D   53    H  CA    ASN D   50    H 
+HB_0056  10  CG2   VAL D   33    H                         CA    ASN D   50    H 
+HB_0056  11  CB    PRO D   51    H                         CA    ASN D   50    H 
+HB_0056  12  CG    PRO D   51    H                         CA    ASN D   50    H 
+HB_0057   1  CB    ASN D   57    H  CA    GLY D   56    H                        
+HB_0057   2  CG    PRO D   58    H  CA    GLY D   56    H                        
+HB_0057   3  CG    LYS D   61    H  CA    GLY D   56    H                        
+HB_0057   4  CD    LYS D   61    H  CA    GLY D   56    H                        
+HB_0057   5  CB    MET D   55    H  CA    GLY D   56    H  CA    GLY D   52    H 
+HB_0057   6  CG    MET D   55    H  CA    GLY D   56    H  CA    GLY D   52    H 
+HB_0057   7  CB    ASN D   50    H                         CA    GLY D   52    H 
+HB_0057   8  CB    PRO D   51    H                         CA    GLY D   52    H 
+HB_0057   9  CG    PRO D   51    H                         CA    GLY D   52    H 
+HB_0057  10  CB    ALA D   53    H                         CA    GLY D   52    H 
+HB_0057  11  CB    VAL D   54    H                         CA    GLY D   52    H 
+HB_0058   1  CD2   LEU D   28    H  CA    LYS D   61    H                        
+HB_0058   2  CB    ALA D   62    H  CA    LYS D   61    H                        
+HB_0058   3  CB    HIS D   63    H  CA    LYS D   61    H                        
+HB_0058   4  CB    LYS D   65    H  CA    LYS D   61    H                        
+HB_0058   5  CB    LYS D   59    H  CA    LYS D   61    H  CA    ASN D   57    H 
+HB_0058   6  CB    VAL D   60    H  CA    LYS D   61    H  CA    ASN D   57    H 
+HB_0058   7  CG1   VAL D   60    H  CA    LYS D   61    H  CA    ASN D   57    H 
+HB_0058   8  CG2   VAL D   60    H  CA    LYS D   61    H  CA    ASN D   57    H 
+HB_0058   9  CB    LYS D   61    H  CA    LYS D   61    H  CA    ASN D   57    H 
+HB_0058  10  CG    LYS D   61    H  CA    LYS D   61    H  CA    ASN D   57    H 
+HB_0058  11  CD    LYS D   61    H  CA    LYS D   61    H  CA    ASN D   57    H 
+HB_0058  12  CD2   LEU D   48                              CA    ASN D   57    H 
+HB_0058  13  CB    ASN D   57    H                         CA    ASN D   57    H 
+HB_0058  14  CB    PRO D   58    H                         CA    ASN D   57    H 
+HB_0058  15  CG    PRO D   58    H                         CA    ASN D   57    H 
+HB_0059   1  CB    HIS D   63    H  CA    ALA D   62    H                        
+HB_0059   2  CB    LYS D   65    H  CA    ALA D   62    H                        
+HB_0059   3  CG    LYS D   65    H  CA    ALA D   62    H                        
+HB_0059   4  CD    LYS D   65    H  CA    ALA D   62    H                        
+HB_0059   5  CB    LYS D   66    H  CA    ALA D   62    H                        
+HB_0059   6  CG    LYS D   66    H  CA    ALA D   62    H                        
+HB_0059   7  CD    LYS D   66    H  CA    ALA D   62    H                        
+HB_0059   8  CB    LYS D   59    H  CA    ALA D   62    H  CA    PRO D   58    H 
+HB_0059   9  CB    LYS D   61    H  CA    ALA D   62    H  CA    PRO D   58    H 
+HB_0059  10  CG    LYS D   61    H  CA    ALA D   62    H  CA    PRO D   58    H 
+HB_0059  11  CB    ALA D   62    H  CA    ALA D   62    H  CA    PRO D   58    H 
+HB_0059  12  CB    ASN D   57    H                         CA    PRO D   58    H 
+HB_0059  13  CB    PRO D   58    H                         CA    PRO D   58    H 
+HB_0059  14  CG    PRO D   58    H                         CA    PRO D   58    H 
+HB_0059  15  CB    VAL D   60    H                         CA    PRO D   58    H 
+HB_0059  16  CD    LYS D   61    H                         CA    PRO D   58    H 
+HB_0060   1  CB    VAL D   67    H  CA    LYS D   66    H                        
+HB_0060   2  CG1   VAL D   67    H  CA    LYS D   66    H                        
+HB_0060   3  CG2   VAL D   67    H  CA    LYS D   66    H                        
+HB_0060   4  CB    LEU D   68    H  CA    LYS D   66    H                        
+HB_0060   5  CB    HIS D   69    H  CA    LYS D   66    H                        
+HB_0060   6  CB    HIS D   63    H  CA    LYS D   66    H  CA    ALA D   62    H 
+HB_0060   7  CB    LYS D   65    H  CA    LYS D   66    H  CA    ALA D   62    H 
+HB_0060   8  CG    LYS D   65    H  CA    LYS D   66    H  CA    ALA D   62    H 
+HB_0060   9  CD    LYS D   65    H  CA    LYS D   66    H  CA    ALA D   62    H 
+HB_0060  10  CB    LYS D   66    H  CA    LYS D   66    H  CA    ALA D   62    H 
+HB_0060  11  CG    LYS D   66    H  CA    LYS D   66    H  CA    ALA D   62    H 
+HB_0060  12  CD    LYS D   66    H  CA    LYS D   66    H  CA    ALA D   62    H 
+HB_0060  13  CB    LYS D   59    H                         CA    ALA D   62    H 
+HB_0060  14  CB    LYS D   61    H                         CA    ALA D   62    H 
+HB_0060  15  CG    LYS D   61    H                         CA    ALA D   62    H 
+HB_0060  16  CB    ALA D   62    H                         CA    ALA D   62    H 
+HB_0061   1  CZ2   TRP D   15    H  CA    HIS D   69    H                        
+HB_0061   2  CD1   LEU D   68    H  CA    HIS D   69    H                        
+HB_0061   3  CB    PHE D   71    H  CA    HIS D   69    H                        
+HB_0061   4  CB    GLU D   20    H  CA    HIS D   69    H  CA    LYS D   65    H 
+HB_0061   5  CG    GLU D   20    H  CA    HIS D   69    H  CA    LYS D   65    H 
+HB_0061   6  CB    LYS D   65    H  CA    HIS D   69    H  CA    LYS D   65    H 
+HB_0061   7  CG    LYS D   65    H  CA    HIS D   69    H  CA    LYS D   65    H 
+HB_0061   8  CD    LYS D   65    H  CA    HIS D   69    H  CA    LYS D   65    H 
+HB_0061   9  CB    LYS D   66    H  CA    HIS D   69    H  CA    LYS D   65    H 
+HB_0061  10  CB    LEU D   68    H  CA    HIS D   69    H  CA    LYS D   65    H 
+HB_0061  11  CG    LEU D   68    H  CA    HIS D   69    H  CA    LYS D   65    H 
+HB_0061  12  CB    HIS D   69    H  CA    HIS D   69    H  CA    LYS D   65    H 
+HB_0061  13  CB    GLU D   21    H                         CA    LYS D   65    H 
+HB_0061  14  CG    LYS D   66    H                         CA    LYS D   65    H 
+HB_0061  15  CD    LYS D   66    H                         CA    LYS D   65    H 
+HB_0061  16  CB    VAL D   67    H                         CA    LYS D   65    H 
+HB_0061  17  CG2   VAL D   67    H                         CA    LYS D   65    H 
+HB_0062   1  CB    LYS D   82    H  CA    ASN D   80    H                        
+HB_0062   2  CG    LYS D   82    H  CA    ASN D   80    H                        
+HB_0062   3  CD    LYS D   82    H  CA    ASN D   80    H                        
+HB_0062   4  CB    HIS D   77       CA    ASN D   80    H  CA    HIS D   77      
+HB_0062   5  CB    ASP D   79       CA    ASN D   80    H  CA    HIS D   77      
+HB_0062   6  CB    ASN D   80    H  CA    ASN D   80    H  CA    HIS D   77      
+HB_0062   7  CB    LEU D   81    H  CA    ASN D   80    H  CA    HIS D   77      
+HB_0062   8  CG    LEU D   81    H  CA    ASN D   80    H  CA    HIS D   77      
+HB_0062   9  CD2   LEU D   81    H  CA    ASN D   80    H  CA    HIS D   77      
+HB_0062  10  CB    HIS D   76    H                         CA    HIS D   77      
+HB_0062  11  CB    LEU D   78                              CA    HIS D   77      
+HB_0062  12  CG    LEU D   78                              CA    HIS D   77      
+HB_0062  13  CD2   LEU D   78                              CA    HIS D   77      
+HB_0062  14  CG2   THR D   84    H                         CA    HIS D   77      
+HB_0063   1  CG2   THR D   84    H  CA    THR D   84    H                        
+HB_0063   2  CB    PHE D   85    H  CA    THR D   84    H                        
+HB_0063   3  CG    PHE D   85    H  CA    THR D   84    H                        
+HB_0063   4  CD1   PHE D   85    H  CA    THR D   84    H                        
+HB_0063   5  CD2   PHE D   85    H  CA    THR D   84    H                        
+HB_0063   6  CE1   PHE D   85    H  CA    THR D   84    H                        
+HB_0063   7  CZ    PHE D   85    H  CA    THR D   84    H                        
+HB_0063   8  CB    ALA D   86    H  CA    THR D   84    H                        
+HB_0063   9  CB    HIS D   77       CA    THR D   84    H  CA    ASN D   80    H 
+HB_0063  10  CB    ASN D   80    H  CA    THR D   84    H  CA    ASN D   80    H 
+HB_0063  11  CB    LEU D   81    H  CA    THR D   84    H  CA    ASN D   80    H 
+HB_0063  12  CD2   LEU D   81    H  CA    THR D   84    H  CA    ASN D   80    H 
+HB_0063  13  CB    ASP D   79                              CA    ASN D   80    H 
+HB_0063  14  CG    LEU D   81    H                         CA    ASN D   80    H 
+HB_0063  15  CB    LYS D   82    H                         CA    ASN D   80    H 
+HB_0063  16  CG    LYS D   82    H                         CA    ASN D   80    H 
+HB_0063  17  CD    LYS D   82    H                         CA    ASN D   80    H 
+HB_0064   1  CB    ALA D   87    H  CA    ALA D   86    H                        
+HB_0064   2  CB    LYS D  144    H  CA    ALA D   86    H                        
+HB_0064   3  CB    PHE D   85    H  CA    ALA D   86    H  CA    LYS D   82    H 
+HB_0064   4  CG    PHE D   85    H  CA    ALA D   86    H  CA    LYS D   82    H 
+HB_0064   5  CB    ALA D   86    H  CA    ALA D   86    H  CA    LYS D   82    H 
+HB_0064   6  CB    HIS D  143    H  CA    ALA D   86    H  CA    LYS D   82    H 
+HB_0064   7  CB    ASN D   80    H                         CA    LYS D   82    H 
+HB_0064   8  CB    LEU D   81    H                         CA    LYS D   82    H 
+HB_0064   9  CG    LEU D   81    H                         CA    LYS D   82    H 
+HB_0064  10  CB    LYS D   82    H                         CA    LYS D   82    H 
+HB_0064  11  CG    LYS D   82    H                         CA    LYS D   82    H 
+HB_0064  12  CD    LYS D   82    H                         CA    LYS D   82    H 
+HB_0064  13  CD1   PHE D   85    H                         CA    LYS D   82    H 
+HB_0064  14  CB    ALA D  140    H                         CA    LYS D   82    H 
+HB_0065   1  CB    LYS D   95       CA    ASP D   94    H                        
+HB_0065   2  CG    LYS D   95       CA    ASP D   94    H                        
+HB_0065   3  CB    HIS D   97       CA    ASP D   94    H                        
+HB_0065   4  CG    GLU D   90    H  CA    ASP D   94    H  CA    GLU D   90    H 
+HB_0065   5  CB    CYS D   93    H  CA    ASP D   94    H  CA    GLU D   90    H 
+HB_0065   6  CB    ASP D   94    H  CA    ASP D   94    H  CA    GLU D   90    H 
+HB_0065   7  CB    GLU D   90    H                         CA    GLU D   90    H 
+HB_0065   8  CB    LEU D   91    H                         CA    GLU D   90    H 
+HB_0065   9  CG    LEU D   91    H                         CA    GLU D   90    H 
+HB_0065  10  CD1   LEU D   91    H                         CA    GLU D   90    H 
+HB_0065  11  CB    HIS D   92    H                         CA    GLU D   90    H 
+HB_0065  12  CB    LYS D  144    H                         CA    GLU D   90    H 
+HB_0066   1  CB    LYS D  120    H  CA    ASP D  121    H                        
+HB_0066   2  CG    LYS D  120    H  CA    ASP D  121    H                        
+HB_0066   3  CG2   THR D  123    H  CA    ASP D  121    H                        
+HB_0066   4  CD2   LEU D  126    H  CA    ASP D  121    H                        
+HB_0066   5  CD1   LEU D   14    H  CA    ASP D  121    H  CA    PHE D  118    H 
+HB_0066   6  CB    PHE D  118    H  CA    ASP D  121    H  CA    PHE D  118    H 
+HB_0066   7  CG    PHE D  118    H  CA    ASP D  121    H  CA    PHE D  118    H 
+HB_0066   8  CD2   PHE D  118    H  CA    ASP D  121    H  CA    PHE D  118    H 
+HB_0066   9  CB    ASP D  121    H  CA    ASP D  121    H  CA    PHE D  118    H 
+HB_0066  10  CB    PHE D  122    H  CA    ASP D  121    H  CA    PHE D  118    H 
+HB_0066  11  CG    PHE D  122    H  CA    ASP D  121    H  CA    PHE D  118    H 
+HB_0066  12  CD1   PHE D  122    H  CA    ASP D  121    H  CA    PHE D  118    H 
+HB_0066  13  CB    HIS D  117    H                         CA    PHE D  118    H 
+HB_0066  14  CD1   PHE D  118    H                         CA    PHE D  118    H 
+HB_0066  15  CE1   PHE D  118    H                         CA    PHE D  118    H 
+HB_0066  16  CE2   PHE D  118    H                         CA    PHE D  118    H 
+HB_0066  17  CZ    PHE D  118    H                         CA    PHE D  118    H 
+HB_0067   1  CB    ALA D  140    H  CA    ASN D  139    H                        
+HB_0067   2  CB    LEU D  141    H  CA    ASN D  139    H                        
+HB_0067   3  CB    ALA D  142    H  CA    ASN D  139    H                        
+HB_0067   4  CB    HIS D  143    H  CA    ASN D  139    H                        
+HB_0067   5  CB    ALA D  138    H  CA    ASN D  139    H  CA    ALA D  135    H 
+HB_0067   6  CB    ASN D  139    H  CA    ASN D  139    H  CA    ALA D  135    H 
+HB_0067   7  CB    GLN D  131    H                         CA    ALA D  135    H 
+HB_0067   8  CB    LYS D  132    H                         CA    ALA D  135    H 
+HB_0067   9  CB    VAL D  134    H                         CA    ALA D  135    H 
+HB_0067  10  CG1   VAL D  134    H                         CA    ALA D  135    H 
+HB_0067  11  CG2   VAL D  134    H                         CA    ALA D  135    H 
+HB_0067  12  CB    ALA D  135    H                         CA    ALA D  135    H 
+HB_0067  13  CB    VAL D  137    H                         CA    ALA D  135    H 
+HB_0068   1  CB    LYS D  144    H  CA    HIS D  143    H                        
+HB_0068   2  CB    TYR D  145       CA    HIS D  143    H                        
+HB_0068   3  CG    TYR D  145       CA    HIS D  143    H                        
+HB_0068   4  CD1   TYR D  145       CA    HIS D  143    H                        
+HB_0068   5  CE1   TYR D  145       CA    HIS D  143    H                        
+HB_0068   6  CB    ALA D  140    H  CA    HIS D  143    H  CA    ASN D  139    H 
+HB_0068   7  CB    ALA D  142    H  CA    HIS D  143    H  CA    ASN D  139    H 
+HB_0068   8  CB    HIS D  143    H  CA    HIS D  143    H  CA    ASN D  139    H 
+HB_0068   9  CB    ALA D  138    H                         CA    ASN D  139    H 
+HB_0068  10  CB    ASN D  139    H                         CA    ASN D  139    H 
+HB_0068  11  CB    LEU D  141    H                         CA    ASN D  139    H 

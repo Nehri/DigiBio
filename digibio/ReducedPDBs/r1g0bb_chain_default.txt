@@ -1,0 +1,28 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r1g0b
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0016 ALA B    9    CA     N      H      H GLY B    5    CA     O      C      H 2.97 2.15 158.86 146.24 141.96  15   0
+HB_0017 ALA B   10    CA     N      H      H GLU B    6    CA     O      C      H 3.09 2.31 150.94 139.93 133.04  16   0
+HB_0018 ALA B   13    CA     N      H      H ALA B    9    CA     O      C      H 2.98 2.15 160.88 148.19 143.43  17   0
+HB_0019 GLU B   26    CA     N      H      H GLU B   22    CA     O      C      H 3.13 2.30 161.67 144.94 140.39  18   0
+HB_0020 GLY B   46    CA     N      H      H ASP B   43    CA     O      C      H 3.25 2.40 172.02 125.34 125.29  11   0
+HB_0021 GLY B   56    CA     N      H      H GLY B   52    CA     O      C      H 3.09 2.30 152.98 158.59 153.12  11   0
+HB_0022 LYS B   61    CA     N      H      H ASN B   57    CA     O      C      H 3.20 2.38 159.10 149.34 144.84  16   0
+HB_0023 ALA B   62    CA     N      H      H PRO B   58    CA     O      C      H 2.97 2.15 161.89 143.52 139.05  16   0
+HB_0024 GLU B   73    CA     N      H      H HIS B   69    CA     O      C      H 3.00 2.25 144.85 152.71 144.53  18   0
+HB_0025 HIS B   77    CA     N      H      H GLU B   73    CA     O      C      H 2.93 2.36 123.86 146.96 134.05  15   0
+HB_0026 ASN B   80    CA     N      H      H HIS B   77    CA     O      C      H 3.04 2.19 168.08 129.51 127.24  15   0
+HB_0027 THR B   84    CA     N      H      H ASN B   80    CA     O      C      H 2.94 2.10 165.40 156.35 152.63  18   0
+HB_0028 GLU B   90    CA     N      H      H ALA B   86    CA     O      C      H 3.05 2.23 160.03 152.34 149.33  16   0
+HB_0029 ASP B   94    CA     N      H      H GLU B   90    CA     O      C      H 2.71 1.98 142.13 150.59 140.81  15   0
+HB_0030 ASP B  121    CA     N      H      H PHE B  118    CA     O      C      H 3.18 2.39 152.62 133.44 137.19  17   0
+HB_0031 ASN B  139    CA     N      H      H ALA B  135    CA     O      C      H 3.00 2.18 160.46 153.88 149.53  12   0
+HB_0032 HIS B  146    CA     N      H      H HIS B  143    CA     O      C      H 3.20 2.38 157.46 123.22 117.50   9   0

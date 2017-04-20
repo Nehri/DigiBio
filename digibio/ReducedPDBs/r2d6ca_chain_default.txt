@@ -1,0 +1,22 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r2d6c
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0001 GLN A    8    CA     N      H      H GLU A    4    CA     O      C      H 2.90 2.19 139.44 143.03 133.65  17   0
+HB_0002 SER A   35    CA     N      H      H ARG A   31    CA     O      C      H 3.18 2.33 169.19 144.44 141.58  17   0
+HB_0003 ALA A   57    CA     N      H      H ALA A   53    CA     O      C      H 3.04 2.38 134.53 151.48 142.59  11   0
+HB_0004 LYS A   63    CA     N      H      H GLU A   59    CA     O      C      H 2.98 2.17 157.08 157.81 152.48  14   0
+HB_0005 THR A   67    CA     N      H      H LYS A   63    CA     O      C      H 3.17 2.42 146.24 148.98 141.36  18   0
+HB_0006 HIS A   81    CA     N      H        LYS A   78    CA     O      C        3.11 2.27 164.93 119.85 122.80  11   0
+HB_0007 SER A   92    CA     N      H      H PRO A   88    CA     O      C      H 2.95 2.12 161.17 159.69 159.82  17   0
+HB_0008 HIS A  113    CA     N      H      H GLU A  109    CA     O      C      H 2.97 2.11 172.84 154.54 152.50  18   0
+HB_0009 SER A  117    CA     N      H      H HIS A  113    CA     O      C      H 3.22 2.44 150.27 144.53 138.75  16   0
+HB_0010 ALA A  144    CA     N      H      H LYS A  140    CA     O      C      H 3.15 2.37 151.48 141.92 135.69  17   0
+HB_0011 GLU A  148    CA     N      H      H ALA A  144    CA     O      C      H 3.19 2.45 145.42 145.03 136.63  14   0

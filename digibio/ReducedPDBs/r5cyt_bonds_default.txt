@@ -1,0 +1,19 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r5cyt
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0001 GLN R   12    CA     N      H      H LYS R    8    CA     O      C      H 2.93 2.08 167.31 161.52 157.91  17   0
+HB_0002 VAL R   28    CA     N      H        CYS R   17    CA     O      C        3.16 2.34 158.92 117.95 120.83  12   0
+HB_0003 GLY R   29    CA     N      H        CYS R   17    CA     O      C        2.71 1.92 152.18 148.95 140.54  18   0
+HB_0004 GLY R   24    CA     N      H        GLU R   21    CA     O      C        2.87 2.04 161.09 128.64 130.79  17   0
+HB_0005 LYS R   53    CA     N      H      H THR R   49    CA     O      C      H 3.03 2.18 168.81 154.31 152.17  15   0
+HB_0006 SER R   54    CA     N      H      H ASP R   50    CA     O      C      H 2.88 2.19 137.13 150.70 142.26  10   0
+HB_0007 ASP R   93    CA     N      H      H GLY R   89    CA     O      C      H 2.99 2.19 155.75 151.22 146.48  18   0
+HB_0008 SER R  100    CA     N      H      H ALA R   96    CA     O      C      H 3.19 2.44 146.33 147.36 139.94  17   0

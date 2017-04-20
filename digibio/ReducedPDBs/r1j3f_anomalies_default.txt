@@ -1,0 +1,7 @@
+WRAPPA OUTPUT: ANOMALIES
+PDB NAME:      r1j3f
+DATE:          2016/05/22
+
+
+
+***No anomalies found***

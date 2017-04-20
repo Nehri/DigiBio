@@ -1,0 +1,62 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r4pnj
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0001 HIS A   24    CA     N      H      H ASP A   20    CA     O      C      H 3.19 2.33 171.90 162.91 161.76  18   0
+HB_0002 SER A   35    CA     N      H      H ARG A   31    CA     O      C      H 2.91 2.07 164.36 157.32 154.58  16   0
+HB_0003 ALA A   57    CA     N      H   A  H ALA A   53    CA     O      C      H 3.08 2.37 140.68 154.16 145.98  16   6
+HB_0004 ALA A   57    CA     N      H   B  H ALA A   53    CA     O      C      H 3.08 2.33 145.12 154.16 146.87  16   6
+HB_0005 LYS A   63    CA  A  N   A  H   A  H GLU A   59    CA     O      C      H 2.88 2.04 163.75 153.61 150.15  18   8
+HB_0006 LYS A   63    CA  B  N   A  H   A  H GLU A   59    CA     O      C      H 2.88 2.04 163.75 153.61 150.15  18   8
+HB_0007 LYS A   63    CA  A  N   A  H   B  H GLU A   59    CA     O      C      H 2.88 2.09 156.17 153.61 148.92  18   8
+HB_0008 LYS A   63    CA  B  N   A  H   B  H GLU A   59    CA     O      C      H 2.88 2.09 156.17 153.61 148.92  18   8
+HB_0009 LYS A   63    CA  A  N   B  H   A  H GLU A   59    CA     O      C      H 2.90 2.04 165.25 153.41 150.15  18   8
+HB_0010 LYS A   63    CA  B  N   B  H   A  H GLU A   59    CA     O      C      H 2.90 2.04 165.25 153.41 150.15  18   8
+HB_0011 LYS A   63    CA  A  N   B  H   B  H GLU A   59    CA     O      C      H 2.90 2.09 157.84 153.41 148.92  18   8
+HB_0012 LYS A   63    CA  B  N   B  H   B  H GLU A   59    CA     O      C      H 2.90 2.09 157.84 153.41 148.92  18   8
+HB_0013 THR A   70    CA     N      H      H VAL A   66    CA     O      C      H 2.89 2.08 156.06 156.10 150.86  18   1
+HB_0014 ALA A   71    CA     N      H      H THR A   67    CA     O      C      H 3.06 2.22 165.88 149.59 146.72  17   0
+HB_0015 HIS A   81    CA     N      H        LYS A   78    CA     O      C      H 3.00 2.15 170.53 118.88 118.39  13   3
+HB_0016 SER A   92    CA     N      H      H PRO A   88    CA     O      C      H 2.99 2.14 170.08 152.56 152.11  17   4
+HB_0017 LYS A   96    CA     N      H      H SER A   92    CA     O      C      H 2.97 2.24 142.29 133.09 122.98  12   0
+HB_0018 HIS A   97    CA     N      H        SER A   92    CA     O      C      H 2.83 1.99 164.48 166.17 161.94  16   0
+HB_0019 SER A  117    CA  A  N   A  H   A  H HIS A  113    CA  A  O   A  C   A  H 3.01 2.22 153.35 149.02 143.55  18   5
+HB_0020 SER A  117    CA  A  N   A  H   A  H HIS A  113    CA  B  O   A  C   A  H 3.01 2.22 153.35 149.02 143.55  18   5
+HB_0021 SER A  117    CA  A  N   A  H   B  H HIS A  113    CA  A  O   A  C   A  H 3.01 2.28 146.86 149.02 143.14  18   5
+HB_0022 SER A  117    CA  A  N   A  H   B  H HIS A  113    CA  B  O   A  C   A  H 3.01 2.28 146.86 149.02 143.14  18   5
+HB_0023 SER A  117    CA  A  N   B  H   A  H HIS A  113    CA  A  O   A  C   A  H 3.05 2.22 154.68 148.98 143.55  18   5
+HB_0024 SER A  117    CA  A  N   B  H   A  H HIS A  113    CA  B  O   A  C   A  H 3.05 2.22 154.68 148.98 143.55  18   5
+HB_0025 SER A  117    CA  A  N   B  H   B  H HIS A  113    CA  A  O   A  C   A  H 3.05 2.28 148.46 148.98 143.14  18   5
+HB_0026 SER A  117    CA  A  N   B  H   B  H HIS A  113    CA  B  O   A  C   A  H 3.05 2.28 148.46 148.98 143.14  18   5
+HB_0027 SER A  117    CA  A  N   A  H   A  H HIS A  113    CA  A  O   A  C   B  H 3.01 2.22 153.35 150.47 144.91  18   5
+HB_0028 SER A  117    CA  A  N   A  H   A  H HIS A  113    CA  B  O   A  C   B  H 3.01 2.22 153.35 150.47 144.91  18   5
+HB_0029 SER A  117    CA  A  N   A  H   B  H HIS A  113    CA  A  O   A  C   B  H 3.01 2.28 146.86 150.47 144.47  18   5
+HB_0030 SER A  117    CA  A  N   A  H   B  H HIS A  113    CA  B  O   A  C   B  H 3.01 2.28 146.86 150.47 144.47  18   5
+HB_0031 SER A  117    CA  A  N   B  H   A  H HIS A  113    CA  A  O   A  C   B  H 3.05 2.22 154.68 150.42 144.91  18   5
+HB_0032 SER A  117    CA  A  N   B  H   A  H HIS A  113    CA  B  O   A  C   B  H 3.05 2.22 154.68 150.42 144.91  18   5
+HB_0033 SER A  117    CA  A  N   B  H   B  H HIS A  113    CA  A  O   A  C   B  H 3.05 2.28 148.46 150.42 144.47  18   5
+HB_0034 SER A  117    CA  A  N   B  H   B  H HIS A  113    CA  B  O   A  C   B  H 3.05 2.28 148.46 150.42 144.47  18   5
+HB_0035 SER A  117    CA  A  N   A  H   A  H HIS A  113    CA  A  O   B  C   A  H 3.02 2.23 153.02 148.76 143.11  18   5
+HB_0036 SER A  117    CA  A  N   A  H   A  H HIS A  113    CA  B  O   B  C   A  H 3.02 2.23 153.02 148.76 143.11  18   5
+HB_0037 SER A  117    CA  A  N   A  H   B  H HIS A  113    CA  A  O   B  C   A  H 3.02 2.29 146.51 148.76 142.66  18   5
+HB_0038 SER A  117    CA  A  N   A  H   B  H HIS A  113    CA  B  O   B  C   A  H 3.02 2.29 146.51 148.76 142.66  18   5
+HB_0039 SER A  117    CA  A  N   B  H   A  H HIS A  113    CA  A  O   B  C   A  H 3.06 2.23 154.36 148.71 143.11  18   5
+HB_0040 SER A  117    CA  A  N   B  H   A  H HIS A  113    CA  B  O   B  C   A  H 3.06 2.23 154.36 148.71 143.11  18   5
+HB_0041 SER A  117    CA  A  N   B  H   B  H HIS A  113    CA  A  O   B  C   A  H 3.06 2.29 148.11 148.71 142.66  18   5
+HB_0042 SER A  117    CA  A  N   B  H   B  H HIS A  113    CA  B  O   B  C   A  H 3.06 2.29 148.11 148.71 142.66  18   5
+HB_0043 SER A  117    CA  A  N   A  H   A  H HIS A  113    CA  A  O   B  C   B  H 3.02 2.23 153.02 150.20 144.46  18   5
+HB_0044 SER A  117    CA  A  N   A  H   A  H HIS A  113    CA  B  O   B  C   B  H 3.02 2.23 153.02 150.20 144.46  18   5
+HB_0045 SER A  117    CA  A  N   A  H   B  H HIS A  113    CA  A  O   B  C   B  H 3.02 2.29 146.51 150.20 143.97  18   5
+HB_0046 SER A  117    CA  A  N   A  H   B  H HIS A  113    CA  B  O   B  C   B  H 3.02 2.29 146.51 150.20 143.97  18   5
+HB_0047 SER A  117    CA  A  N   B  H   A  H HIS A  113    CA  A  O   B  C   B  H 3.06 2.23 154.36 150.14 144.46  18   5
+HB_0048 SER A  117    CA  A  N   B  H   A  H HIS A  113    CA  B  O   B  C   B  H 3.06 2.23 154.36 150.14 144.46  18   5
+HB_0049 SER A  117    CA  A  N   B  H   B  H HIS A  113    CA  A  O   B  C   B  H 3.06 2.29 148.11 150.14 143.97  18   5
+HB_0050 SER A  117    CA  A  N   B  H   B  H HIS A  113    CA  B  O   B  C   B  H 3.06 2.29 148.11 150.14 143.97  18   5
+HB_0051 GLY A  129    CA     N      H      H ALA A  125    CA     O      C      H 2.91 2.09 158.10 155.38 150.48  10   2

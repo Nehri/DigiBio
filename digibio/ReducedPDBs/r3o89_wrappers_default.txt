@@ -1,0 +1,266 @@
+WRAPPA OUTPUT: WRAPPERS
+PDB NAME:      r3o89
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------WRAPPER---------- ---------DDS---------- ---------ADS---------- 
+     ID   #  W   * Res C  Seq I SS  DSC * Res C  Seq I SS  DSC * Res C  Seq I SS 
+--------------------------------------------------------------------------------
+HB_0001   1  CB    ASP A 2020    H  CA    ALA A 2019                             
+HB_0001   2  CB    GLU A 2018    H  CA    ALA A 2019       CA    LYS A 2016    H 
+HB_0001   3  CG    GLU A 2018    H  CA    ALA A 2019       CA    LYS A 2016    H 
+HB_0001   4  CB    ALA A 2019       CA    ALA A 2019       CA    LYS A 2016    H 
+HB_0001   5  CB    VAL A 2013    H                         CA    LYS A 2016    H 
+HB_0001   6  CG2   VAL A 2013    H                         CA    LYS A 2016    H 
+HB_0001   7  CB    ALA A 2015    H                         CA    LYS A 2016    H 
+HB_0001   8  CB    LYS A 2016    H                         CA    LYS A 2016    H 
+HB_0001   9  CG    LYS A 2016    H                         CA    LYS A 2016    H 
+HB_0001  10  CD    LYS A 2016    H                         CA    LYS A 2016    H 
+HB_0001  11  CB    VAL A 2017    H                         CA    LYS A 2016    H 
+HB_0001  12  CG1   VAL A 2017    H                         CA    LYS A 2016    H 
+HB_0001  13  CG2   VAL A 2017    H                         CA    LYS A 2016    H 
+HB_0002   1  CB    HIS A 2036    H  CA    SER A 2035    H                        
+HB_0002   2  CG    PRO A 2037    H  CA    SER A 2035    H                        
+HB_0002   3  CG    ARG A 2031    H  CA    SER A 2035    H  CA    ARG A 2031    H 
+HB_0002   4  CB    LYS A 2034    H  CA    SER A 2035    H  CA    ARG A 2031    H 
+HB_0002   5  CG    LYS A 2034    H  CA    SER A 2035    H  CA    ARG A 2031    H 
+HB_0002   6  CB    ILE A 2030    H                         CA    ARG A 2031    H 
+HB_0002   7  CG1   ILE A 2030    H                         CA    ARG A 2031    H 
+HB_0002   8  CG2   ILE A 2030    H                         CA    ARG A 2031    H 
+HB_0002   9  CB    ARG A 2031    H                         CA    ARG A 2031    H 
+HB_0002  10  CB    LEU A 2032    H                         CA    ARG A 2031    H 
+HB_0002  11  CG    LEU A 2032    H                         CA    ARG A 2031    H 
+HB_0002  12  CB    PHE A 2033    H                         CA    ARG A 2031    H 
+HB_0002  13  CB    ALA A 2110    H                         CA    ARG A 2031    H 
+HB_0002  14  CG2   VAL A 2114    H                         CA    ARG A 2031    H 
+HB_0003   1  CD    LYS A 2056    H  CA    ALA A 2057    H                        
+HB_0003   2  CB    GLU A 2054    H  CA    ALA A 2057    H  CA    ALA A 2053    H 
+HB_0003   3  CB    LYS A 2056    H  CA    ALA A 2057    H  CA    ALA A 2053    H 
+HB_0003   4  CG    LYS A 2056    H  CA    ALA A 2057    H  CA    ALA A 2053    H 
+HB_0003   5  CB    ALA A 2057    H  CA    ALA A 2057    H  CA    ALA A 2053    H 
+HB_0003   6  CG2   THR A 2051    H                         CA    ALA A 2053    H 
+HB_0003   7  CB    GLU A 2052    H                         CA    ALA A 2053    H 
+HB_0003   8  CG    GLU A 2052    H                         CA    ALA A 2053    H 
+HB_0003   9  CB    ALA A 2053    H                         CA    ALA A 2053    H 
+HB_0003  10  CG    GLU A 2054    H                         CA    ALA A 2053    H 
+HB_0003  11  CB    MET A 2055    H                         CA    ALA A 2053    H 
+HB_0004   1  CB    HIS A 2064    H  CA    LYS A 2063    H                        
+HB_0004   2  CG2   THR A 2065    H  CA    LYS A 2063    H                        
+HB_0004   3  CB    VAL A 2066    H  CA    LYS A 2063    H                        
+HB_0004   4  CG1   VAL A 2066    H  CA    LYS A 2063    H                        
+HB_0004   5  CG2   VAL A 2066    H  CA    LYS A 2063    H                        
+HB_0004   6  CG    GLU A 2059    H  CA    LYS A 2063    H  CA    GLU A 2059    H 
+HB_0004   7  CB    LYS A 2062    H  CA    LYS A 2063    H  CA    GLU A 2059    H 
+HB_0004   8  CG    LYS A 2062    H  CA    LYS A 2063    H  CA    GLU A 2059    H 
+HB_0004   9  CD    LYS A 2062    H  CA    LYS A 2063    H  CA    GLU A 2059    H 
+HB_0004  10  CB    LYS A 2063    H  CA    LYS A 2063    H  CA    GLU A 2059    H 
+HB_0004  11  CG    LYS A 2063    H  CA    LYS A 2063    H  CA    GLU A 2059    H 
+HB_0004  12  CD    LYS A 2063    H  CA    LYS A 2063    H  CA    GLU A 2059    H 
+HB_0004  13  CB    GLU A 2059    H                         CA    GLU A 2059    H 
+HB_0004  14  CB    ASP A 2060    H                         CA    GLU A 2059    H 
+HB_0004  15  CB    LEU A 2061    H                         CA    GLU A 2059    H 
+HB_0005   1  CB    LEU A 2072    H  CA    ALA A 2071    H                        
+HB_0005   2  CG    LEU A 2072    H  CA    ALA A 2071    H                        
+HB_0005   3  CB    ALA A 2074    H  CA    ALA A 2071    H                        
+HB_0005   4  CB    ILE A 2075    H  CA    ALA A 2071    H                        
+HB_0005   5  CG1   ILE A 2075    H  CA    ALA A 2071    H                        
+HB_0005   6  CD1   ILE A 2075    H  CA    ALA A 2071    H                        
+HB_0005   7  CG2   THR A 2070    H  CA    ALA A 2071    H  CA    THR A 2067    H 
+HB_0005   8  CB    ALA A 2071    H  CA    ALA A 2071    H  CA    THR A 2067    H 
+HB_0005   9  CB    HIS A 2064    H                         CA    THR A 2067    H 
+HB_0005  10  CB    VAL A 2066    H                         CA    THR A 2067    H 
+HB_0005  11  CG1   VAL A 2066    H                         CA    THR A 2067    H 
+HB_0005  12  CG2   VAL A 2066    H                         CA    THR A 2067    H 
+HB_0005  13  CG2   THR A 2067    H                         CA    THR A 2067    H 
+HB_0005  14  CB    VAL A 2068    H                         CA    THR A 2067    H 
+HB_0005  15  CG1   VAL A 2068    H                         CA    THR A 2067    H 
+HB_0005  16  CG2   VAL A 2068    H                         CA    THR A 2067    H 
+HB_0005  17  CB    LEU A 2069    H                         CA    THR A 2067    H 
+HB_0006   1  CB    GLU A 2083    H  CA    HIS A 2081                             
+HB_0006   2  CB    LYS A 2078    H  CA    HIS A 2081       CA    LYS A 2078    H 
+HB_0006   3  CG    LYS A 2078    H  CA    HIS A 2081       CA    LYS A 2078    H 
+HB_0006   4  CD    LYS A 2078    H  CA    HIS A 2081       CA    LYS A 2078    H 
+HB_0006   5  CB    LYS A 2079       CA    HIS A 2081       CA    LYS A 2078    H 
+HB_0006   6  CB    HIS A 2081       CA    HIS A 2081       CA    LYS A 2078    H 
+HB_0006   7  CB    HIS A 2082    H  CA    HIS A 2081       CA    LYS A 2078    H 
+HB_0006   8  CB    LYS A 2077    H                         CA    LYS A 2078    H 
+HB_0006   9  CG    LYS A 2077    H                         CA    LYS A 2078    H 
+HB_0006  10  CG    LYS A 2079                              CA    LYS A 2078    H 
+HB_0006  11  CD    LYS A 2079                              CA    LYS A 2078    H 
+HB_0007   1  CB    HIS A 2093    H  CA    SER A 2092    H                        
+HB_0007   2  CB    ALA A 2094    H  CA    SER A 2092    H                        
+HB_0007   3  CB    LYS A 2096    H  CA    SER A 2092    H                        
+HB_0007   4  CG    LYS A 2096    H  CA    SER A 2092    H                        
+HB_0007   5  CD    LYS A 2096    H  CA    SER A 2092    H                        
+HB_0007   6  CB    HIS A 2097       CA    SER A 2092    H                        
+HB_0007   7  CB    GLN A 2091    H  CA    SER A 2092    H  CA    PRO A 2088    H 
+HB_0007   8  CG    GLN A 2091    H  CA    SER A 2092    H  CA    PRO A 2088    H 
+HB_0007   9  CB    LYS A 2087    H                         CA    PRO A 2088    H 
+HB_0007  10  CG    LYS A 2087    H                         CA    PRO A 2088    H 
+HB_0007  11  CB    PRO A 2088    H                         CA    PRO A 2088    H 
+HB_0007  12  CG    PRO A 2088    H                         CA    PRO A 2088    H 
+HB_0007  13  CB    LEU A 2089    H                         CA    PRO A 2088    H 
+HB_0007  14  CG    LEU A 2089    H                         CA    PRO A 2088    H 
+HB_0007  15  CB    ALA A 2090    H                         CA    PRO A 2088    H 
+HB_0008   1  CG2   THR A 2095    H  CA    LYS A 2096    H                        
+HB_0008   2  CB    LYS A 2098       CA    LYS A 2096    H                        
+HB_0008   3  CG    LYS A 2098       CA    LYS A 2096    H                        
+HB_0008   4  CD    LYS A 2098       CA    LYS A 2096    H                        
+HB_0008   5  CB    LYS A 2096    H  CA    LYS A 2096    H  CA    SER A 2092    H 
+HB_0008   6  CG    LYS A 2096    H  CA    LYS A 2096    H  CA    SER A 2092    H 
+HB_0008   7  CD    LYS A 2096    H  CA    LYS A 2096    H  CA    SER A 2092    H 
+HB_0008   8  CB    HIS A 2097       CA    LYS A 2096    H  CA    SER A 2092    H 
+HB_0008   9  CB    GLN A 2091    H                         CA    SER A 2092    H 
+HB_0008  10  CG    GLN A 2091    H                         CA    SER A 2092    H 
+HB_0008  11  CB    HIS A 2093    H                         CA    SER A 2092    H 
+HB_0008  12  CB    ALA A 2094    H                         CA    SER A 2092    H 
+HB_0009   1  CB    LYS A 2042    H  CA    HIS A 2097                             
+HB_0009   2  CD    LYS A 2042    H  CA    HIS A 2097                             
+HB_0009   3  CB    LYS A 2098       CA    HIS A 2097                             
+HB_0009   4  CG    LYS A 2098       CA    HIS A 2097                             
+HB_0009   5  CD    LYS A 2098       CA    HIS A 2097                             
+HB_0009   6  CB    ILE A 2099       CA    HIS A 2097                             
+HB_0009   7  CG1   ILE A 2099       CA    HIS A 2097                             
+HB_0009   8  CD1   ILE A 2099       CA    HIS A 2097                             
+HB_0009   9  CB    HIS A 2093    H  CA    HIS A 2097       CA    SER A 2092    H 
+HB_0009  10  CB    LYS A 2096    H  CA    HIS A 2097       CA    SER A 2092    H 
+HB_0009  11  CG    LYS A 2096    H  CA    HIS A 2097       CA    SER A 2092    H 
+HB_0009  12  CD    LYS A 2096    H  CA    HIS A 2097       CA    SER A 2092    H 
+HB_0009  13  CB    HIS A 2097       CA    HIS A 2097       CA    SER A 2092    H 
+HB_0009  14  CB    GLN A 2091    H                         CA    SER A 2092    H 
+HB_0009  15  CG    GLN A 2091    H                         CA    SER A 2092    H 
+HB_0009  16  CB    ALA A 2094    H                         CA    SER A 2092    H 
+HB_0010   1  CG    ARG A 2031    H  CA    HIS A 2113    H                        
+HB_0010   2  CB    VAL A 2114    H  CA    HIS A 2113    H                        
+HB_0010   3  CG1   VAL A 2114    H  CA    HIS A 2113    H                        
+HB_0010   4  CG2   VAL A 2114    H  CA    HIS A 2113    H                        
+HB_0010   5  CB    LEU A 2115    H  CA    HIS A 2113    H                        
+HB_0010   6  CB    HIS A 2116    H  CA    HIS A 2113    H                        
+HB_0010   7  CE2   PHE A 2123       CA    HIS A 2113    H                        
+HB_0010   8  CB    ALA A 2110    H  CA    HIS A 2113    H  CA    GLU A 2109    H 
+HB_0010   9  CB    ILE A 2112    H  CA    HIS A 2113    H  CA    GLU A 2109    H 
+HB_0010  10  CG1   ILE A 2112    H  CA    HIS A 2113    H  CA    GLU A 2109    H 
+HB_0010  11  CG2   ILE A 2112    H  CA    HIS A 2113    H  CA    GLU A 2109    H 
+HB_0010  12  CB    HIS A 2113    H  CA    HIS A 2113    H  CA    GLU A 2109    H 
+HB_0010  13  CB    PHE A 2106    H                         CA    GLU A 2109    H 
+HB_0010  14  CB    GLU A 2109    H                         CA    GLU A 2109    H 
+HB_0010  15  CG    GLU A 2109    H                         CA    GLU A 2109    H 
+HB_0010  16  CB    ILE A 2111    H                         CA    GLU A 2109    H 
+HB_0010  17  CD1   ILE A 2112    H                         CA    GLU A 2109    H 
+HB_0011   1  CB    ARG A 2118    H  CA    SER A 2117    H                        
+HB_0011   2  CG    ARG A 2118    H  CA    SER A 2117    H                        
+HB_0011   3  CG    PRO A 2120       CA    SER A 2117    H                        
+HB_0011   4  CB    VAL A 2114    H  CA    SER A 2117    H  CA    HIS A 2113    H 
+HB_0011   5  CG1   VAL A 2114    H  CA    SER A 2117    H  CA    HIS A 2113    H 
+HB_0011   6  CB    HIS A 2116    H  CA    SER A 2117    H  CA    HIS A 2113    H 
+HB_0011   7  CG    ARG A 2031    H                         CA    HIS A 2113    H 
+HB_0011   8  CB    ALA A 2110    H                         CA    HIS A 2113    H 
+HB_0011   9  CB    ILE A 2112    H                         CA    HIS A 2113    H 
+HB_0011  10  CG1   ILE A 2112    H                         CA    HIS A 2113    H 
+HB_0011  11  CG2   ILE A 2112    H                         CA    HIS A 2113    H 
+HB_0011  12  CB    HIS A 2113    H                         CA    HIS A 2113    H 
+HB_0011  13  CG2   VAL A 2114    H                         CA    HIS A 2113    H 
+HB_0011  14  CB    LEU A 2115    H                         CA    HIS A 2113    H 
+HB_0011  15  CE2   PHE A 2123                              CA    HIS A 2113    H 
+HB_0012   1  CB    HIS A 2119    H  CA    ARG A 2118    H                        
+HB_0012   2  CG    PRO A 2120       CA    ARG A 2118    H                        
+HB_0012   3  CG1   VAL A 2114    H  CA    ARG A 2118    H  CA    VAL A 2114    H 
+HB_0012   4  CB    ARG A 2118    H  CA    ARG A 2118    H  CA    VAL A 2114    H 
+HB_0012   5  CG    ARG A 2118    H  CA    ARG A 2118    H  CA    VAL A 2114    H 
+HB_0012   6  CB    ASP A 2027    H                         CA    VAL A 2114    H 
+HB_0012   7  CB    ILE A 2028    H                         CA    VAL A 2114    H 
+HB_0012   8  CG1   ILE A 2028    H                         CA    VAL A 2114    H 
+HB_0012   9  CD1   ILE A 2028    H                         CA    VAL A 2114    H 
+HB_0012  10  CB    ARG A 2031    H                         CA    VAL A 2114    H 
+HB_0012  11  CG    ARG A 2031    H                         CA    VAL A 2114    H 
+HB_0012  12  CB    HIS A 2113    H                         CA    VAL A 2114    H 
+HB_0012  13  CB    VAL A 2114    H                         CA    VAL A 2114    H 
+HB_0012  14  CG2   VAL A 2114    H                         CA    VAL A 2114    H 
+HB_0012  15  CB    LEU A 2115    H                         CA    VAL A 2114    H 
+HB_0012  16  CG    LEU A 2115    H                         CA    VAL A 2114    H 
+HB_0012  17  CD2   LEU A 2115    H                         CA    VAL A 2114    H 
+HB_0012  18  CB    HIS A 2116    H                         CA    VAL A 2114    H 
+HB_0013   1  CB    HIS A 2012    H  CA    ASP A 2122                             
+HB_0013   2  CB    VAL A 2013    H  CA    ASP A 2122                             
+HB_0013   3  CG1   VAL A 2013    H  CA    ASP A 2122                             
+HB_0013   4  CD1   PHE A 2123       CA    ASP A 2122                             
+HB_0013   5  CB    ALA A 2127    H  CA    ASP A 2122                             
+HB_0013   6  CG2   VAL A 2013    H  CA    ASP A 2122       CA    HIS A 2119    H 
+HB_0013   7  CG    LYS A 2016    H  CA    ASP A 2122       CA    HIS A 2119    H 
+HB_0013   8  CB    HIS A 2119    H  CA    ASP A 2122       CA    HIS A 2119    H 
+HB_0013   9  CB    ASP A 2122       CA    ASP A 2122       CA    HIS A 2119    H 
+HB_0013  10  CB    PHE A 2123       CA    ASP A 2122       CA    HIS A 2119    H 
+HB_0013  11  CG    PHE A 2123       CA    ASP A 2122       CA    HIS A 2119    H 
+HB_0013  12  CB    LYS A 2016    H                         CA    HIS A 2119    H 
+HB_0013  13  CB    LEU A 2115    H                         CA    HIS A 2119    H 
+HB_0013  14  CB    ARG A 2118    H                         CA    HIS A 2119    H 
+HB_0013  15  CG    ARG A 2118    H                         CA    HIS A 2119    H 
+HB_0013  16  CB    PRO A 2120                              CA    HIS A 2119    H 
+HB_0013  17  CG    PRO A 2120                              CA    HIS A 2119    H 
+HB_0013  18  CD2   PHE A 2123                              CA    HIS A 2119    H 
+HB_0014   1  CB    ALA A 2130    H  CA    GLY A 2129    H                        
+HB_0014   2  CB    MET A 2131    H  CA    GLY A 2129    H                        
+HB_0014   3  CB    ASN A 2132    H  CA    GLY A 2129    H                        
+HB_0014   4  CB    LYS A 2133    H  CA    GLY A 2129    H                        
+HB_0014   5  CG    LYS A 2133    H  CA    GLY A 2129    H                        
+HB_0014   6  CD    LYS A 2133    H  CA    GLY A 2129    H                        
+HB_0014   7  CB    ASP A 2126    H  CA    GLY A 2129    H  CA    ALA A 2125    H 
+HB_0014   8  CB    GLN A 2128    H  CA    GLY A 2129    H  CA    ALA A 2125    H 
+HB_0014   9  CG    GLN A 2128    H  CA    GLY A 2129    H  CA    ALA A 2125    H 
+HB_0014  10  CB    ALA A 2125    H                         CA    ALA A 2125    H 
+HB_0014  11  CB    ALA A 2127    H                         CA    ALA A 2125    H 
+HB_0015   1  CB    LEU A 2002       CA    LYS A 2133    H                        
+HB_0015   2  CG    LEU A 2002       CA    LYS A 2133    H                        
+HB_0015   3  CD1   LEU A 2002       CA    LYS A 2133    H                        
+HB_0015   4  CD2   LEU A 2002       CA    LYS A 2133    H                        
+HB_0015   5  CB    ALA A 2134    H  CA    LYS A 2133    H                        
+HB_0015   6  CB    LEU A 2135    H  CA    LYS A 2133    H                        
+HB_0015   7  CB    GLU A 2136    H  CA    LYS A 2133    H                        
+HB_0015   8  CG    GLU A 2136    H  CA    LYS A 2133    H                        
+HB_0015   9  CB    LEU A 2137    H  CA    LYS A 2133    H                        
+HB_0015  10  CB    ALA A 2130    H  CA    LYS A 2133    H  CA    GLY A 2129    H 
+HB_0015  11  CB    ASN A 2132    H  CA    LYS A 2133    H  CA    GLY A 2129    H 
+HB_0015  12  CB    LYS A 2133    H  CA    LYS A 2133    H  CA    GLY A 2129    H 
+HB_0015  13  CG    LYS A 2133    H  CA    LYS A 2133    H  CA    GLY A 2129    H 
+HB_0015  14  CD    LYS A 2133    H  CA    LYS A 2133    H  CA    GLY A 2129    H 
+HB_0015  15  CB    ASP A 2126    H                         CA    GLY A 2129    H 
+HB_0015  16  CB    GLN A 2128    H                         CA    GLY A 2129    H 
+HB_0015  17  CG    GLN A 2128    H                         CA    GLY A 2129    H 
+HB_0015  18  CB    MET A 2131    H                         CA    GLY A 2129    H 
+HB_0016   1  CD1   LEU A 2137    H  CA    LYS A 2140    H                        
+HB_0016   2  CB    ASP A 2141    H  CA    LYS A 2140    H                        
+HB_0016   3  CB    ILE A 2142    H  CA    LYS A 2140    H                        
+HB_0016   4  CB    ALA A 2143    H  CA    LYS A 2140    H                        
+HB_0016   5  CB    ALA A 2144    H  CA    LYS A 2140    H                        
+HB_0016   6  CG    GLU A 2136    H  CA    LYS A 2140    H  CA    GLU A 2136    H 
+HB_0016   7  CB    LEU A 2137    H  CA    LYS A 2140    H  CA    GLU A 2136    H 
+HB_0016   8  CB    ARG A 2139    H  CA    LYS A 2140    H  CA    GLU A 2136    H 
+HB_0016   9  CG    ARG A 2139    H  CA    LYS A 2140    H  CA    GLU A 2136    H 
+HB_0016  10  CB    LYS A 2140    H  CA    LYS A 2140    H  CA    GLU A 2136    H 
+HB_0016  11  CG    LYS A 2140    H  CA    LYS A 2140    H  CA    GLU A 2136    H 
+HB_0016  12  CD    LYS A 2140    H  CA    LYS A 2140    H  CA    GLU A 2136    H 
+HB_0016  13  CB    LYS A 2133    H                         CA    GLU A 2136    H 
+HB_0016  14  CB    LEU A 2135    H                         CA    GLU A 2136    H 
+HB_0016  15  CG    LEU A 2135    H                         CA    GLU A 2136    H 
+HB_0016  16  CB    GLU A 2136    H                         CA    GLU A 2136    H 
+HB_0016  17  CG    LEU A 2137    H                         CA    GLU A 2136    H 
+HB_0016  18  CB    PHE A 2138    H                         CA    GLU A 2136    H 
+HB_0017   1  CB    LEU A 2149    H  CA    GLU A 2148    H                        
+HB_0017   2  CG    LEU A 2149    H  CA    GLU A 2148    H                        
+HB_0017   3  CD1   LEU A 2149    H  CA    GLU A 2148    H                        
+HB_0017   4  CD2   LEU A 2149    H  CA    GLU A 2148    H                        
+HB_0017   5  CB    LYS A 2145    H  CA    GLU A 2148    H  CA    ALA A 2144    H 
+HB_0017   6  CD    LYS A 2145    H  CA    GLU A 2148    H  CA    ALA A 2144    H 
+HB_0017   7  CB    LYS A 2147    H  CA    GLU A 2148    H  CA    ALA A 2144    H 
+HB_0017   8  CG    LYS A 2147    H  CA    GLU A 2148    H  CA    ALA A 2144    H 
+HB_0017   9  CD    LYS A 2147    H  CA    GLU A 2148    H  CA    ALA A 2144    H 
+HB_0017  10  CB    GLU A 2148    H  CA    GLU A 2148    H  CA    ALA A 2144    H 
+HB_0017  11  CG    GLU A 2148    H  CA    GLU A 2148    H  CA    ALA A 2144    H 
+HB_0017  12  CB    ASP A 2141    H                         CA    ALA A 2144    H 
+HB_0017  13  CB    ALA A 2143    H                         CA    ALA A 2144    H 
+HB_0017  14  CB    ALA A 2144    H                         CA    ALA A 2144    H 
+HB_0017  15  CG    LYS A 2145    H                         CA    ALA A 2144    H 
+HB_0017  16  CB    TYR A 2146    H                         CA    ALA A 2144    H 

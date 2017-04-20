@@ -1,0 +1,57 @@
+WRAPPA OUTPUT: BONDS
+PDB NAME:      r1y8h
+DATE:          2016/05/22
+
+
+
+NOTE: All distances are given in Angstroms. All angles are given in degrees.
+
+--BND-- ---------------DONOR---------------- --------------ACCEPTOR-------------- ---DST--- -------ANGLES------- --WRP--
+     ID Res C  Seq I  DSC *  D   *  H   * SS Res C  Seq I  DSC *  A   *  B   * SS   DA   HA    DHA    DAB    HAB   W  **
+------------------------------------------------------------------------------------------------------------------------
+HB_0001 ASN A    9    CA     N      H      H ALA A    5    CA     O      C      H 3.11 2.28 160.15 134.89 130.15  16   0
+HB_0002 ALA A   12    CA     N      H      H THR A    8    CA     O      C      H 3.09 2.25 163.61 153.91 150.01  15   0
+HB_0003 TYR A   24    CA     N      H      H HIS A   20    CA     O      C      H 2.83 2.00 161.85 173.04 167.62  18   0
+HB_0004 SER A   52    CA     N      H      H SER A   49    CA     O      C        3.10 2.26 165.78 122.66 121.58  12   0
+HB_0005 LYS A   56    CA     N      H      H SER A   52    CA     O      C      H 3.29 2.44 169.26 149.19 147.44  13   0
+HB_0006 ASP A   64    CA     N      H      H LYS A   60    CA     O      C      H 2.99 2.13 177.29 167.30 167.71  15   0
+HB_0007 LEU A   68    CA     N      H      H ASP A   64    CA     O      C      H 3.03 2.32 139.71 148.86 139.04  15   0
+HB_0008 ASP A   75    CA     N      H      H HIS A   72    CA     O      C      H 3.24 2.47 150.16 119.29 118.95  13   0
+HB_0009 HIS A   89    CA     N      H      H ASN A   85    CA     O      C      H 2.87 2.10 147.36 132.73 123.65  15   0
+HB_0010 LYS A   90    CA     N      H        ASN A   85    CA     O      C      H 3.13 2.38 144.98 163.94 155.53  17   0
+HB_0011 SER A  107    CA     N      H      H HIS A  103    CA     O      C      H 3.04 2.33 139.00 147.12 137.52  18   0
+HB_0012 ASP A  116    CA     N      H        LEU A  113    CA     O      C      H 2.88 2.12 146.73 134.38 126.49  17   0
+HB_0013 SER A  130    CA     N      H      H ASP A  126    CA     O      C      H 2.99 2.24 145.95 146.01 137.90  14   0
+HB_0014 THR A  134    CA     N      H      H SER A  130    CA     O      C      H 2.94 2.23 139.50 150.20 141.50  11   0
+HB_0015 GLU B   22    CA     N      H      H ASN B   19    CA     O      C      H 3.01 2.22 153.50 159.91 165.89  15   0
+HB_0016 GLY B   46    CA     N      H      H ASP B   43    CA     O      C      H 3.09 2.23 174.15 126.91 125.31  11   0
+HB_0017 GLY B   56    CA     N      H      H GLY B   52    CA     O      C      H 3.33 2.50 161.88 144.47 140.39  11   0
+HB_0018 ALA B   62    CA     N      H      H PRO B   58    CA     O      C      H 2.85 2.01 164.57 156.75 152.64  17   0
+HB_0019 ASN B   80    CA     N      H      H HIS B   77    CA     O      C      H 2.77 1.98 151.49 136.22 130.16  13   0
+HB_0020 THR B   84    CA     N      H      H ASN B   80    CA     O      C      H 3.10 2.43 135.66 150.80 140.79  16   0
+HB_0021 ASP B  121    CA     N      H      H PHE B  118    CA     O      C      H 3.25 2.41 165.43 139.44 139.05  17   0
+HB_0022 ASN B  139    CA     N      H      H ALA B  135    CA     O      C      H 3.12 2.40 142.09 143.24 135.89  13   0
+HB_0023 ASN C    9    CA     N      H      H ALA C    5    CA     O      C      H 3.14 2.31 161.79 133.35 128.86  16   0
+HB_0024 ALA C   12    CA     N      H      H THR C    8    CA     O      C      H 3.04 2.20 164.39 156.70 153.07  15   0
+HB_0025 TYR C   24    CA     N      H      H HIS C   20    CA     O      C      H 2.82 1.98 163.89 173.60 168.85  18   0
+HB_0026 SER C   52    CA     N      H      H SER C   49    CA     O      C        3.08 2.24 166.14 122.89 121.69  12   0
+HB_0027 LYS C   56    CA     N      H      H SER C   52    CA     O      C      H 3.29 2.44 168.92 149.26 147.39  13   0
+HB_0028 ASP C   64    CA     N      H      H LYS C   60    CA     O      C      H 2.97 2.11 177.60 167.29 167.84  15   0
+HB_0029 LEU C   68    CA     N      H      H ASP C   64    CA     O      C      H 3.00 2.30 139.62 147.89 138.04  15   0
+HB_0030 ASP C   75    CA     N      H      H HIS C   72    CA     O      C      H 3.23 2.45 150.25 119.30 118.92  13   0
+HB_0031 HIS C   89    CA     N      H      H ASN C   85    CA     O      C      H 2.96 2.21 145.68 129.12 119.84  15   0
+HB_0032 LYS C   90    CA     N      H        ASN C   85    CA     O      C      H 3.14 2.39 145.45 164.24 155.50  17   0
+HB_0033 SER C  107    CA     N      H      H HIS C  103    CA     O      C      H 3.07 2.38 137.56 146.22 136.37  18   0
+HB_0034 ASP C  116    CA     N      H        LEU C  113    CA     O      C      H 2.90 2.13 147.59 133.99 126.31  17   0
+HB_0035 SER C  130    CA     N      H      H ASP C  126    CA     O      C      H 2.96 2.20 147.71 147.82 140.06  14   0
+HB_0036 THR C  134    CA     N      H      H SER C  130    CA     O      C      H 2.93 2.21 140.85 149.15 140.98  11   0
+HB_0037 GLU D   22    CA     N      H      H ASN D   19    CA     O      C      H 3.00 2.20 155.31 159.56 165.46  15   0
+HB_0038 GLY D   46    CA     N      H      H ASP D   43    CA     O      C      H 3.05 2.19 173.42 127.73 125.88  10   0
+HB_0039 MET D   55    CA     N      H      H PRO D   51    CA     O      C      H 3.22 2.38 165.05 137.81 135.09  18   0
+HB_0040 GLY D   56    CA     N      H      H GLY D   52    CA     O      C      H 3.32 2.49 162.11 145.23 141.17  11   0
+HB_0041 ALA D   62    CA     N      H      H PRO D   58    CA     O      C      H 2.86 2.02 165.58 158.01 154.25  17   0
+HB_0042 ASN D   80    CA     N      H      H HIS D   77    CA     O      C      H 2.75 1.97 150.84 136.77 130.47  12   0
+HB_0043 THR D   84    CA     N      H      H ASN D   80    CA     O      C      H 3.07 2.41 133.98 150.82 140.41  15   0
+HB_0044 ASP D  121    CA     N      H      H PHE D  118    CA     O      C      H 3.27 2.43 164.76 138.55 138.63  16   0
+HB_0045 ALA D  128    CA     N      H      H PRO D  124    CA     O      C      H 3.05 2.32 144.02 144.41 136.91  18   0
+HB_0046 ASN D  139    CA     N      H      H ALA D  135    CA     O      C      H 3.10 2.38 142.28 143.19 136.09  13   0

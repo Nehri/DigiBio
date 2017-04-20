@@ -1,0 +1,6 @@
+Alpha helices counts: 5
+LEU 1 0.2
+ASP 2 0.4
+ASN 1 0.2
+ALA 1 0.2
+3_10 helices counts: 0

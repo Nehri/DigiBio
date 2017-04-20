@@ -1,0 +1,25 @@
+Number of sheets searched through: 6
+Number of distinct acceptors: 17
+
+Total number of hydrogen bonds found: 18
+Number of acceptors with double bonds formed over parallel sheets: 0
+
+Number of acceptors with double bonds formed over antiparallel sheets: 1
+
+388	Orientation: 0	Distances: +[22.0]
+390	Orientation: 0	Distances: +[18.0]
+391	Orientation: 0	Distances: +[2.0]
+392	Orientation: 0	Distances: +[12.0]
+362	Orientation: -1	Distances: +[47.0]
+363	Orientation: -1	Distances: +[74.0]
+364	Orientation: -1	Distances: +[43.0]
+365	Orientation: -1	Distances: +[70.0]
+429	Orientation: 0	Distances: +[3.0]
+432	Orientation: -1	Distances: +[3.0]
+435	Orientation: -1	Distances: +[70.0]
+437	Orientation: -1	Distances: +[2.0, 74.0]
+406	Orientation: -1	Distances: +[14.0]
+407	Orientation: -1	Distances: +[43.0]
+408	Orientation: -1	Distances: +[18.0]
+409	Orientation: -1	Distances: +[47.0]
+410	Orientation: -1	Distances: +[23.0]

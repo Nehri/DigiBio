@@ -1,0 +1,7 @@
+Alpha helices counts: 0
+3_10 helices counts: 5
+ASN 1 0.2
+ILE 1 0.2
+SER 1 0.2
+LEU 1 0.2
+THR 1 0.2

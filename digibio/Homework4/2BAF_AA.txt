@@ -1,0 +1,2 @@
+Alpha helices counts: 0
+3_10 helices counts: 0

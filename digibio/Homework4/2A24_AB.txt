@@ -1,0 +1,45 @@
+Number of sheets searched through: 15
+Number of distinct acceptors: 37
+
+Total number of hydrogen bonds found: 67
+Number of acceptors with double bonds formed over parallel sheets: 0
+
+Number of acceptors with double bonds formed over antiparallel sheets: 19
+
+8	Orientation: -1	Distances: +[97.0]
+9	Orientation: -1	Distances: +[13.0]
+10	Orientation: -1	Distances: +[93.0]
+11	Orientation: -1	Distances: +[8.0, 8.0, 8.0]
+12	Orientation: -1	Distances: +[89.0, 89.0, 89.0]
+13	Orientation: -1	Distances: +[4.0, 3.0]
+17	Orientation: 0	Distances: +[4.0]
+18	Orientation: 0	Distances: +[20.0]
+20	Orientation: 0	Distances: +[9.0]
+22	Orientation: -1	Distances: +[3.0]
+23	Orientation: -1	Distances: +[3.0]
+24	Orientation: -1	Distances: +[3.0]
+25	Orientation: -1	Distances: +[5.0, 4.0, 3.0]
+66	Orientation: -1	Distances: +[21.0]
+68	Orientation: -1	Distances: +[17.0]
+71	Orientation: -1	Distances: +[12.0, 12.0]
+73	Orientation: -1	Distances: +[8.0, 8.0]
+79	Orientation: -1	Distances: +[4.0]
+81	Orientation: -1	Distances: +[2.0, 8.0]
+83	Orientation: -1	Distances: +[12.0]
+84	Orientation: -1	Distances: +[22.0]
+85	Orientation: -1	Distances: +[17.0, 17.0, 17.0]
+86	Orientation: -1	Distances: +[18.0, 18.0, 18.0]
+87	Orientation: -1	Distances: +[21.0, 21.0, 21.0]
+88	Orientation: -1	Distances: +[14.0, 14.0, 14.0]
+90	Orientation: -1	Distances: +[9.0, 9.0, 9.0]
+92	Orientation: -1	Distances: +[4.0, 4.0, 4.0]
+97	Orientation: -1	Distances: +[5.0]
+100	Orientation: -1	Distances: +[10.0]
+101	Orientation: -1	Distances: +[89.0]
+102	Orientation: -1	Distances: +[14.0]
+103	Orientation: -1	Distances: +[93.0, 93.0]
+104	Orientation: -1	Distances: +[18.0, 18.0]
+105	Orientation: -1	Distances: +[97.0, 97.0]
+106	Orientation: -1	Distances: +[22.0, 22.0]
+110	Orientation: -1	Distances: +[28.0, 28.0, 28.0]
+112	Orientation: -1	Distances: +[32.0, 32.0, 32.0]

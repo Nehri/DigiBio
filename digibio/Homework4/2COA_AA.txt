@@ -1,0 +1,13 @@
+Alpha helices counts: 16
+ILE 1 0.0625
+SER 1 0.0625
+GLN 1 0.0625
+MET 1 0.0625
+THR 1 0.0625
+ALA 4 0.25
+GLY 1 0.0625
+LEU 1 0.0625
+ARG 2 0.125
+TRP 1 0.0625
+GLU 2 0.125
+3_10 helices counts: 0

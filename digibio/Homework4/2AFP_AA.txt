@@ -1,0 +1,15 @@
+Alpha helices counts: 20
+CYS 1 0.05
+HIS 1 0.05
+SER 2 0.1
+GLN 2 0.1
+LYS 1 0.05
+THR 2 0.1
+PHE 1 0.05
+ALA 1 0.05
+MET 1 0.05
+ILE 1 0.05
+GLU 3 0.15
+LEU 3 0.15
+ASN 1 0.05
+3_10 helices counts: 0

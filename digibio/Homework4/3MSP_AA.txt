@@ -1,0 +1,6 @@
+Alpha helices counts: 0
+3_10 helices counts: 10
+TRP 2 0.2
+GLU 2 0.2
+PHE 2 0.2
+ARG 4 0.4

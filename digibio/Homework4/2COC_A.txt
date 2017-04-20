@@ -1,0 +1,19 @@
+Number of helices searched through: 1
+Number of distinct acceptors: 10
+
+Total number of hydrogen bonds found: 11
+Number of 3_10 bonds: 1
+Number of alpha bonds: 10
+Number of pi bonds: 0
+Number of acceptors with double bonds formed: 1
+
+97	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+98	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+99	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+100	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+101	+1: O	+2: O	+3: X	+4: X	+5: O	+6: O
+102	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+91	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+93	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+94	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+95	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O

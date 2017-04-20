@@ -1,0 +1,4 @@
+Alpha helices counts: 0
+3_10 helices counts: 3
+THR 1 0.333333333333
+ARG 2 0.666666666667

@@ -1,0 +1,33 @@
+Number of helices searched through: 3
+Number of distinct acceptors: 24
+
+Total number of hydrogen bonds found: 31
+Number of 3_10 bonds: 6
+Number of alpha bonds: 24
+Number of pi bonds: 1
+Number of acceptors with double bonds formed: 7
+
+10	+1: O	+2: O	+3: X	+4: X	+5: O	+6: O
+12	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+13	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+15	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+16	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+17	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+23	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+24	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+26	+1: O	+2: O	+3: X	+4: X	+5: O	+6: O
+27	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+28	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+29	+1: O	+2: O	+3: X	+4: X	+5: O	+6: O
+30	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+31	+1: O	+2: O	+3: O	+4: X	+5: X	+6: O
+37	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+38	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+39	+1: O	+2: O	+3: X	+4: X	+5: O	+6: O
+43	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+44	+1: O	+2: O	+3: X	+4: X	+5: O	+6: O
+45	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+46	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+47	+1: O	+2: O	+3: X	+4: X	+5: O	+6: O
+48	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
+49	+1: O	+2: O	+3: O	+4: X	+5: O	+6: O
